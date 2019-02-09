@@ -17,6 +17,17 @@ project management; strategy; education and training; organizational development
 behavior; transitioning to management; and the socioeconomic impact of engineering and technology
 management.
 
+## Executive Committee - 2019
+
+| Designation           | Name               | Organisation     | E-mail                    | Membership No |
+| --------------------- | ------------------ | ---------------- | ------------------------- | ------------- |
+| Chair                 | Aditya Rao         | Oracle           | a.rao@computer.org        | SM 41392320   |
+| Vice Chair            | P Ravi Shankar     | IIIT, VLABS      | prs7953@gmail.com         | SM 92134939   |
+| Secretary / Treasurer | Ch Venkaiah        | NIT Warangal     | ch.venkaiah@gmail.com     | SM 80031822   |
+| Member                | Sitaram Tadepally  | TCS              | sitaram.Tadepalli@tcs.com | M 93749937    |
+| Member                | Rajagopalan Kannan | BHEL R&D (Retd.) | bhelkannan@gmail.com      | SM 40159914   |
+| Immediate Past Chair  | Jose R             | TCS              | jose.reddypogu@tcs.com    | M 91129303    |
+
 ## Past Events (2017)
 
 | S.No. | Event Details                                                                                                                                                                                                                                                                                                                                                                          |

@@ -2,33 +2,24 @@
 
 ---
 
-**Section Chairman (2018)**: P V S Maruthi Rao  
+**Section Chairman (2019 - 2020)**: N. Venkatesh  
 **Year Started**: 1984  
 **Current Member Strength**: 5800+  
 
-## Executive Committee - 2018
+## Executive Committee - 2019
 
-| Name                           | Designation             | Organization                | Email Address                 |
-| :----------------------------- | :---------------------- | :-------------------------- | :---------------------------- |
-| P V S Maruthi Rao              | Chairman                | Vidcentum R&D               | chairman@ieeehyd.org          |
-| Dr. Amit Kumar                 | Vice Chair              | BioAxis DNA Research Centre | vice-chairman@ieeehyd.org     |
-| N. Venkatesh                   | Secretary               | Redpine Signals             | secretary@ieeehyd.org         |
-| Sreenivas Jasti                | Treasurer               | TCS                         | treasurer@ieeehyd.org         |
-| Dr. Lakshminarayana Sadasivuni | Member                  | CSIR                        | sln@ieee.org                  |
-| Madhav Negi                    | Member                  | DXC                         | m.j.negi@ieee.org             |
-| Arni Swarna Bai                | Member                  | RCI, DRDO                   | swarnabai.arniker.dr@ieee.org |
-| Jose Reddypogu                 | Member                  | TCS                         | jose.reddypogu@tcs.com        |
-| Lakshminarayana Merugu         | Immediate Past Chairman | DLRL, DRDO (Retd.)          | lnmerugu@ieee.org             |
+| Designation          | Name                       | Organisation                   | E-mail                          | Membership No |
+| -------------------- | -------------------------- | ------------------------------ | ------------------------------- | ------------- |
+| Chair                | N. Venkatesh               | Redpine Signals                | nvenkatesh@ieee.org             | SM 41506407   |
+| Vice Chair           | Amit Kumar                 | BioAxis DNA Res Centre (P) Ltd | amitkr@ieee.org                 | SM 90732008   |
+| Secretary            | Bala Prasad Peddigari      | TCS, Hyderabad                 | bala.peddigari@ieee.org         | SM 90578910   |
+| Treasurer            | Nookala Srinivasa Rao      | Mathrusri Engg College         | srinivasa.nookala@gmail.com     | SM 85017068   |
+| Member               | Lakshminarayana Sadasivuni | CSIR (Retd.)                   | slnvizag@gmail.com              | SM 80536573   |
+| Member               | Sreenivas Jasti            | TCS, Hyderabaad                | sreenivas.jasti@ieee.org        | SM 41250549   |
+| Member               | Gopala Krishna Kuppa       | Consultant                     | gopalakrishna.kuppa@hotmail.com | M 80168118    |
+| Immediate Past Chair | PVS Maruthi Rao            | Vidcentum R&D Pvt Ltd.         | pvsmaruthi@ieee.org             | SM 41249040   |
 
-**Slate 2019 will be updated soon**
-
-#### Links
-
-1. **Slate 2018 will be updated soon**
-2. [Pre-Audited Balance Sheet for the year 2017](/user/docs/section/execom/2018/2017IEEEHydBalanceSheetDraft.pdf)
-3. [IEEE Hyderabad Section ByLaws](/user/docs/section/society/Bylaws_IEEEHYD_Jun_2010.pdf)
-
-> NOTE: Only higher garde members (GSM, Associates, Members, Senior Members, Life Members, Life Senior Members, Fellows, Life Fellows) are eligible to attend the AGM.
+[IEEE Hyderabad Section Revised Slate 2019](/user/docs/section/execom/2019/ieeehyd-section-slate-2019.xlsx)
 
 ## Past Chairman's Message (2016, 2017)
 

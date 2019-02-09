@@ -16,18 +16,19 @@ EDS promotes excellence in the field of electron devices by enhancing the qualit
 
 The Joint Chapter of IEEE Circuits and Systems/ Electron Device Societies was established in 2011 in IEEE Hyderabad Section. In a short period of time that chapter has become one of the most active society chapters of Hyderabad section. It has organised three IEEE International Conferences - PrimeAsia 2012, PrimeAsia 2013 and PrimeAsia 2015.  It has established International Linkages with - IEEE CAS Japan, Singapore, Malaysia, Indonesia and Sri Lanka by way of conducting joint workshops and conferences in collaboration with these countries. The chapter aims at bidding for ISCAS and APCCAS to bring them to Hyderabad.
 
-## Executive Committee 2018
+## Executive Committee - 2019
 
-| Name                      | Designation                     | Organization                 | Email Address                     |
-| ------------------------- | :------------------------------ | :--------------------------- | :-------------------------------- |
-| Dr. Arif Sohel            | Chair                           | MJCET                        | arif.sohel@ieee.org               |
-| Mr. A.G.Krishnakanth      | Vice Chair                      | ams Semiconductors Pvt. ltd  | kkavalur@gmail.com                |
-| Dr. P. Chandrasekhar      | Secretary                       | Osmania University           | sekharpaidimarry@gmail.com        |
-| Mr. Joginder Tennikala    | Treasurer                       | Vajra Infratech Pvt. Ltd     | joginder.vajrainfratech@gmail.com |
-| Dr. Kaleem Fatima         | Immediate Past Chair            | MJCET                        | kaleemfatima@gmail.com            |
-| Dr. P. A. Govindacharyulu | Past Chair and Execom Members   | Vasavi                       | pagovindacharyulu@yahoo.com       |
-| Dr. M.B. Srinivas         | Founder Chair and Execom member | BMS Munjal University, Noida | Mandalika.srinivas@gmail.com      |
-| Mr. Chakradhar A          | Member                          | JITS, Warangal               | adupa.chakradhar@gmail.com        |
+| Designation          | Name                 | Organisation                 | E-mail                           | Membership No |
+| -------------------- | -------------------- | ---------------------------- | -------------------------------- | ------------- |
+| Chair                | Arifuddin Sohel      | M J CET, Hyderabad           | arif.sohel@gmail.com             | SM 90871309   |
+| Vice Chair           | A Krishnakant        | Austria Micro Systems        | gowrikrishnakanth.avalur@ams.com | M 80574345    |
+| Secretary            | P. Chandrasekhar     | Head, ECE, OUCE              | sekharpaidimarry@gmail.com       | M 93163567    |
+| Treasurer            | P. Vijaya Sankar Rao | University of Hyderabad      | vijaysp@uohyd.ac.in              | M 80709801    |
+| Member               | P A Govindacharyulu  | Vasavi College of Engg       | pagovindacharyulu@yahoo.com      | SM 40152067   |
+| Member               | Adupa Chakradhar     | Jayamukhi Inst of Tech & Sci | adupa.chakradhar@gmail.com       | M 94139728    |
+| Member               | Aftab Hussain        | IIIT Hyderabad               | aftab.hussain@iiit.ac.in         | M 94153257    |
+| Member               | V Veeresh            | AMS Semiconductors Pvt Ltd   | veeresh.vulligaddala@ams.com     |               |
+| Immediate Past Chair | Kaleem Fatima        | M J CET, Hyderabad           | kaleemfatima@gmail.com           | SM 41424639   |
 
 ## Forthcoming Events
 ---

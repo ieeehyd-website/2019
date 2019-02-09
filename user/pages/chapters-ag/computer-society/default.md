@@ -29,14 +29,18 @@ IEEE Computer Society Chapter under Hyderabad Section is driven with a Technolog
 
 IEEE Computer Society chapter Hyderabad Section has organized more than 20 events this year. We have organized Technical Seminars, Faculty Development Programs, Technology Workshops, Webinars and Student Congress Conference with IEEE Distinguished Speakers and experts coming from Industry, Academia and other professional bodies.  Recently, we have organized a flagship Conference on "Demystifying AI and Blockchain" as IEEE All Hyderabad Section ComputerS Society Student Congress at Vaagdevi College of Engineering, Warangal. This conference was attended by over 300 delegates giving deeper insights into AI and Blockchain with a view on Real-time projects.
 
-## Executive Committee
+## Executive Committee - 2019
 
-|                                                                    | Name & Designation                           | Organization                               | E-mail                     | #Membership |
-| ------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------ | -------------------------- | ----------- |
-| ![chair](/user/img/computer-society/execom/chair.jpg?raw=true)                                | Chairman: Bala Peddigari                     | TCS, Hyderabad                             | bala.peddigari@ieee.org    | SM 90578910 |
-| ![vicechair](/user/img/computer-society/execom/vicechair.jpg?raw=true)                        | Vice Chairman: Dr Vijayalata Reddy Yellasiri | GRIET, Hyderabad                           | vijayalata.ieee@gmail.com  | SM 92115803 |
-| ![secretary](/user/img/computer-society/execom/secretary.jpg?raw=true)                        | Secretary/Treasurer: Dr M A Jabbar           | Vardhaman College of Engineering,Hyderabad | jabbar.meerja@gmail.com    | SM 91119906 |
-| ![Immediate Past Chairman](/user/img/computer-society/execom/immediatepastchair.jpg?raw=true) | Immediate Past Chairman: Kolluru Sudhakar    | Novartis, Hyderabad                        | sudhakar.kolluru@gmail.com |
+| Designation          | Name                     | Organisation               | E-mail                        | Membership No |
+| -------------------- | ------------------------ | -------------------------- | ----------------------------- | ------------- |
+| Chair                | Vidyasagar T             | TCS, Hyderabaad            | sagarvt@ieee.org              | M 93060528    |
+| Vice Chair           | MA Jabbar                | Vardhaman College of Engg. | jabbar.meerja@gmail.com       | SM 91119906   |
+| Secretary            | Rajanikanth Aluvalu      | Vardhaman College of Engg. | rajanikanth.aluvalu@gmail.com | M 94246417    |
+| Treasurer            | Gollapudi Ramesh Chandra | VNR VJIT                   | gollapudi_ramesh@yahoo.com    | M 92770255    |
+| Member               | G. Geeta                 | BITS Pilani, Hyderabad     | geethamaruvada@gmail.com      | M 80050971    |
+| Member               | K. Shyamala              | CSE Dept. OU               | prkshyamala@gmail.com         | M 92801683    |
+| Member               | Pavankumar Allu          | TCS, Hyderabad             | pavankumar.allu@tcs.com       | M 93406905    |
+| Immediate Past Chair | Bala Prasad Peddigari    | TCS, Hyderabaad            | bala.peddigari@ieee.org       | M 93031723    |
 
 ## Flagship Events
 ---

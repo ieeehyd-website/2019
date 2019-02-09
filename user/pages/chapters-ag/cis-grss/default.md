@@ -30,18 +30,16 @@ The Chapter was founded in 2011 by Dr. Amit Kumar. Dr. Amit Kumar chaired the ch
 
 IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. We have organized hands on sessions, technical talks, workshops with experts from premier academic institutions and Industry such as Indian Statistical Institute kolkota, PES University, Mahindra ecole Centrale, Infosys and Microsoft. Recently, we have organized a flagship event titled “John Mc Carthy Memorial Lectures series” which is widely accepted by the CIS community. The first lecture was delivered by Prof. C.A. Murthy, Indian Statistical Institute, Kolkata and the Second lecture was delivered by Prof. Raghu Krishnapuram, Fellow IEEE. Recently, we have started GRSS flagship event titled "Richard Moore Memorial Lectures". The first lecture was delivered Dr. Paul A. Rosen, JPL, NASA. We propose to take forward our experiential learning to organize innovative programs that provide oppurtunities for all classes our memberships in 2018.
 
-## Executive Committee  
+## Executive Committee - 2019
 
-|                                                                              | Name & Designation                                    | Organization        | E-mail                     | #Membership |
-| ---------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------- | -------------------------- | ----------- |
-| ![chair](/user/img/cis-grss/execom/chair.jpg)                                | Chairman: Naresh Kumar M                              | NRSC, Hyderabad     | nareshm@ieee.org           | SM 92101512 |
-| ![vicechair](/user/img/cis-grss/execom/vicechair.jpg)                        | Vice Chairman: KS Rajan                               | IIIT Hyderabad      | rajan@iiit.ac.in           | M 92104718  |
-| ![secretary](/user/img/cis-grss/execom/secretary.jpg)                        | Secretary/Treasurer: T Hitendra Sarma                 | SRIT, Ananthapuramu | t.hitendrasarma@gmail.com  | M 91168866  |
-| ![member](/user/img/cis-grss/execom/Member1.jpg)                             | Webmaster: Mousmi Ajay Chaurasia                      | MJCET, Hyderabad    | mousmi.ksu@ieee.org        | M 91191414  |
-|                                                                              | Chapter Promoter: Mr. P.Laxman Rao                    |                     | polisetty_laxman@yahoo.com | M 40296160  |
-| ![member](/user/img/cis-grss/execom/member3.jpg)                             | Chapter Coordinator: Vijayalaxmi                      | VITS, Hyderabad     | laxmi81181@gmail.com       | M 92478983  |
-| ![member](/user/img/cis-grss/execom/member2.jpg)                             | Assistant Newsletter Editor : Hari Priya Sakethapuram | NRSC, Hyderabad     | priya.s@ieee.org           | M 94573404  |
-| ![Immediate Past Chairman](/user/img/cis-grss/execom/immediatepastchair.jpg) | Immediate Past Chairman: Atul Negi                    | UoH, Hyderabad      | atul.negi@ieee.org         | SM 3803707  |
+| Designation          | Name                  | Organisation        | E-mail                     | Membership No |
+| -------------------- | --------------------- | ------------------- | -------------------------- | ------------- |
+| Chair                | Hitendra Sarma        | SRIT, Ananthapuramu | t.hitendrasarma@gmail.com  | SM 91168866   |
+| Vice Chair           | Vijayalaxmi Biradar   | VITS Hyderabad      | laxmi81181@gmail.com       | SM 92478983   |
+| Secretary/Treasurer  | Mousmi Ajay Chaurasia | MJ CET, Hyderabad   | mousmi.ksu@ieee.org        | M 91191414    |
+| Member               | Tilottama Goswami     | BVRIT, Hyderabad    | tilottama.goswami@ieee.org | M 94984369    |
+| Member               | Kidambi Seshadri      | NRSC                | seshadri.nrsc@gmail.com    | M 94862712    |
+| Immediate Past Chair | Naresh                | NRSC                | nareshm@ieee.org           | SM 92101512   |
 
 ## Student Branch Chapters
 ---

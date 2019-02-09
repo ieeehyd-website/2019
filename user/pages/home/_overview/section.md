@@ -1,6 +1,6 @@
 # Overview
 ---
-**Section Chairman (2018)**: P V S Maruthi Rao  
+**Section Chairman (2019 - 2020)**: N. Venkatesh  
 **Year Started**: 1984  
 **Current Member Strength**: 5800+  
 

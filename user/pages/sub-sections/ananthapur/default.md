@@ -3,6 +3,18 @@
 
 Ananthapur Sub-Section was formed under the Hyderabad Section in 2017.
 
+## Executive Committee - 2019
+
+| Designation | Name            | Organisation                  | E-mail                      | Membership No |
+| ----------- | --------------- | ----------------------------- | --------------------------- | ------------- |
+| Chair       | V.Sankar        | JNTUA                         | sankar.velamury@ieeehyd.org | SM 90339465   |
+| Vice Chair  | Y.V.Siva Reddy  | GPREC, Kurnool                | siva7005@rediffmail.com     | M 91204289    |
+| Secretary   | C.Shoba Bindu   | JNTUACEA                      | shobabindhu@gmail.com       | SM 91242973   |
+| Treasurer   | J.Sreenivasulu  | JNTUACEA                      | eswaram_238@rediffmail.com  | M 92358968    |
+| Member      | B.Eswara Reddy  | Dept. of CSEl, JNTUACEK       | eswar.cse@jntua.ac.in       | M 91242952    |
+| Member      | T.Gowri Manohar | Dept. of EEE, SVUCE, Tirupati | gowrimanohart@gmail.com     | M 90802304    |
+| Member      | D V Ashok Kumar | RGM CET, Nandyal              | rgmdad09@gmail.com          | SM 90591275   |
+
 ## Activities (2017)
 
 ---

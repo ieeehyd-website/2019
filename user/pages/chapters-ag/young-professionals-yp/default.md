@@ -6,6 +6,19 @@
 The IEEE Young Professionals is an international community of innovative members and volunteers. Members of this community are interested in elevating their professional image, expanding their global network, connecting with peers locally and giving back to the community.
 [Read on IEEE...](https://yp.ieee.org)
 
+## Executive Committee - 2019
+
+| Designation          | Name                 | Organisation            | E-mail                       | Membership No |
+| -------------------- | -------------------- | ----------------------- | ---------------------------- | ------------- |
+| Chair                | Saurabh Jain         | CGI Hyderabad           | saurabh.jain.1988@ieee.org   | M 93988396    |
+| Vice Chair           | Fahimuddin Shaik     | AITS Rajampet           | fahimuddin.shaik.in@ieee.org | M 93602052    |
+| Secretary            | Vamsi J Krishna      | TiE Hyderabad           | vamshikrishnaj@ieee.org      | M 92210741    |
+| Treasurer            | Abhay Joshi          | Ineda Systems Pvt. Ltd. | abhay.joshi.in@ieee.org      | M 93126020    |
+| Member               | Sanmithra Muddigonda | TIBCO Software India    | sanmithra.mudigonda@ieee.org | M 92406888    |
+| Member               | Sai Thejeshwar       | ALPES.ai                | ssai.thejeshwar.in@ieee.org  | M 93838604    |
+| Member               | Merugu Suresh        | CMRIT                   | msuresh@ieee.org             | M 93025601    |
+| Immediate Past Chair | Vinit Kumar Gunjan   | CMRIT                   | vinitkumargunjan@gmail.com   | M 92020956    |
+
 ## Upcoming Events
 
 ### One Week Workshop for young faculty on "Data Science" 

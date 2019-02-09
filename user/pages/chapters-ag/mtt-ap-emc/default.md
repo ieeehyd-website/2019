@@ -17,6 +17,19 @@ EMC is the world's largest organization dedicated to the development and distrib
 
 Hyderabad is host to a large pool of RF & Microwave, Antenna and EMI-EMC Professionals, spread across various research laboratories, PSUs and industries in Hyderabad. IEEE MTT/AP/EMC Jt. Chapter was started in 2008 under IEEE Hyderabad Section to further the interest of these common-interest professionals.  This joint chapter has since been highly active and has been very successful to bring professionals from these fields to common platform. The chapter has co-sponsored and held various conferences, workshops and Lecture events. International Microwave and RF Conference, IMaRC-2015 has been a very successful event of MTT/AP/EMC Jt. Chapter, Hyderabad. Every year, the chapter holds various Professional Talks/Lectures/Workshops for the benefit of its members. We invite prominent speakers expert in their respective fields to deliver the talks or conduct workshops or seminars. Dr. K.C. Gupta, Dr. Madhu Gupta, Dr. T K Sarkar, Dr. Vijay Nair, Dr. D C Pandey, Prof. Shiban Koul, Prof. Magdalena Salazaar, Prof. Girish Kumar, Prof. Debatosh Guha and many more are some of the speakers of our chapter. The chapter also holds jointly with Hyderabad Section, flagship annual event, Sir JC Bose Memorial Lecture. This event is regularly held on 30th November of the year. The MTT/AP/EMC Jt. Chapter Hyderabad has received Outstanding Chapter Award for 2014-2015 for its active contribution towards its members.
 
+## Executive Committee - 2019
+
+| Designation          | Name               | Organisation            | E-mail                                 | Membership No |
+| -------------------- | ------------------ | ----------------------- | -------------------------------------- | ------------- |
+| Chair                | Sandeep M Satav    | RCI, DRDO               | sandeepm.satav@rcilab.in               | M 92252287    |
+| Vice Chair           | K Jaya Sankar      | MGIT                    | kottareddyjs@gmail.com                 | SM 40294803   |
+| Secretary            | Runa Kumari        | BITS Pilani, Hyd Campus | runakumari@hyderabad.bits-pilani.ac.in | M 90843160    |
+| Treasurer            | Sachin Jain        | ASL, DRDO               | sachinjian@asl.drdo.in                 | M 93898335    |
+| Member               | Ch. Viswanadham    | BEL, Hyderabad          | vishwanadhamch@bel.co.in               | SM 92687001   |
+| Member               | Prashant Mishra    | RCI, DRDO               | mishra.pk81@gmail.com                  | M 92525515    |
+| Member               | Anantha Bharathi   | ECE Dept. UCE OU        | bharathig8@gmail.com                   | M 90538233    |
+| Immediate Past Chair | Yogesh Kumar Verma | RCI, DRDO               | ykverma@yahoo.com                      | SM 85017068   |
+
 ## Past Events (2017)
 ---
 

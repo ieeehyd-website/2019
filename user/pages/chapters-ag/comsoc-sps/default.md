@@ -35,16 +35,18 @@ advance and disseminate state-of- the-art scientific information and resources; 
 the signal processing community; and provide a venue for people to interact and
 exchange ideas.
 
-## Executive Committe 2018
+## Executive Committe - 2019
 
-| Committee               |                     |                 |                                |             |
-| :---------------------- | :------------------ | :-------------- | :----------------------------- | :---------- |
-| Chairman                | Sanjeev Nimishakavi | Qualcomm        | sanjeevrn@yahoo.com            | M 80250684  |
-| Vice-Chairman           | GVV Sharma          | IIT Hyderabad   | gadepall@gmail.com             | M 90539415  |
-| Secretary               | Abhinav Kumar       | IIT Hyderabad   | Abhinav.kumar.sharma@gmail.com | M 80358261  |
-| Treasurer               | Lalitha Vadlamani   | IIIT Hyderabad  | lalitha.v@iiit.ac.in           | M 92293689  |
-| Member                  | Kasyapa Balemarthy  | OFS Optics      | kbalemarthy@ofsoptics.com      | M 90286547  |
-| Immediate Past Chairman | N. Venkatesh        | Redpine Signals | nvenkatesh@ieee.org            | SM 41506407 |
+| Designation          | Name                | Organisation        | E-mail                         | Membership No |
+| -------------------- | ------------------- | ------------------- | ------------------------------ | ------------- |
+| Chair                | Lalitha Vadlamani   | IIIT Hyderabad      | lalitha.v@iiit.ac.in           | M 92293689    |
+| Vice-Chair           | TSN Murthy          | JNTU, Vijayanagaram | surya_tummala@ieee.org         | M 90399100    |
+| Secretary            | Nitin Sharma        | Qualcomm India      | nitin.sharma.ipr@outlook.com   | M 94571847    |
+| Treasurer            | Abhinav Kumar       | IIT Hyderabad       | Abhinav.kumar.sharma@gmail.com | M 80358261    |
+| Member               | GVV Sharma          | IIT Hyderabad       | gadepall@gmail.com             | M 90539415    |
+| Member               | Prasad Krishnan     | IIIT Hyderabad      | Prasad.Krishnan@iiit.ac.in     | M 90758758    |
+| Member               | John Benedict       | Amazon INC          | john.benedict.007@gmail.com    | M 92226956    |
+| Immediate Past Chair | Sanjeev Nimishakavi | Qualcomm            | sanjeevrn@yahoo.com            | M 80250684    |
 
 
 ## Highlights from 2017
