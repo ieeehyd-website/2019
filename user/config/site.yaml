@@ -13,6 +13,8 @@ navigation:
     - Future Directions
     - News Room
     - Announcements
+    - Execom
+    - Gallery
   - Sub-Sections:
     - Vizag Bay
     - Guntur (Amaravathi)
@@ -41,7 +43,11 @@ navigation:
     - Events
     - Benefits
     - Opportunities
+  - Section Activities:
+    - Section Newsletter
+    - Section Minutes 
+  - Upcoming Events
   - Misc:
     - FAQ
     - Content Instructions
-  - Contact
+    - Contact
