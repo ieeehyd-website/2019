@@ -7,7 +7,11 @@
 |                                                   | Name                                    | Designation    |
 | ------------------------------------------------- | ---------------------------------------------------- | --------------- | 
 | ![chair](/user/img/sac/execom/venkatesh-chair.png?raw=true) | Mr. Venkatesh                    | Chairman |
-| ![chair](/user/img/sac/execom/vidyasagar-chair.png?raw=true) | Mr. Vidya sagar                 | Chairman | 
+| ![chair](/user/img/sac/execom/vidyasagar-chair.png?raw=true) | Mr. Vidya sagar                 | Chairman |
+| ![chair](/user/img/sac/execom/y-rajgopal-chair.png?raw=true) | Mr. Y Rajgopal                 |  Chairman | 
+| ![chair](/user/img/sac/execom/reena-dayal-chair.png?raw=true) | Mrs. Reena Dayal                 |  Chairman |
+| ![chair](/user/img/sac/execom/arif-sohel-chair.png?raw=true) | Mr. Arif Sohel                 |  Chairman |
+| ![chair](/user/img/sac/execom/atul-negi-chair.png?raw=true) | Mr. Atul Negi                 |  Chairman |
 | ![secretary](/user/img/sac/execom/bala-peddigari-secretary.png?raw=true) | Mr. Bala Peddigari  | Secretary | 
 | ![chair](/user/img/sac/execom/vijayalata-chair.png?raw=true)     | Mrs. Vijayalata | Chairman  | 
 | ![vicechair](/user/img/sac/execom/amit-kumar-vicechair.png?raw=true)     | Mr. Amit Kumar | Vice Chairman | 
