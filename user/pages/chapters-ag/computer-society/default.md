@@ -42,17 +42,6 @@ IEEE Computer Society chapter Hyderabad Section has organized more than 20 event
 | Member               | Pavankumar Allu          | TCS, Hyderabad             | pavankumar.allu@tcs.com       | M 93406905    |
 | Immediate Past Chair | Bala Prasad Peddigari    | TCS, Hyderabaad            | bala.peddigari@ieee.org       | M 93031723    |
 
-## Flagship Events
----
-
-### IEEE Hyderabad Section Computer Society Student Congress
-
-#### Topic: Demystifying AI and Blockchain
-
-Abstract :IEEE All Hyderabad Computer Society Student Congress brings you "Demystifying AI and Blockchain Conference" between January 5, 2018 to January 7, 2018 at Vaagdevi College of Engineering. The congress aim is to bring the connection among the students to collaborate together on new technology ideas and understand the new dimension of changes in the advancement of computing technologies. Driving the advancement is to affirm human life. This platform enables students to have simplified understanding of AI and Blockchain and help you understand how it can help in building scalable applications for the industry.
-![](img/events/Picture9.jpg) ![](img/events/Picture10.jpg)
-
----
 
 ### 2019
 
@@ -145,5 +134,3 @@ Volunteers are the blood line of the chapter. As a volunteer you play a key role
 **Get in touch with us through mail:**
 
 <sagarvt@ieee.org>
-
-<sagarvt@gmail.com>

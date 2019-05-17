@@ -32,3 +32,4 @@ Faraday Memorial Lectures are organised on 22nd September Every Year. Stay tuned
 | 2015 	| Narender ahuja           	| INFORMATION TECHNOLOGY RESEARCH ACADEMY: An Effort Under Way to Strengthen National R&D Culture          	|
 | 2016 	| Prakash B Nayak          	| “Transformation of Electrical Grid forEfficient Distribution of Energy & Reduce Green House GasEmission” 	|
 | 2017 	| Vahid Madhani            	| Future of Power Systems                                                                                  	|
+| 2018 	| Vahid Madhani            	| New Age Technology for Bulk Power Transmission                                                                    |

@@ -1,6 +1,5 @@
 #IEEE Hyderabad Section Activities
 ---
-##IEEE Event Gallery
 
 ![](IMG-20190223-WA0015.jpg) 
 
