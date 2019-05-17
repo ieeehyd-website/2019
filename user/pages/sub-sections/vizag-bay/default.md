@@ -20,8 +20,7 @@ There are more than 200 professional members and around 1000 student members as 
 
 ## Upcoming Events
 ---
-
-> To be announced.
+[IEEE International Conference on Intelligent Systems and Green Technology. 29-30 JUNE 2019](http://icisgt.org/2019/)
 
 ## Past Events Report
 

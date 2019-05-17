@@ -1,13 +1,22 @@
 # Synapse Section Newsletter
 ---
 
-## 2018
----
 
-[January 2018 Edition](/user/docs/news-room/published/2018-January.pdf) 
+## 2019
+---
+ 
+[January 2019 Edition](/user/docs/news-room/published/2019-January.pdf)
 
 ## Past Editions
 ---
+
+## 2018
+---
+
+[September 2018 Edition](/user/docs/news-room/published/2018-September.pdf)  
+[May 2018 Edition](/user/docs/news-room/published/2018-May.pdf)  
+[January 2018 Edition](/user/docs/news-room/published/2018-January.pdf)
+
 
 ### 2017
 ---
