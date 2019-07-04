@@ -4,7 +4,7 @@
 
 ## 2019
 ---
- 
+[July 2019 Edition](/user/docs/news-room/published/2019-July.pdf)  
 [January 2019 Edition](/user/docs/news-room/published/2019-January.pdf)
 
 ## Past Editions
