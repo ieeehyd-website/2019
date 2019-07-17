@@ -40,8 +40,9 @@ IEEE SAC Hyderabad Section has organized more than 10 events in 2017 year. We ha
 
 |                                                   | Name & Designation                                   | Organization    | E-mail                      |
 | ------------------------------------------------- | ---------------------------------------------------- | --------------- | --------------------------- |
-| ![chair](/user/img/sac/execom/chair.png?raw=true) | Chairman: Mr. Venkata Rami Reddy                     | GCET, Hyderabad | dvrreddy1@ieee.org          |
-| ![SSR](/user/img/sac/execom/ssr.png?raw=true)     | Section Student Representative: Mr. S.Sai Thejeshwar | Student- SNIST  | ssai.thejeshwar.in@ieee.org |
+| ![chair](/user/img/sac/execom/chair.png?raw=true) | Chairman: Mrs. Dr.Y.Vijalata                     | GRIET, Hyderabad | vijaya@ieee.org            |
+| ![SSR](/user/img/sac/execom/ssr.png?raw=true)     | Section Student Representative: Mr. Kuruganty Chaitanaya | Student- MVSR   | chaitanyakuruganty@gmail.com   |
+| ![JSSR](/user/img/sac/execom/jssr.png?raw=true)     | Joint Section Student Representative: Mr. G.Rajesh Kumar | Student- GVPCE(A)  | rajeshkumar@ieee.org |
 
 ## Upcoming Events in 2018
 
