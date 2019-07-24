@@ -38,16 +38,16 @@ IEEE SAC Hyderabad Section has organized more than 10 events in 2017 year. We ha
 
 ## Committee
 
-|                                                   | Name & Designation                                   | Organization    | E-mail                      |
-| ------------------------------------------------- | ---------------------------------------------------- | --------------- | --------------------------- |
-| ![chair](/user/img/sac/execom/chair.png?raw=true) | Chairman: Mrs. Dr.Y.Vijalata                     | GRIET, Hyderabad | vijaya@ieee.org            |
-| ![SSR](/user/img/sac/execom/ssr.png?raw=true)     | Section Student Representative: Mr. Kuruganty Chaitanaya | Student- MVSR   | chaitanyakuruganty@gmail.com   |
-| ![JSSR](/user/img/sac/execom/jssr.png?raw=true)     | Joint Section Student Representative: Mr. G.Rajesh Kumar | Student- GVPCE(A)  | rajeshkumar@ieee.org |
+|                                                   | Name & Designation                                       | Organization      | E-mail                       |
+|---------------------------------------------------|----------------------------------------------------------|-------------------|------------------------------|
+| ![chair](/user/img/sac/execom/chair.png?raw=true) | Chairman: Mrs. Dr.Y.Vijalata                             | GRIET, Hyderabad  | vijaya@ieee.org              |
+| ![SSR](/user/img/sac/execom/ssr.png?raw=true)     | Section Student Representative: Mr. Kuruganty Chaitanaya | Student- MVSR     | chaitanyakuruganty@gmail.com |
+| ![JSSR](/user/img/sac/execom/jssr.png?raw=true)   | Joint Section Student Representative: Mr. G.Rajesh Kumar | Student- GVPCE(A) | rajeshkumar@ieee.org         |
 
 ## Upcoming Events in 2018
 
 | Event | Description                          |
-| ----- | ------------------------------------ |
+|-------|--------------------------------------|
 | 1     | Webinar: IEEE SAC and SB Chairs Meet |
 | 2     | Webinar: Writing Effective Papers    |
 | 3     | IEEEXtreme SB Training               |
@@ -57,6 +57,32 @@ IEEE SAC Hyderabad Section has organized more than 10 events in 2017 year. We ha
 
 ## Flagship Events
 ---
+
+### IEEE Hyderabad Section Student Congress 2018
+
+#### Theme: Fueling Innovation And Growth
+
+**Abstract:** IEEE Hyderabad section has conducted an event the Section Student
+Congress 2018 with the theme of “Fueling Innovation And Growth”
+which itself gives the brief about the event. The event emphasizes
+on the success blossoms of the technology and Science.
+
+**The meet of minds is called for the** Technical Talks, Office Bearers
+Meetings, Talks on Needs of Industry, professional talks, lectures,
+competitions, fun activities. This gave the interaction between the
+students from various colleges and also the professional members.
+The convention made out by the section gave the grand success by
+attracting the students and gave them the brief about the core
+knowledge. The two days of congress has been ended with the combination
+ of more practical and some ice breaking activities.
+
+The IEEE Hyderabad Section delighted to offer the most hospitable welcome to all the Student Members, Branch Counselors and office bearers of the Student Branches to come and to take one’s place with rest others on the great event which was conducted at DST Auditorium, University Of Hyderabad on the markable date 11 th and 12 th August 2018.
+
+![SSC-18](/user/img/events/ssc-2018/rsz_img_001.png)    ![SSC-18](/user/img/events/ssc-2018/rsz_img_002.png)
+
+![SSC-18](/user/img/events/ssc-2018/rsz_img_003.png)    ![SSC-18](/user/img/events/ssc-2018/rsz_img_004.png)
+
+
 
 ### IEEE Hyderabad Section Student Congress 2017
 
@@ -103,6 +129,8 @@ The usual term of office is 1 year. Term of office begins in April. The time nee
 
 **Get in touch with us through mail:**
 
-<dvrreddy1@ieee.org>
+<ramya@ieee.org>
 
-<ssai.thejeshwar.in@ieee.org>
+<rajeshkumar@ieee.org>
+
+<chaitanya@ieee.org>

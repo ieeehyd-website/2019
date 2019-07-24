@@ -7,6 +7,35 @@ The convention provides a forum and an opportunity for our future entrepreneurs 
 
 Finally, the IEEE Hyderabad Section extends its warm welcome to all the Student Members, Branch Counselors and office bearers of the Student Branches to come and be a part of this mega event.
 
+## Section Student Congress'18
+
+**Theme: *"Fueling Innovation And Growth"* **
+
+**IEEE Hyderabad section has conducted an event the Section Student
+Congress 2018 with the theme of “Fueling Innovation And Growth”
+which itself gives the brief about the event. The event emphasizes
+on the success blossoms of the technology and Science.**
+
+**The meet of minds is called for the** Technical Talks, Office Bearers
+Meetings, Talks on Needs of Industry, professional talks, lectures,
+competitions, fun activities. This gave the interaction between the
+students from various colleges and also the professional members.
+The convention made out by the section gave the grand success by
+attracting the students and gave them the brief about the core
+knowledge. The two days of congress has been ended with the
+combination of more practical and some ice breaking activities.
+The IEEE Hyderabad Section delighted to offer the most hospitable
+welcome to all the Student Members, Branch Counselors and office bearers
+of the Student Branches to come and to take one’s place with rest others on
+the great event which was conducted at DST Auditorium, University Of
+Hyderabad on the markable date 11 th and 12 th August 2018.
+
+![SSC-18](/user/img/events/ssc-2018/rsz_img_001.png)    ![SSC-18](/user/img/events/ssc-2018/rsz_img_002.png)
+
+![SSC-18](/user/img/events/ssc-2018/rsz_img_003.png)    ![SSC-18](/user/img/events/ssc-2018/rsz_img_004.png)
+
+**2019 would be marking many events from the SAC for the benefit of Students.**
+
 ## Section Student Congress'17
 
 **With the theme of *"Shaping The Digital Future"*, SSC 2017 returns to be a promising platform providing insights into various technologies which are creating impact in our day-to-day lives.**
