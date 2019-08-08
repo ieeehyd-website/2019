@@ -26,9 +26,9 @@ The petition can be found [here.](https://www.ieee.org/societies_communities/geo
 
 or any further queries on the same, kindly feel free to communicate with us.
 
-**SAC Chair:** Mr. Venkata Rami Reddy (<dvrreddy1@ieee.org>)
+**SAC Chair:** Mrs. Dr. Y.Vijayalatha (<sac@ieee.org>)
 
-**SSR:** Mr. S.Sai Thejeshwar (<ssai.thejeshwar.in@ieee.org>)
+**SSR:** Mr. Chaitanya Kuruganti (<chaitanyakuruganti@gmail.com>)
 
 ## IEEE Hyderabad Section Student Branches
 
