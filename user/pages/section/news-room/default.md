@@ -4,6 +4,8 @@
 
 ## 2019
 ---
+<!-- [September 2019 Edition](/user/docs/news-room/published/2019-Sep.pdf)   -->
+[September 2019 Edition](/user/docs/news-room/published/2019-September.pdf)  
 [July 2019 Edition](/user/docs/news-room/published/2019-July.pdf)  
 [January 2019 Edition](/user/docs/news-room/published/2019-January.pdf)
 
