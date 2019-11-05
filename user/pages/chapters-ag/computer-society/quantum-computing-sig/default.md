@@ -11,20 +11,32 @@ Quantum computing is computing using quantum-mechanical phenomena, such as super
 | ------------------------ | ------------ | --------------------- |
 | Chair: Reena Dayal Yadav | Microsoft    | reyadav@microsoft.com |
 | Vice Chair: TBA          | -            | -                     |
-| Secretary: TBA           | -            | -                     |
+| Secretary: Rameshchandra B Ketharaju           | Wellsfargo            | ketharaju@ieee.org                     |
 
 ## Conducted Events
-1. IEEE SIG on Quantum Computing meet @ Microsoft, Hyderabad.    
-**Date:** November 27, 2019
+1. IEEE SIG on Quantum Computing meet @ Microsoft, Hyderabad, **Date:** November 27, 2019.
+2. Technical Seminars on Introduction to Quantum Computing @ Microsoft Garage, Hyderabad, **Date:** January 19, 2019.
+3. Workshop on Quantum Computing for Women, **Date:** September 21, 2019.
 
 ## Planned Events
-1. Technical Seminars on Introduction to Quantum Computing @ Microsoft Garage, Hyderabad  
-**Date:** January 19, 2019  
-**Timings:** 11:00 A.M. to 3 P.M.  
-**Agenda**  
-11:00 AM – Introduction to the Quantum SIG and Welcome address  
-11:15 AM- 12:00 Noon- Talk 1 by Dr. Arun Pati  
-12:00 to 12:45 – Talk 2 by Dr. Indranil Chakrabarty  
-12:45 to 1:30 Lunch  
-1:30 to 2:15- Workshop  
-2:15 to 3:00 – Garage tour and Blochsphere Visualization Demo  
+![](/user/img/computer-society/Workshop-on-Quantum-Computing-by-IEEE-Quantum-SIG-1.jpg "Workshop on Quantum Computing by IEEE Quantam SIG")
+1. Technical Workshop on Quantum Computing
+**Date:** November 16, 2019. 
+**Timings:** 10:00 A.M. to 4 P.M.
+
+    **Agenda**  
+    * Prof Nirman Ganguly Basics of Quantum Entanglement and Quantum Computing
+    * Prof Urbasi Sinha, Experimental Quantum Computing & Quantum Cryptography by manipulating Light Quanta.
+
+    At: KRB Auditorium, KCIS, IIIT Hyderabad, Gachibowli, Hyderabad
+
+    **Register here:** https://in.explara.com/e/workshop-on-quantum-computing-by-ieee-quantum-sig
+
+    **Questions:** Rameshchandra Ketharaju, ketharaju@ieee.org, +91 99892 89152
+
+    **Registration Fee:** IEEE Members Rs 300, Others Rs 500 (Per person)
+
+
+
+
+
