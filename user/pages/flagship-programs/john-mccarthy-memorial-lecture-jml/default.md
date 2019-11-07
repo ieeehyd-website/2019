@@ -26,7 +26,7 @@ In remembrance of the great scientist John McCarthy, the CIS chapter of IEEE Hyd
 | S.NO | TOPIC | SPEAKER | DELIVERED ON |
 |------	|--------------------------	|----------------------------------------------------------------------------------------------------------	|
 | 1  | "Artificial Intelligence: The Past, The Present and The Future " | Prof. C. A. Murthy, Fellow INAE, ISI Kolkata. | 27th Nov 2016. |
-| 2 | "Recent developments in Artificial Intelligence and Potential Applications. | Prof. Raghu Krishnapuram, Fellow IEEE. | 18th November 2017. |
+| 2 | "Recent developments in Artificial Intelligence and Potential Applications". | Prof. Raghu Krishnapuram, Fellow IEEE. | 18th November 2017. |
 | 3 | "Non iterative Learning Algorithms". | Dr. P.N. Suganthan, Fellow IEEE, Professor, Nanyang Technological University, Singapore. | 22 Nov 2018. |
 
 
