@@ -3,8 +3,8 @@
 
 ## List of Upcoming Events
 
-| S.No                     | Event Type                     | Event Name                 | Event Date| Organizing Society         | Key Contact                    | Location                   | URL       |
-|:-------------------------|:--------------------------------| :--------------------------- | :-------------------------|:--------------------------------| :--------------------------- | :----------------------------|:--------------------------- | 
-| 1        | Workshop   | Digital Reality (AR)   | 14-June-2019   | CS | sagarvt@ieee.org | Anurag Group of Institutes | NA|
-| 2        | Workshop   | AI and Robotics        | 20-July-2019   | CS | sagarvt@ieee.org | PS College of Engineering | NA|
+| S.No                     | Event Type                     | Event Name                 | Event Date | Organizing Society         | Contact                    | Location                   | URL       |
+|:-------------------------|:--------------------------------| :--------------------------- | :-------------------------------------------:|:--------------------------------| :--------------------------- | :----------------------------|:--------------------------- | 
+| 1        | Seminar   | Artificial Intelligence: An Unfinished Revolution. | 14 Nov 2019 | CS |  <hitendrasarma@ieee.org> | Hotel Plaza, Begumpet, Hyderabad. | <https://ieeehyderabad.org/flagship-programs/john-mccarthy-memorial-lecture-jml>|
+| 2        | Workshop   | Quantum Computing - Special Interest Group. | 16 Nov 2019 | CS |  <ketharaju@ieee.org> | KRB Auditorium, KCIS, IIIT Hyderabad, Gachibowli, Hyderabad. | <https://in.explara.com/e/workshop-on-quantum-computing-by-ieee-quantum-sig>|
 

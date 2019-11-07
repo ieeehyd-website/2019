@@ -30,9 +30,9 @@ Quantum computing is computing using quantum-mechanical phenomena, such as super
 
     At: KRB Auditorium, KCIS, IIIT Hyderabad, Gachibowli, Hyderabad
 
-    **Register here:** https://in.explara.com/e/workshop-on-quantum-computing-by-ieee-quantum-sig
+    **Register here:** <https://in.explara.com/e/workshop-on-quantum-computing-by-ieee-quantum-sig>
 
-    **Questions:** Rameshchandra Ketharaju, ketharaju@ieee.org, +91 99892 89152
+    **Questions:** Rameshchandra Ketharaju, <ketharaju@ieee.org>, Mobile: +91 99892 89152
 
     **Registration Fee:** IEEE Members Rs 300, Others Rs 500 (Per person)
 
