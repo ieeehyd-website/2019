@@ -2,7 +2,7 @@
 ---
 **Section Chairman (2019 - 2020)**: N. Venkatesh  
 **Year Started**: 1984  
-**Current Member Strength**: 4121+  
+**Current Member Strength**: 5711+  
 
 ## Vision
 
