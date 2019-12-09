@@ -48,6 +48,38 @@ exchange ideas.
 | Member               | John Benedict       | Amazon INC          | john.benedict.007@gmail.com    | M 92226956    |
 | Immediate Past Chair | Sanjeev Nimishakavi | Qualcomm            | sanjeevrn@yahoo.com            | M 80250684    |
 
+## Highlights from 2019
+
+### Planned Events 
+
+**To be Announced Later**
+
+### Conducted Events
+
+| S.No | Event Names |
+| :-----: | ------------------------------------------------------------------------ |
+| 1 | Interaction with Conference committee of Signal Processing Society |
+| 2 | Interaction with Prof. K.V.S. Hari |
+| 3 | Talk on Digital Signal Processing Through Digital Filtering |
+| 4 | Lecture on Greedy Pursuit Algorithms for Sparse Signal Processing |
+| 5 | Lecture on Introduction to Compressed Sensing |
+| 6 | Lecture on Sparse Fourier Transform and Applications |
+| 7 | Bayesian-Inspired NonConvex Methods for Sparse Signal Recovery |
+| 8 | Poster Session at HyWIT 2019 |
+| 9 | Lecture on Uncertainty Principles in Signal Processing |
+| 10 | Lecture on achievable results in spatial sensing with a location-unaware mobile sensor |
+| 11 | Lecture on Compressive sensing and sparse arrays for DOA estimation |
+| 12 | Channel Coding in 5G - Polar Codes |
+| 13 | Channel Coding in 5G - LDPC Codes |
+| 14 | Channel Coding in 5G - Basics of Coding Theory |
+| 15 | One day workshop on Digital Signal Processing using Python through Raspberry Pi |
+| 16 | The Ninth Alexander Graham Bell Memorial Lecture |
+
+
+
+
+
+
 
 ## Highlights from 2017
 

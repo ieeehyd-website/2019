@@ -41,29 +41,32 @@ IEEE Computer Society chapter Hyderabad Section has organized more than 20 event
 | Member               | K. Shyamala              | CSE Dept. OU               | prkshyamala@gmail.com         | M 92801683    |
 | Member               | Pavankumar Allu          | TCS, Hyderabad             | pavankumar.allu@tcs.com       | M 93406905    |
 | Immediate Past Chair | Bala Prasad Peddigari    | TCS, Hyderabaad            | bala.peddigari@ieee.org       | M 93031723    |
-
+---
 
 ### 2019
 
 Event | Description     |
-|-----|-----------------|
-| 9   | Workshop on Digital Reality at IEEE Hyderabad Section by Nikeelu Gundra, Ikram Ali Shaikh and Sai Satish, 11 May 2019|
-| 8   | Workshop on Design Thinking at Anurag Group of Institutes, 22 March 2019|
-| 7   | Hackathon on Python Programming at Anurag Group of Institutes, 22 March 2019|
-| 6   | A 5 Day hands-on workshop on Cloud Computing at Vardhaman College of Engineering, 11-15 March 2019|
-| 5   | Technical Seminar on Next Generation Cloud Transformation by Pavankumar Allu at SV College of Engineering, 23 February 2019|
-| 4   | Workshop on Blockchain with Lab at MVSR College of Engineering, 22-23 February 2019 |
-| 3   | Technical Seminar on future cloud transformation by Prof. Jabbar at Geetanjali College of Engineering, 24 Jan 2019  |
-| 2   | Workshop on Quantum Computing at Microsoft Garage, 19 Jan 2019  |
-| 1   | AHCSSC (All Hyderabad Computer Society Student Congress) Flagship Event at Vardharman College of Engineering, 3-5 Jan 2019  |
-
+|:-----:|-----------------|
+|13  | Workshop on Quantum Computing |
+|12  | Technical Seminar on Future Cloud Transformation |
+|11  | IEEE Computer Society - Blockchain workshop |
+|10  | Technical Seminar: Next Generation Cloud Computing  |
+|8   | AHCSSC 2019 (All Hyderabad Computer Society Student Congress) |
+|9   | Digital Reality (AR/VR/MR) Workshop   |
+|7   | Myths and Facts on How to Learn Technology (AI & ML) |
+|6   | Robotics and Digital Reality (AR/VR) Workshop |
+|5   | Technical Seminar on Future Cloud Transformation of Organizations |
+|4   | Artificial Intelligence Impact in Digital Marketing |
+|3   | Edge Intelligence in the IoT |
+|2   | Modelling in UML: A practical introduction |
+|1   | IEEE Standards Association - AI & ML workshop |
 ---
 
 
 ### 2018
 
-Event | Description     |
-|-----|-----------------|
+ Event | Description     |
+|:-----:|-----------------|
 |26   | IEEE SIG on Quantum Computing by Reena Dayal, 27 November 2018 |
 |25   | Artificial Intelligence: DCGANs – Architecture, Applications and Implications by Kishore Kopalle, 14 October 2018 |
 |24   | Technical Seminar: Comprehensive Perspective of Digital Ecosystem, by Venkat Kadari, CSI Office, December 17, 2017 |
@@ -97,7 +100,7 @@ Event | Description     |
 ### 2017 
 
 | Event | Description                                                                                                                                                                                    |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 22    | Technical Seminar: Comprehensive Perspective of Digital Ecosystem, by Venkat Kadari, CSI Office, December 17, 2017                                                                             |
 | 21    | Technical Seminar: Software Reusability and its Usefulness, by NJ Rajaram CSI office, Hyderabad, November 12, 2017                                                                             |
 | 20    | Technical Workshop: Data Analytics using R” by Madhu Vadlamani, Kony Labs -- @ Vardharman College of Engineering, Hyderabad.                                                                  |

@@ -30,6 +30,27 @@ Hyderabad is host to a large pool of RF & Microwave, Antenna and EMI-EMC Profess
 | Member               | Anantha Bharathi   | ECE Dept. UCE OU        | bharathig8@gmail.com                   | M 90538233    |
 | Immediate Past Chair | Yogesh Kumar Verma | RCI, DRDO               | ykverma@yahoo.com                      | SM 85017068   |
 
+## Events Planned (2019)
+
+| **Events** |
+| -----------------------------------------------------------------------------------------------------|
+
+ Electromagnetics and Microwave Engineering: Pedagogy, Research Trends and Applications" (EMPRA 2020)   
+
+---
+ 9th Sir JC Bose Memorial Lecture - Phased Arrays and Related RF Technologies for mm wave 5G Communication 
+
+## Events Conducted(2019)
+
+| **S.No** | |**Events** |
+| :--------: | | -------------------------------------------------------------------------------------------|
+| 1 | | Technical Lecture on "Reconfigurable Antennas: Theory, Challenges and Physical Implementation" |
+| 2 | | Inaugural of IEEE Microwave Theory and Techniques Society Student Chapter & Technical Lecture at Vardhaman College of Engineering, Shamshabad“ 501 218, Hyderabad |
+| 3 | | 1 Day Seminar on Phased Array RADAR Modelling and Simulation  |
+| 4 | | Recent advances in Antennas & Microwave Ciruits with applications & Simulation studies |
+     
+
+
 ## Past Events (2017)
 ---
 

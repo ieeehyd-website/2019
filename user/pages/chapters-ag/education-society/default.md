@@ -16,6 +16,19 @@ Theory and practice of education and educational technology and professional dev
 | Member               | V. Suresh Kumar       | MVSR Engg College            | vsureshkumar_ece@mvsr.edu.in | M 94435423    |
 | Immediate Past Chair | Nookala Srinivasa Rao | Mathrusri Engg College       | srinivasa.nookala@gmail.com  | SM 85017068   |
 
+
+## Events Planned
+| S.No | Event Names |
+| :----: | :------------ |
+| 1 | Learning Paradigms for Outcome Based Education in Digital Era |
+
+## Events Conducted
+
+| S.No | Event Names |
+| :-----: | :------------------------------------------------------------------------ |
+| 1 | An Art of Writing Technical Paper  |
+| 2 | Career Opportunities in core electrical and electronics sector  |
+
 ## A report on EdSoc Chapter (2017)
 ---
 

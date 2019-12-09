@@ -20,11 +20,28 @@ IEEE Women in Engineering (WIE) is one of the largest international professional
 
 ## Past Events
 ---
-
+### WIE AG Activities (2019)
+| S.No. | Event Details |
+|:-----:|:---------------------------------------------------------------------------------|
+|1|	First Excom Meeting-2019 of Women in Engineering AG IEEE Hyderabad Section |
+|2|	WALK THE TALK-VARDHAMAN 2019 |
+|3|	Women Conclave-A meet of corporate and Academia Women |
+|4|	International Women's Day |
+|5|	Women's Day at Geethanjali college of Engineering and Technology |
+|6|	A Two Day Workshop On “ WOMEN IN TECHNOLOGY – THINK EQUAL, BALANCE FOR BETTER”  |
+|7|	Symposium on Women Empowerment |
+|8|	Leadership & Research Challenges for Professional Women |
+|9|	International Women's Day-"Balance for Better" |
+|10|	"Women in Engineering" special session @ IEEE conference MOS AK India 2019  |
+|11| National Level IEEE WIE Leadership Symposium |
+|12|	New Product Developmentâ€ Innovation, Technology Management & Market Development |
+|13|	Professional Leadership & Cyber Security Challenges |
+|14|	Technical Colloquium 
+---
 ### WIE AG Activities (2017)
 
 | S.No. | Event Details                                                                                                    |
-| ----- | ---------------------------------------------------------------------------------------------------------------- |
+| :-----: | :---------------------------------------------------------------------------------------------------------------- |
 | 1     | Workshop on Ruby on Rails, KL Univeristy, Guntur Sub-section- 8th March, 2017                                    |
 | 2     | Women connect- KL Univeristy, Guntur Sub-Section- 8th March, 2017                                                |
 | 3     | Women’s Day Celebration- TCS Deccan Park- 10th March, 2017                                                      |
