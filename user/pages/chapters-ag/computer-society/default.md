@@ -47,19 +47,19 @@ IEEE Computer Society chapter Hyderabad Section has organized more than 20 event
 
 Event | Description     |
 |:-----:|-----------------|
-|1   | IEEE Standards Association - AI & ML workshop |
-|2   | Modelling in UML: A practical introduction |
-|3   | Edge Intelligence in the IoT |
-|4   | Artificial Intelligence Impact in Digital Marketing |
-|5   | Technical Seminar on Future Cloud Transformation of Organizations |
-|6   | Robotics and Digital Reality (AR/VR) Workshop |
-|7   | Myths and Facts on How to Learn Technology (AI & ML) |
+|13  | Workshop on Quantum Computing |
+|12  | Technical Seminar on Future Cloud Transformation |
+|11  | IEEE Computer Society - Blockchain workshop |
+|10  | Technical Seminar: Next Generation Cloud Computing  |
 |8   | AHCSSC 2019 (All Hyderabad Computer Society Student Congress) |
 |9   | Digital Reality (AR/VR/MR) Workshop   |
-|10  | Technical Seminar: Next Generation Cloud Computing  |
-|11  | IEEE Computer Society - Blockchain workshop |
-|12  | Technical Seminar on Future Cloud Transformation |
-|13  | Workshop on Quantum Computing |
+|7   | Myths and Facts on How to Learn Technology (AI & ML) |
+|6   | Robotics and Digital Reality (AR/VR) Workshop |
+|5   | Technical Seminar on Future Cloud Transformation of Organizations |
+|4   | Artificial Intelligence Impact in Digital Marketing |
+|3   | Edge Intelligence in the IoT |
+|2   | Modelling in UML: A practical introduction |
+|1   | IEEE Standards Association - AI & ML workshop |
 ---
 
 

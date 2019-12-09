@@ -44,11 +44,32 @@ A PES/IAS/PELS Chapter is a technical sub-unit of IEEE Hyderabad Section and it 
 
 ## Past Activities
 ---
-1. PROFESSIONAL DEVELOPMENT PROGRAM: DELAYED CURRENT ZERO (DCZ) PHENOMENON  
-   **Speaker:** Sri Pratap Mysore of Pratap Consulting Services LLC, Minnesota, USA  
-   **Location:** Seminar Hall, Power Grid Corporation of India Limited, Kavadiguda, Secunderabad    
-   **Date and Time:** 16-Feb-2018, 3:00PM to 5:00PM   
-   For more details, visit <https://events.vtools.ieee.org/m/161353>
+ S.No| Activity|
+|:----:|:--------------------------------------------------------|
+| 1 | IEEE-PES/IAS/PELS-Jt.Chapter/Hyderabad  Administrative Meeting-3/ held Jointly with Excom of IEEE-Hyderabad--Guntur-Sub-Section, Guntur, at M/s Efftronics, Vijayawada|
+| 2|2nd-Excom(2019) Meeting of PES/IAS/PELS Joint Chapter/ IEEE-Hyderabad Section Jointly with Industrial Relations Committee (IRC)|
+| 3|1st-Excom(2019) Meeting of PES/IAS/PELS Joint Chapter/ IEEE-Hyderabad Section
+|
+| 4|PES-DL Prof. Arindam Ghosh--Interaction Meet with Professionals & Students and Talk on "Game Changing Technologies in Power & Energy Sector-World wide-The Road Ahead for Future Engineers"
+|
+| 5|Professional Development Program-Factory Visit to: "BHEL/ Heavy Power Equipment Plant (HPEP)"  Ramachandrapuram, Hyderabad and Lecture on "Electrical Machines for Power Plants & Industries".
+|
+| 6|PDP: Workshop on  "Solar Power Plants & Battery Energy Storage Systems in Utility Grids & Microgrids"
+|
+| 7|"New Product Development, The Innovation,Technology Management & Market Development " - a Professional Development Program
+|
+| 8|PDP: Technical Talk on the Electrical Equipment in Power Plants ---Concepts, Operation & Design Aspects
+|
+| 9|The 2019-Faraday Memorial Lecture on Microgrids--Opportunities & Challenges--World Wide and in India
+|
+| 10|PES-Distinguished Lecture Program (DLP) on Custom Power Convertors", at Hyderabad/ on 20-Sep-2019/ Friday--Afternoon
+|
+| 11|PDP: Technical Talk on UPS Systems---Concepts, Design Aspects, Installation, Operation & Safety Issues
+|
+| 12|PDP: Workshop on Micro-Grids & Battery Energy Storage Systems"
+|
+|13|PDP: Technical Talk on  Electrical Equipment in Power Plants --- Concepts, Operation & Design Aspects
+|
 
 #### List of PES/IAS/PELS Joint chapter, Hyderabad section 2017 events
 | Event | Description                                                                                                      |
