@@ -41,6 +41,25 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 | Member               | Kidambi Seshadri      | NRSC                | seshadri.nrsc@gmail.com    | M 94862712    |
 | Immediate Past Chair | Naresh                | NRSC                | nareshm@ieee.org           | SM 92101512   |
 
+
+## Planned Events
+---
+
+**To be Announced Later**
+
+## Conducted Events(2019)
+
+| S.No. | Event Description                                                        |
+| :-----: | ------------------------------------------------------------------------ |
+| 1     | Applications of Geoinformatics to solve groundwater problems in hard rock terrain of the country in 2-3 years |
+| 2     | Blockchain Technology: Applications & Career Opportunities |
+| 3     | BlockChain Technology: The Future of Cyber Security from Cyber Attacks |
+| 4     | Expert Talk on  Applications of Geoinformatics to solve groundwater problems in hard rock terrain of the country in 2-3 years |
+| 5     | National Remote Sensing Day  |
+| 6     | Two day Workshop on HYPERSPECTRAL IMAGE ANALYSIS  AND APPLICATIONS  |
+| 7     | Expert Talk on BASICS OF REMOTE SENSING AND TECHNIQUES  |
+| 8     | 2-Days Workshop on "GIS Concepts for Remote Sensing Applications  |
+
 ## Student Branch Chapters
 ---
 

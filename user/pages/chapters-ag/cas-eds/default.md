@@ -30,55 +30,32 @@ The Joint Chapter of IEEE Circuits and Systems/ Electron Device Societies was es
 | Member               | V Veeresh            | AMS Semiconductors Pvt Ltd   | veeresh.vulligaddala@ams.com     |               |
 | Immediate Past Chair | Kaleem Fatima        | M J CET, Hyderabad           | kaleemfatima@gmail.com           | SM 41424639   |
 
-## Forthcoming Events
+## Planned Events
 ---
 
 1. Third CASS membership development workshop on Internet of Things at JITS Warangal on 17 and 18 February 2018. For further details, please visit <https://sites.google.com/site/cassiotforum/home>
 2. Career Opportunities in Electronics Sector at Osmania University on 24 February 2018. 
 3. For details of events of last six years Please visit us at <https://sites.google.com/site/casshyderabad>
 
-## Past Events
+## Conducted Events (2019)
 ---
 
-1. CAS EDS Research Forum at Guntur Subsection
-2. CAS EDS Networking Dinner
-3. EDS - DL talk on Nanotechnology for IoT by Dr. Hector J De Los Santos
-4. CASS Networking techno meetup at IEEE Sri Lanka – Colombo
-5. CASS International membership development workshop on IoT at Indonesia
-6. CASS membership development workshop at Hyderabad
-7. CAS EDS Research forum at Hyderabad Section
-8. EDS DL by Dr. Manoj Saxena
-9. Two day Workshop on Analog IC Design at CBIT
+1. CASS Dinner Meeting with Prof. Subhas Mukopadhyay 
+2. Inauguration of IoT lab facility at MJCET
+3. Technical Talk on Wearable Devices in Healthcare
+4. Second Workshop on Advance Iot with Machine Learning 
+5. First Workshop on Advanced IOT with Machine learning 
+6. CAS/ ED Research Forum
+7. Three day workshop on Setup of IoT Lab 
+8. Hands-on LoRaWAN workshop for IoT applications 
+9. 2019 IEEE International Conference on Modeling of Systems Circuits and Devices(MOS AK India) 
+10. IEEE EDS Mini Colloquia(MQ) 
+11. Technical Talk on Creating IoT solutions for Industry
 
-## Forthcoming Events
+## Planned Events
 
 | S.No. | Event Description                                                        |
-| ----- | ------------------------------------------------------------------------ |
-| 1     | EDS DL on “Electronics for All” by Prof. M.M. Hussain at IIT Hyderabad |
-| 2     | Career Opportunities in Electronics Sector                               |
+| :-----: | ------------------------------------------------------------------------ |
+| 1     | Third Workshop on Advanced IoT with Machine Learning at RIT, Vizag |
+| 2     | Hands On Workshop on Analog IC Design                           |
 
-## Flagship Programs (2017)
----
-
-There are two flagship events organised by the chapter annually.
-
-| S.No. | Event Description                                                                                                                       |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | CAS-EDS Research Forum for Ph.D scholars and students interesting in pursuing research.                                                 |
-| 2     | Industry workshop on “Analog IC Design – Concept of Silicon” conducted by industry professionals of ams semiconductor India Pvt. Ltd. |
-
-## Past Events (2017)
-
-| S.No. | Event Description                                                      |
-| ----- | ---------------------------------------------------------------------- |
-| 1     | CAS EDS Research Forum at Guntur Subsection                            |
-| 2     | CAS EDS Networking Dinner                                              |
-| 3     | EDS - DL talk on Nanotechnology for IoT by Dr. Hector J De Los Santos  |
-| 4     | CASS Networking techno meetup at IEEE Sri Lanka – Colombo              |
-| 5     | CASS International membership development workshop on IoT at Indonesia |
-| 6     | CASS membership development workshop at Hyderabad                      |
-| 7     | CAS EDS Research forum at Hyderabad Section                            |
-| 8     | EDS DL by Dr. Manoj Saxena                                             |
-| 9     | Two day Workshop on Analog IC Design at CBIT                           |
-
-> For details of events of last six years Please visit us at <https://sites.google.com/site/casshyderabad>
