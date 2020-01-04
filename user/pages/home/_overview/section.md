@@ -1,3 +1,14 @@
+<div class="container">
+    <a href="http://ieeehydcon.org/">
+    <div class="d-flex flex-wrap justify-content-around align-items-center">
+    <img src="/user/img/logos/gold.png">
+    </a>
+    </div> 
+</div>
+
+<center>Click on the image to visit IEEE HYDCON-2020</center>
+---
+
 # Overview
 ---
 **Section Chairman (2019 - 2020)**: N. Venkatesh  
