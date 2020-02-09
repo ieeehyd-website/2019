@@ -52,11 +52,12 @@ Member Convener        |
 
 ---
 
-For any queries, please send an email to Mr. N Venkatesh, Secretary, IEEE Hyderabad Section.
+For any queries, please send an email to Mr. Bala Peddigari, Secretary, IEEE Hyderabad Section. 
+
 
 | Name         | E-Mail              |
 | ------------ | ------------------- |
-| N. Venkatesh | nvenkatesh@ieee.org |
+| Bala Peddigari  | bala.peddigari@ieee.org |
 
 ## FDC Report
 
