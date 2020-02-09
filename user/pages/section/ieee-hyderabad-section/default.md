@@ -3,7 +3,7 @@
 ---
 
 
-## Executive Committee - 2019
+## Executive Committee - 2020
 
 | Designation                     | Name                       | Organisation                   | E-mail                          | Membership No |
 | ------------------------| -------------------------- | ------------------------------ | ------------------------------- | ------------- |
@@ -16,7 +16,7 @@
 | Member               | Gopala Krishna Kuppa       | Consultant                     | gopalakrishna.kuppa.2005@ieee.org | SM 80168118    |
 | Immediate Past Chair  | N Venkatesh	        | 	Redpine Signals        | nvenkatesh@ieee.org            | SM 41506407   |
 
-[IEEE Hyderabad Section Revised Slate 2020](/user/docs/section/execom/2020/ieee-hyderabad-section-slate-2020-v3.0.pdf)
+[IEEE Hyderabad Section Revised Slate 2020](/user/docs/section/execom/2020/IEEE-Hyderabad-Section-SLATE-2020-v3.0.pdf)
 
 
 ## Future Directions Committee
@@ -64,6 +64,45 @@ Industrial Relations Committee (IRC) of Hyderabad Section brigs synergy between 
 ## Awards And Recognition
 ---
 IEEE Hyderabad Section was proud to receive the following Awards for continued Valuable Services and Contribution to the Societies benefits.
+
+##Following Awards received by Section in 2019
+
+India Council Section Chair Lifetime Achievement Award 2019 – NV Rao
+2019 IEEE Outstanding Branch Counselor and Advisor Award – Arifuddin Sohel
+2019 MGA Young Professionals Achievement Award – Vamsi Krishna J
+India Council Outstanding Student Volunteer Award 2019:
+Sai Prashant (Vardhaman)
+IEEE Hyderabad Section received highest grant of 5000 USD for 2019 R10 Section Incentives - activities from Nov 2018 - Oct 2019
+IEEE Signal Processing Society 2019 Chapter of the Year Award
+PES High Performance Chapter Program
+Richard E Merwin Scholarship Awards in 2019.
+
+
+**January 2020**
+1.      Chakravathy Srinivas, VNR VJIET
+
+2.      Divya Nalla, GPREC Kurnool
+
+3.      Sai Teja, Geethanjali College of Engineering
+
+4.      Madhuri Patnam Jayamukhi Institute of Technology and sciences
+
+5.      Sai Prashant, Vardhaman College of Engineering
+
+6.      Ramya Sri, MVSR College of Engineering
+
+**April 2019**
+1.      Ankita Gudla, VNRVJIET
+
+2.      Niharika Vanka, Vardhaman College of Engineering
+
+##Volunteer Leadership Training Graduate (VoLT) from Section
+
+* Bala Prasad Peddigari (2019)
+* Narendra Ramya (2019)
+* Mousmi Chaurasia (2018)
+* Vamsikrishna J (2018)
+* Arifuddin Sohel (2017)
 
 
 ### Following Awards received by Section in 2018
@@ -202,3 +241,4 @@ IEEE Hyderabad Section has following sub-sections in her region.
 | 18     | Dr. Koduri Srinivas (2014-2015)        |
 | 19     | Dr. Merugu Lakshminarayana (2016-2017) |
 | 20     | Mr. P V S Maruthi Rao (2018)           |
+| 21     | Mr. N Venkatesh(2019)                  |
