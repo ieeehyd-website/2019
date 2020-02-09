@@ -11,9 +11,9 @@
 
 # Overview
 ---
-**Section Chairman (2019 - 2020)**: N. Venkatesh  
+**Section Chairman (2020)**: Amit Kumar   
 **Year Started**: 1984  
-**Current Member Strength**: 5711+  
+**Current Member Strength**: 6012+  
 
 ## Vision
 
@@ -50,6 +50,7 @@ _To provide a platform for knowledge sharing, networking, and career development
 
 <div class="container">
     <div class="d-flex flex-wrap justify-content-around align-items-center logos">
+        <img src="/user/img/logos/life_member.png">
         <img src="/user/img/logos/wie-logo.png">
         <img src="/user/img/logos/yp-logo.png">
     </div>

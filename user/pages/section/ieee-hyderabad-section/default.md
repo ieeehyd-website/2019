@@ -5,18 +5,18 @@
 
 ## Executive Committee - 2019
 
-| Designation          | Name                       | Organisation                   | E-mail                          | Membership No |
-| -------------------- | -------------------------- | ------------------------------ | ------------------------------- | ------------- |
-| Chair                | N. Venkatesh               | Redpine Signals                | nvenkatesh@ieee.org             | SM 41506407   |
-| Vice Chair           | Amit Kumar                 | BioAxis DNA Res Centre (P) Ltd | amitkr@ieee.org                 | SM 90732008   |
+| Designation                     | Name                       | Organisation                   | E-mail                          | Membership No |
+| ------------------------| -------------------------- | ------------------------------ | ------------------------------- | ------------- |
+| Chair                | 	Amit Kumar              | BioAxis DNA Res Centre (P) Ltd	               | amitkr@ieee.org             | SM 90732008  |
+| Vice Chair           | S Lakshmi Narayana	            | CSIR (Retd.)	 | slnvizag@gmail.com                 | SM 80536573 |
 | Secretary            | Bala Prasad Peddigari      | TCS, Hyderabad                 | bala.peddigari@ieee.org         | SM 90578910   |
 | Treasurer            | Nookala Srinivasa Rao      | Mathrusri Engg College         | srinivasa.nookala@gmail.com     | SM 85017068   |
-| Member               | Lakshminarayana Sadasivuni | CSIR (Retd.)                   | slnvizag@gmail.com              | SM 80536573   |
+| Member               | Mohammed Arifuddin Sohel	 | M J CET, Hyderabad	         | arif.sohel@gmail.com             | SM 90871309   |
 | Member               | Sreenivas Jasti            | TCS, Hyderabaad                | sreenivas.jasti@ieee.org        | SM 41250549   |
-| Member               | Gopala Krishna Kuppa       | Consultant                     | gopalakrishna.kuppa@hotmail.com | M 80168118    |
-| Immediate Past Chair | PVS Maruthi Rao            | Vidcentum R&D Pvt Ltd.         | pvsmaruthi@ieee.org             | SM 41249040   |
+| Member               | Gopala Krishna Kuppa       | Consultant                     | gopalakrishna.kuppa.2005@ieee.org | SM 80168118    |
+| Immediate Past Chair  | N Venkatesh	        | 	Redpine Signals        | nvenkatesh@ieee.org            | SM 41506407   |
 
-[IEEE Hyderabad Section Revised Slate 2019](/user/docs/section/execom/2019/ieeehyd-section-slate-2019.xlsx)
+[IEEE Hyderabad Section Revised Slate 2020](/user/docs/section/execom/2020/ieee-hyderabad-section-slate-2020-v3.0.pdf)
 
 
 ## Future Directions Committee
@@ -36,7 +36,7 @@ mid 1981 with just 25 members with the initiative of Mr C Satish (now a Life Sen
 
 The Section has been very active from right from its Subsection days. The Subsection’s first continuing education program was a course on “Signal Processing” held on 9 and 10 September 1981. The first short course by the Section was on “Secure Communications” from 13 to 22 December 1984 which drew over 100 attendees. Incidentally our section we conducted 32 continuing education programs in the first two decades. Even in formation of Society Chapters , Hyderabad Section has shown a tremendous efforts. In the early 1990s the first Chapter PES / IAS / PELS Joint Chapter was formed. Few years later a Computer Society Chapter and then a EMC/MTT/AES Joint Chapter were formed.
 
-Today there are 9 chapters and 2 Affinity Groups and our Section.
+Today there are 9 chapters and 3 Affinity Groups and our Section.
 
 | IEEE Society Chapters |
 |----|
@@ -52,7 +52,8 @@ Today there are 9 chapters and 2 Affinity Groups and our Section.
 
 | Affinity Groups |
 |----|
-|[IEEE Women In Engineering (WiE)](/chapters-ag/women-in-engineering-wie)|
+|[IEEE Life Members (LM)](/chapters-ag/life-members-lm)|
+|[IEEE Women In Engineering (WIE)](/chapters-ag/women-in-engineering-wie)|
 |[IEEE Young Professionals (YP)](/chapters-ag/young-professionals-yp)|
 
 ## Industry Collaboration
