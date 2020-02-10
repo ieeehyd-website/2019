@@ -76,4 +76,4 @@ Volunteers are the blood line of the chapter. As a volunteer you play a key role
 
 **Get in touch with us through mail:**
 
-<chaitanyakuruganti@gmail.com>
+<sac@ieee.org>

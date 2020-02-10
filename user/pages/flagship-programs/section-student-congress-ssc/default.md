@@ -11,10 +11,11 @@ Finally, the IEEE Hyderabad Section extends its warm welcome to all the Student 
 
 **Theme: *"Redefining the Technology in New Millennium"* **
 
-** The Section Student Congress'19, in the history of IEEE Hyderabad Section witnessed more than 1000+ delegates from 60 different engineering colleges from both the Telugu states. The entire SAC team along with Student Network members thank each and every SEC member for their tremendous support and timely mentoring during this journey. The speakers were exceptional great and the feedback received from the delegates is extremely positive. Few images are attached. A report will be sent at the earliest.
-This time 27 Student Branches nominated for the SB Awards. The winners are: **
+ The Section Student Congress'19, in the history of IEEE Hyderabad Section witnessed more than 1000+ delegates from 60 different engineering colleges from both the Telugu states. The entire SAC team along with Student Network members thank each and every SEC member for their tremendous support and timely mentoring during this journey. The speakers were exceptional great and the feedback received from the delegates is extremely positive. Few images are attached. A report will be sent at the earliest.This time 27 Student Branches nominated for the SB Awards.
+
+** The winners are: **
 1. Lead Student Branch     ---    G. Pulla Reddy Engineering College
-2. Vibrant Student Branch  --- GITAM University, Vizag
+2. Vibrant Student Branch  --- GITAM University, Vizag and 
                                                VNR Vignan Jyothi Institute of Engineering and Technology
 3. Emerging Student Branch --- Vignan’s Foundation for Science and Technology, Guntur, JNTU, Narasaraopeta
 

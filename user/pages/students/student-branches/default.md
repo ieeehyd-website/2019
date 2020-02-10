@@ -28,9 +28,6 @@ or any further queries on the same, kindly feel free to communicate with us.
 
 **SAC Chair:** Mrs. Dr. G. Sree Lakshmi (<sac@ieee.org>)   
 
-**SAC Vice-Chair:** Mr. Nagraj Budhidha (<naghuraju01@gmail.com>)
-
-**SSR:** Mr. Chaitanya Kuruganti (<chaitanyakuruganti@gmail.com>)
 
 ## IEEE Hyderabad Section Student Branches
 
