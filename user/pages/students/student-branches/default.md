@@ -26,101 +26,150 @@ The petition can be found [here.](https://www.ieee.org/societies_communities/geo
 
 or any further queries on the same, kindly feel free to communicate with us.
 
-**SAC Chair:** Mrs. Dr. Y.Vijayalatha (<sac@ieee.org>)
+**SAC Chair:** Mrs. Dr. G. Sree Lakshmi (<sac@ieee.org>)   
+
+**SAC Vice-Chair:** Mr. Nagraj Budhidha (<naghuraju01@gmail.com>)
 
 **SSR:** Mr. Chaitanya Kuruganti (<chaitanyakuruganti@gmail.com>)
 
 ## IEEE Hyderabad Section Student Branches
 
----
-| S.No | School Name                                       | Count of Members |
-| ---- | ------------------------------------------------- | ---------------- |
-| 1    | GITAM University                                  | 417              |
-| 2    | Gokaraju Rangaraju Inst Of Eng & Tech             | 271              |
-| 3    | Keshav Memorial Institute of Technology-KMIT      | 135              |
-| 4    | Lakireddy Balireddy College Of Eng                | 133              |
-| 5    | VNR Vignana Jyothi Inst Of Eng & Tech             | 132              |
-| 6    | Sreenidhi Inst Of Science & Tech                  | 125              |
-| 7    | Muffakhamjah College of Engineering & Technology  | 118              |
-| 8    | Mvgr College Of Engineering                       | 114              |
-| 9    | G Pulla Reddy Engrg College                       | 99               |
-| 10   | Vaagdevi College Of Eng - Warangal                | 97               |
-| 11   | S R Engineering College - Warangal                | 80               |
-| 12   | Dadi Inst of Eng and Tech                         | 70               |
-| 13   | Velagapudi Ramakrishna Siddhartha Eng Coll        | 64               |
-| 14   | Chaitanya Bharathi Inst Of Tech-Osmania Univ      | 63               |
-| 15   | Vignana Bharathi Inst Of Tech                     | 63               |
-| 16   | Guru Nanak Inst of Technology-Ibrahimpatnam       | 57               |
-| 17   | Vignan Institute of Technology & Science          | 57               |
-| 18   | Jayamukhi Inst Of Technological Sciences          | 56               |
-| 19   | National Institute of Technology-Warangal         | 56               |
-| 20   | Koneru Lakshmaiah College Of Engineering          | 54               |
-| 21   | Geethanjali College of Engineering & Technology   | 53               |
-| 22   | Vaagdevi Engineering College                      | 50               |
-| 23   | Univ College of Eng - Osmania Univ-HYDERABAD      | 49               |
-| 24   | CMR College of Engineering & Technology           | 48               |
-| 25   | J B Inst Of Engineering & Tech                    | 44               |
-| 26   | Jawaharlal Nehru Tech Univ-Hyderabad              | 42               |
-| 27   | International Institute of Info Tech - Hyderabad  | 40               |
-| 28   | Anurag Group of Institutions                      | 39               |
-| 29   | Matrusri Engineering College                      | 39               |
-| 30   | Tirumala Engineering College                      | 38               |
-| 31   | Jawaharlal Nehru Technological Univ-Anantapur     | 37               |
-| 32   | Indian Institute of Technology-Hyderabad          | 36               |
-| 33   | Rajeev Gandhi Memorial College of Eng & Tech      | 35               |
-| 34   | Hyderabad Instiute of Technology & Management     | 34               |
-| 35   | Govt College Of Engrg-Ananthapur/Jntu Univ        | 32               |
-| 36   | BVRIT Hyderabad                                   | 26               |
-| 37   | KKR & KSR Institute of Tech & Sciences            | 26               |
-| 38   | PSCMR College of Engineering and Technology       | 26               |
-| 39   | Sree Vidyanikethan Engineering College-TIRUPATI   | 24               |
-| 40   | Birla Inst of Tech & Sci Pilani - Hyderabad       | 23               |
-| 41   | CVR College Of Engineering                        | 22               |
-| 42   | Aditya College of Engineering                     | 21               |
-| 43   | MVSR Engineering College                          | 21               |
-| 44   | Sphoorthy Engineering College                     | 21               |
-| 45   | Marri Laxman Reddy Inst of Tech and Man           | 20               |
-| 46   | Gayatri Vidya Parishad College Of Engrg           | 19               |
-| 47   | TKR College of Engineering and Tech               | 19               |
-| 48   | Chirala Engineering College                       | 18               |
-| 49   | Sasi Institute of Technology & Engineering        | 18               |
-| 50   | Srinivasa Ramanujam Institute of Technology       | 18               |
-| 51   | Raghu Institute of Technology                     | 17               |
-| 52   | Vaageswari College of Engineering                 | 17               |
-| 53   | Jawaharlal Nehru Technical Univ - Andhra Pradesh  | 16               |
-| 54   | Nalla Malla Reddy Engineering College             | 16               |
-| 55   | St. Ann's College of Engineering & Tech-Chirala   | 16               |
-| 56   | Andhra Univ College Of Engineering                | 14               |
-| 57   | CMR Engineering College                           | 13               |
-| 58   | Dhanekula Institute of Engineering and Technology | 13               |
-| 59   | Jawaharlal Nehru Technological Univ-Kakinada      | 13               |
-| 60   | Mahindra Ecole Centrale                           | 13               |
-| 61   | Narsimha Reddy Engineering College                | 13               |
-| 62   | Auroras Scientific Technological & Research Acad  | 12               |
-| 63   | Swarnandhra College Of Engineering & Technology   | 12               |
-| 64   | Santhiram Engineering College                     | 11               |
-| 65   | Malla Reddy Eng College                           | 10               |
-| 66   | MLR Institute of Technology                       | 9                |
-| 67   | Vardhaman College of Engrg-Shamshabad             | 9                |
-| 68   | Vignan's Institute Of Information Technology      | 9                |
-| 69   | G Narayanamma Inst Of Tech & Sci (Women)          | 8                |
-| 70   | Hyderabad Univ Of - School Of Maths & Comp Sci    | 8                |
-| 71   | Acharya Nagarjuna University                      | 6                |
-| 72   | Vignan University - GUNTUR                        | 6                |
-| 73   | Kakatiya Institute of Technology & Science        | 5                |
-| 74   | Methodist College of Engineering & Technology     | 5                |
-| 75   | Padmasri Dr B V Raju Inst Of Tech                 | 5                |
-| 76   | RVR &JCOP College Of Engrg                        | 5                |
-| 77   | Sri Jayachamarajendra College Of Engrg            | 5                |
-| 78   | Vignan's Foundation for Sci, Tech & Research      | 4                |
-| 79   | Bapatla College Of Engrg/Nagarjuna Univ           | 3                |
-| 80   | Guru Nanak Engineering College                    | 3                |
-| 81   | Konneru L College Of Engrg-Guntur/Nagarjuna U     | 3                |
-| 82   | Mahatma Gandhi Inst Of Tech                       | 3                |
-| 83   | Malla Reddy Engineering College for Women         | 3                |
-| 84   | Rayalaseema University                            | 3                |
-| 85   | Sri Venkateswara Univ College Of Engineering      | 3                |
-| 86   | Vasavi College Of Engineering                     | 3                |
+
+|S .No	|	School Name											|	Count of Members	|
+| ----- | ----------------------------------------------------- | --------------------- |
+| **Total** | **Hyderabad Section**                                    | **4045**                  |
+|	1	|	G Pulla Reddy Engrg College							|	191					|
+|	2	|	GITAM University									|	155					|
+|	3	|	Univ College of Eng - Osmania Univ-HYDERABAD		|	123					|
+|	4	|	MVSR Engineering College							|	122					|
+|	5	|	Sasi Institute of Technology & Engineering			|	118					|
+|	6	|	Gokaraju Ranga Raju Inst of Eng & Tech-HYDERABAD	|	108					|
+|7|Keshav Memorial Institute of Technology-KMIT|103|
+|8|Balaji Institute of Technology & Science|96|
+|9|Dadi Inst of Eng and Tech|94|
+|10|Muffakhamjah College of Engineering & Technology|94|
+|11|Geethanjali College of Engineering & Technology|90|
+|12|Vardhaman College of Engrg-Shamshabad|87|
+|13|Nalla Malla Reddy Engineering College|86|
+|14|Sreyas Institute of Engineering & Technology|86|
+|15|Vaagdevi College Of Engineering|84|
+|16|CMR College of Engineering & Technology|80|
+|17|Gayatri Vidya Parishad College Of Engrg|77|
+|18|Koneru Lakshmaiah College of Engineering|77|
+|19|GVP College of Engineering For Women|70|
+|20|Mvgr College Of Engineering|70|
+|21|Raghu Institute of Technology|70|
+|22|VNR Vignana Jyothi Inst Of Eng & Tech|63|
+|23|Sreenidhi Inst of Science & Tech|62|
+|24|Vaagdevi Engineering College|55|
+|25|Chaitanya Bharathi Institute of Tech - HYDERABAD|54|
+|26|Jayamukhi Inst Of Technological Sciences|51|
+|27|Jawaharlal Nehru Tech Univ-Hyderabad|49|
+|28|Indian Institute of Technology-Hyderabad|48|
+|29|International Institute of Info Tech - Hyderabad|46|
+|30|National Institute of Technology-Warangal|42|
+|31|BVRIT Hyderabad|38|
+|32|Hyderabad Instiute of Technology & Management|38|
+|33|Shri Vishnu Engineering College For Women|38|
+|34|Vignana Bharathi Institute Of Technology|37|
+|35|Birla Inst of Tech & Sci Pilani - Hyderabad|36|
+|36|Raghu Engineering College - Visakhapatnam|36|
+|37|G Narayanamma Inst Of Tech & Sci (Women)|35|
+|38|Institute of Aeronautical Engineering|34|
+|39|Vignan's Foundation for Sci, Tech & Research|34|
+|40|Vasavi College of Engineering - HYDERABAD|33|
+|41|Stanley Coll of Eng & Tech for Women|32|
+|42|JNTUK Univ College of Engineering Narasaropet|31|
+|43|LAKIREDDY BALI REDDY COLLEGE OF ENGINEERING|31|
+|44|National Institute of Technology-Andhra Pradesh|31|
+|45|Vignan's Institute of Information Technology|31|
+|46|Audisankara College of Engineering & Tech|30|
+|47|Jawaharlal Nehru Technological Univ-Anantapur|30|
+|48|Rajeev Gandhi Memorial College of Eng and Tech|28|
+|49|Prasad V Potluri Siddhartha Ins of Tech Vijayawada|26|
+|50|S R Engineering College - Warangal|26|
+|51|Velagapudi Ramakrishna Siddhartha Eng College|26|
+|52|Vignan's Inst. of Management and Tech for Women|26|
+|53|Aditya College of Engineering and Technology|25|
+|54|Chadalawada Ramanamma Engineering College|24|
+|55|Satya Inst of Tech and Management SITAM|24|
+|56|Sir C.R.Reddy College Of Eng|24|
+|57|St. Ann's College of Engineering & Tech-Chirala|23|
+|58|SV Engineering College|22|
+|59|Vidya Jyothi Institute of Technology|22|
+|60|Andhra Univ College Of Engineering|21|
+|61|Anil Neerukonda Inst Of Tech & Sciences|21|
+|62|Matrusri Engineering College|21|
+|63|Sri Venkateswara College of Engineering|21|
+|64|Srinivasa Ramanujam Institute of Technology|21|
+|65|Vardhaman College of Engineering|21|
+|66|SRM University, AP - Amaravati|20|
+|67|Vignan Institute of Technology & Science|20|
+|68|Madanapalle Inst of Tech & Science, MADANAPALLE|19|
+|69|ANURAG GROUP OF INSTITUTIONS|18|
+|70|Joginpally B.R. Engineering College|17|
+|71|Mahindra Ecole Centrale|17|
+|72|Santhiram Engineering College|17|
+|73|Vellore Institute of Technology University, AP|17|
+|74|Annamacharya Institute of Technology, Rajempet|16|
+|75|CMR Technical Campus|16|
+|76|Malla Reddy College of Eng.(CM Eng. College)|16|
+|77|Sree Vidyanikethan Engineering College-TIRUPATI|16|
+|78|KG Reddy College of Engineering and Technology|15|
+|79|CMR Institute of Technology-Hyderabad|14|
+|80|Kakatiya Institute of Tech & Science - Warangal|14|
+|81|Narasaraopeta Engineering College|13|
+|82|Chaitanya Bharathi Institute of Tech - Proddatur|12|
+|83|Geethanjali Institute of Science & Technology|12|
+|84|Hyderabad Univ Of - School Of Maths & Comp Sci|12|
+|85|Jawaharlal Nehru Technological Univ-Viziangaram|12|
+|86|Kommuri Pratap Reddy Institute of Technology|12|
+|87|Padmasri Dr B V Raju Inst of Tech|12|
+|88|Sridevi Women'S Engineering College|12|
+|89|Govt College Of Engrg-Ananthapur/Jntu Univ|11|
+|90|Sphoorthy Engineering College|11|
+|91|Tirumala Engineering College|11|
+|92|Vasireddy Venkatadri Institute of Technology|11|
+|93|Mahatma Gandhi Inst Of Tech|8|
+|94|Malla Reddy Institute of Technology & Science|8|
+|95|Osmania Univ|8|
+|96|Jawaharlal Nehru Technological Univ-Kakinada|7|
+|97|Centurion Univ of Technology & Management, AP|6|
+|98|CVR College of Engineering|6|
+|99|Malla Reddy Institute of Enging and Tech.|5|
+|100|Methodist College of Engineering & Technology|5|
+|101|RVR &JCOP College Of Engrg|5|
+|102|Acharya Nagarjuna University|4|
+|103|Bapatla Engineering College Mahatmajipuram|3|
+|104|Vishnu Institute Of Technology|3|
+|105|Bharath Inst Of Engineering & Tech|2|
+|106|Gudlavalleru Engineering College|2|
+|107|Kakatia Inst Of Tech & Science Kaktia Univ|2|
+|108|Konneru L College Of Engrg-Guntur/Nagarjuna U|2|
+|109|LENDI INSTITUTE OF ENGINEERING & TECHNOLOGY|2|
+|110|NBKR Inst Of Tech-Vidyanagar/Sri Venkateswar|2|
+|111|Rajeev Gandhi Memorial College of Eng & Tech|2|
+|112|Vignan University - GUNTUR|2|
+|113|Aditya Institute Of Tech & Management - Tekkali|1|
+|114|CMR Engineering College|1|
+|115|Dravidian University|1|
+|116|Godavari Inst Of Eng & Tech|1|
+|117|Guru Nanak Institutions Technical Campus-HYDERABAD|1|
+|118|Jawaharlal Nehru Technical Univ - Andhra Pradesh|1|
+|119|Jawaharlal Nehru Technological Univ-Pulivendula|1|
+|120|Kakatia Univ|1|
+|121|KKR & KSR Institute of Tech & Sciences|1|
+|122|Loyola Inst Of Tech & Mgmt|1|
+|123|Malla Reddy Eng College|1|
+|124|Nagarjanasagar College Of Engrg-Hyderabad/Jnt|1|
+|125|PSCMR College of Engineering and Technology|1|
+|126|Rajiv Gandhi Memorial College Of Engr|1|
+|127|Rajiv Gandhi University of Knowledge Technologies|1|
+|128|Rayalaseema University|1|
+|129|Scient Inst Of Tech|1|
+|130|Shadan College Of Engg & Tech|1|
+|131|Sri Sathya Sai Inst Of Higher Learning|1|
+|132|TKR College of Engineering and Tech|1|
 
 
 ## IEEE organization

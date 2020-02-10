@@ -17,61 +17,19 @@ EMC is the world's largest organization dedicated to the development and distrib
 
 Hyderabad is host to a large pool of RF & Microwave, Antenna and EMI-EMC Professionals, spread across various research laboratories, PSUs and industries in Hyderabad. IEEE MTT/AP/EMC Jt. Chapter was started in 2008 under IEEE Hyderabad Section to further the interest of these common-interest professionals.  This joint chapter has since been highly active and has been very successful to bring professionals from these fields to common platform. The chapter has co-sponsored and held various conferences, workshops and Lecture events. International Microwave and RF Conference, IMaRC-2015 has been a very successful event of MTT/AP/EMC Jt. Chapter, Hyderabad. Every year, the chapter holds various Professional Talks/Lectures/Workshops for the benefit of its members. We invite prominent speakers expert in their respective fields to deliver the talks or conduct workshops or seminars. Dr. K.C. Gupta, Dr. Madhu Gupta, Dr. T K Sarkar, Dr. Vijay Nair, Dr. D C Pandey, Prof. Shiban Koul, Prof. Magdalena Salazaar, Prof. Girish Kumar, Prof. Debatosh Guha and many more are some of the speakers of our chapter. The chapter also holds jointly with Hyderabad Section, flagship annual event, Sir JC Bose Memorial Lecture. This event is regularly held on 30th November of the year. The MTT/AP/EMC Jt. Chapter Hyderabad has received Outstanding Chapter Award for 2014-2015 for its active contribution towards its members.
 
-## Executive Committee - 2019
+## Executive Committee - 2020
+
+#### MTT/APS/EMC Joint Chapter
 
 | Designation          | Name               | Organisation            | E-mail                                 | Membership No |
 | -------------------- | ------------------ | ----------------------- | -------------------------------------- | ------------- |
 | Chair                | Sandeep M Satav    | RCI, DRDO               | sandeepm.satav@rcilab.in               | M 92252287    |
-| Vice Chair           | K Jaya Sankar      | MGIT                    | kottareddyjs@gmail.com                 | SM 40294803   |
-| Secretary            | Runa Kumari        | BITS Pilani, Hyd Campus | runakumari@hyderabad.bits-pilani.ac.in | M 90843160    |
-| Treasurer            | Sachin Jain        | ASL, DRDO               | sachinjian@asl.drdo.in                 | M 93898335    |
-| Member               | Ch. Viswanadham    | BEL, Hyderabad          | vishwanadhamch@bel.co.in               | SM 92687001   |
-| Member               | Prashant Mishra    | RCI, DRDO               | mishra.pk81@gmail.com                  | M 92525515    |
-| Member               | Anantha Bharathi   | ECE Dept. UCE OU        | bharathig8@gmail.com                   | M 90538233    |
-| Immediate Past Chair | Yogesh Kumar Verma | RCI, DRDO               | ykverma@yahoo.com                      | SM 85017068   |
-
-## Events Planned (2019)
-
-| **Events** |
-| -----------------------------------------------------------------------------------------------------|
-
- Electromagnetics and Microwave Engineering: Pedagogy, Research Trends and Applications" (EMPRA 2020)   
-
----
- 9th Sir JC Bose Memorial Lecture - Phased Arrays and Related RF Technologies for mm wave 5G Communication 
-
-## Events Conducted(2019)
-
-| **S.No** | |**Events** |
-| :--------: | | -------------------------------------------------------------------------------------------|
-| 1 | | Technical Lecture on "Reconfigurable Antennas: Theory, Challenges and Physical Implementation" |
-| 2 | | Inaugural of IEEE Microwave Theory and Techniques Society Student Chapter & Technical Lecture at Vardhaman College of Engineering, Shamshabad“ 501 218, Hyderabad |
-| 3 | | 1 Day Seminar on Phased Array RADAR Modelling and Simulation  |
-| 4 | | Recent advances in Antennas & Microwave Ciruits with applications & Simulation studies |
-     
-
-
-## Past Events (2017)
----
-
-### Technical Lecture Compact Antenna Test Range Systems
-
-IEEE Hyderabad Section & MTT/AP/EMC Jt. Chapter, organized a technical lecture on Compact Antenna Test Range Systems on 18th Nov 2017 at Auditorium – ECE Dept., University College of Engg., Osmania University, Hyderabad.
-
-A total of fifty five(55) participants have attended the lecture out of which 34 attendees were PG and Ph. D students, 5 attendees were faculty, out of which  two (2) are from  Osmania University  and three (3)  are from other engineering colleges, 11 attendees were from industries(DRDL, AMPL, ACE antenna technology etc) and 6 out of 55 participants had IEEE membership.
-
-The Lecture started with a welcome address by Dr. Yogesh Kumar Verma, Chairman, MTT/AP/EMC Jt. Chapter, IEEE Hyderabad Section. He briefly introduced the importance of the lecture and Mrs. A. Bharathi, Secretary, MTT/AP/EMC Jt. Chapter introduced the speaker Mr. Rakesh Kumar Singh, Head, Stealth Technologies and Test Ranges Division, RCI.
-
-The lecture has given information regarding the design and development of Compact Antenna Test Ranges for Antenna Measurements. The phenomenon of plane wave formation and various parameters for the qualification of the range with results from various ranges developed are elaborated. Serrations on a reflector and inherent problems in the compact range were brought out. Large compact ranges with panels /subparts with serious hidden errors were discussed. A design example was discussed.
-
-Dr. M. Lakshminarayana, Chairman, IEEE Hyderabad presented a memento to the speaker Rakesh K. Singh and requested the speaker to provide an opportunity to PG students of Osmania University to visit the compact range at RCI. Dr. Yogesh Kumar Verma briefed the upcoming activities of the  MTT/AP/EMC Jt. Chapter.
-
-The session ended with vote of thanks by Dr. Prashant Mishra, Treasurer, MTT/AP/EMC Jt. Chapter.
-
-### RF Radiation Safety
-
-Organized a Technical Lecture on ‘RF Radiation Safety” by Shri Sandeep M. Satav, Head, EMI-EMC Div., RCI Hyderabad on 10/06/2017. The Lecture was organized at ECE Deptt Auditorium, Osmania University Campus. A total of forty six (46) have attended the lecture out of which 26 attendees were UG, PG and Ph. D students, 11  attendees were faculty, out of which  five (5) are from  Osmania University  and six (6)  are from other engineering colleges, 9 attendees were from industries and 8 out of 46 participants had IEEE membership.
-
-### MIMO in Radar – Which Applications?
-
-Organized One Day Tutorial on “Mimo in Radar – Which Applications?” at DAC Conference Hall, RCI. The Tutorial was conducted by Prof. Marc Lesturgie, Sr. Member IEEE & Director, SONDRA, France. A Total of 4 Lectures delivered from 1015 to 1700Hrs. Tea and Lunch were provided to participants. Total expenditure Rs. 7000/- for 2 Tea/Snacks and Lunch for participants and Guest Lecturer.
+| Vice Chair           | Rakesh Kichouliya	     | RCI, DRDO	                    | rakesh.kichouliya@rcilab.in                 | SM 90449838   |
+| Secretary            | Runa Kumari        | BITS Pilani, Hyd Campus | runakumari@hyderabad.bits-pilani.ac.in | SM 90843160    |
+| Treasurer            | Anantha Bharathi   | ECE Dept. UCE OU        | bharathig8@gmail.com                   | M 90538233    |
+| Member               | D Ramakrishna	   | ECE Dept. UCE OU	          | dasariramakrishna@yahoo.com               | M 92130488   |
+| Member               | G R Shinde	    | Astra Microwave Pvt. Ltd.	              | gajendra64@yahoo.com                | M 92612510    |
+| Member               | Sulakshna	    | Vardhaman Engg College	| sulakshna.chilukuri@ieee.org                |M 93392019   |
+| Member               | Chepala Anil Kumar		    | RCI	| anil.kumar@rcilab.in                |M 90849143   |
+| Member               | Sambasiv Rao		    | RCI	| k.sambasivarao@rcilab.in            |M 92850838 |         
+| Immediate Past Chair | Yogesh Kumar Verma | RCI, DRDO               |	ykverma@yahoo.com                    | 	M 90392860   |

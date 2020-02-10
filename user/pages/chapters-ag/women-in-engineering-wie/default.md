@@ -5,18 +5,26 @@
 
 IEEE Women in Engineering (WIE) is one of the largest international professional organizations dedicated to promoting women engineers and scientists, and inspiring girls around the world to follow their academic interests in a career in engineering. [Read on IEEE...](http://wie.ieee.org)
 
-## Executive Committee - 2019
+## Executive Committee - 2020
+
+---
+
+### Women in Engineering Affinity Group
 
 | Designation          | Name                    | Organisation                     | E-mail                        | Membership No |
 | -------------------- | ----------------------- | -------------------------------- | ----------------------------- | ------------- |
-| Chair                | G Sreelakshmi           | CVR College of Engineering       | s_sreelakshmi@yahoo.com       | M 91244764    |
-| Vice Chair           | Padma Sai.  Y           | HOD ECE, VNRVJIT                 | ypadmasai@gmail.com           | M 92531133    |
-| Secretary            | Poojitha Vasagiri       | NTT Data                         | vasagiripujitha@gmail.com     | M 93095812    |
-| Treasurer            | Harivardhagini Subhadra | CVR College of Engineering       | harivardhagini@gmail.com      | M 92218533    |
-| Member               | M. Aruna Bharathi       | Geetanjali College of Eng &Tech  | arunabharathi916@gmail.com    | M 94729516    |
-| Member               | Shaik Suraiah Thaseen   | Kurnool                          | shaik.suraiahthaseen@ieee.org | M 93113067    |
-| Member               | Mounica Alamanda        | Schneider Electric India Pvt Ltd | mounica.am62@gmail.com        | M 92194618    |
-| Immediate Past Chair | Vijayalakshmi Biradar   | Vignan Inst.of Tech. and Sci.    | laxmi81181@gmail.com          | SM 92478983   |
+| Chair                | Y Padma Sai	         | HOD ECE, VNRVJIT       | ypadmasai@gmail.com      | 	SM 92531133    |
+| Vice Chair           | Harivardhagini Subhadra	         | CVR College of Engineering	                 | harivardhagini@gmail.com           | M 92218533    |
+| Secretary            | Anitha Ravikumar	       | JP Morgan Chase & Co	                         | anitha.ravikumar21@gmail.com	     | M 96166416    |
+| Treasurer            | M Aruna Bharathi	 | Geetanjali College of Eng &Tech	      | arunabharathi916@gmail.com      | M 94729516    |
+| Member               | Mounica Alamanda	     | Schneider Electric India Pvt Ltd	  | mounica.am62@gmail.com    | M 92194618    |
+| Member               | Dr Renuka Devi S M   | Professor EEE, G. Narayanamma Institute of Technology Science             | renuka.devi.sm@gmail.com | 	M 94151607    |
+| Member               | Dr J Sridevi	        | 	Professor & amp; HOD,EEE, Gokaraju Rangaraju Institute of Engineering and Technology | sridevi.j.8@gmail.com       | 	M 95037170   |
+| Member               | Mrs Sangeeta Singh	        | 	Asst. Prof. ECE Dept, Vardhman College of Engineeringy | Sangeeta.sanu@gmail.com       | 		M 93266054   |
+| Immediate Past Chair | G Sreelakshmi  | CVR College of Engineering    | ls_sreelakshmi@yahoo.com         | SM 91244764   |
+
+### WiE AG Activities (2020)
+---
 
 ## Past Events
 ---
