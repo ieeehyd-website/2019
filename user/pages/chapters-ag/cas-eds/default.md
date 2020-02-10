@@ -16,46 +16,23 @@ EDS promotes excellence in the field of electron devices by enhancing the qualit
 
 The Joint Chapter of IEEE Circuits and Systems/ Electron Device Societies was established in 2011 in IEEE Hyderabad Section. In a short period of time that chapter has become one of the most active society chapters of Hyderabad section. It has organised three IEEE International Conferences - PrimeAsia 2012, PrimeAsia 2013 and PrimeAsia 2015.  It has established International Linkages with - IEEE CAS Japan, Singapore, Malaysia, Indonesia and Sri Lanka by way of conducting joint workshops and conferences in collaboration with these countries. The chapter aims at bidding for ISCAS and APCCAS to bring them to Hyderabad.
 
-## Executive Committee - 2019
+## Executive Committee - 2020
+
+#### CAS/EDS Joint Society Chapter
 
 | Designation          | Name                 | Organisation                 | E-mail                           | Membership No |
 | -------------------- | -------------------- | ---------------------------- | -------------------------------- | ------------- |
-| Chair                | Arifuddin Sohel      | M J CET, Hyderabad           | arif.sohel@gmail.com             | SM 90871309   |
-| Vice Chair           | A Krishnakant        | Austria Micro Systems        | gowrikrishnakanth.avalur@ams.com | M 80574345    |
-| Secretary            | P. Chandrasekhar     | Head, ECE, OUCE              | sekharpaidimarry@gmail.com       | M 93163567    |
-| Treasurer            | P. Vijaya Sankar Rao | University of Hyderabad      | vijaysp@uohyd.ac.in              | M 80709801    |
-| Member               | P A Govindacharyulu  | Vasavi College of Engg       | pagovindacharyulu@yahoo.com      | SM 40152067   |
-| Member               | Adupa Chakradhar     | Jayamukhi Inst of Tech & Sci | adupa.chakradhar@gmail.com       | M 94139728    |
-| Member               | Aftab Hussain        | IIIT Hyderabad               | aftab.hussain@iiit.ac.in         | M 94153257    |
-| Member               | V Veeresh            | AMS Semiconductors Pvt Ltd   | veeresh.vulligaddala@ams.com     |               |
-| Immediate Past Chair | Kaleem Fatima        | M J CET, Hyderabad           | kaleemfatima@gmail.com           | SM 41424639   |
+| Chair               | P. Chandrasekhar     | Prof. ECE, OUCE              | sekharpaidimarry@gmail.com       | M 93163567    |
+| Vice Chair           | A Krishnakant        | Austria Micro Systems        | gowrikrishnakanth.avalur@ams.com | SM 80574345    |
+| Secretary/ Treasurer            | P. Vijaya Sankar Rao | University of Hyderabad      | vijaysp@uohyd.ac.in              | M 80709801    |
+| Member               | Adupa Chakradhar     | Jayamukhi Inst of Tech & Sci | adupa.chakradhar@gmail.com       | SM 94139728    |
+| Member               | V Veeresh            | AMS Semiconductors Pvt Ltd   | veeresh.vulligaddala@ams.com     | M 94832997       |
+| Member               | Aftab Hussain           | IIIT Hyderabad   | aftab.hussain@iiit.ac.in    | M 94153257      |
+| Member               | P A Govindacharyulu  | Vasavi College of Engg       | pagovindacharyulu@yahoo.com      |SM 40152076   |
+| Member               | Kaleem Fatima        | M J CET, Hyderabad           | kaleemfatima@gmail.com           | SM 41424639   |
+| Member               | Maliha Naaz       | MJ CET, Hyderabad           | Maliiha.naaz@gmail.com           | M 93874622  |
+| Member               | TM Praneeth Naidu       | Osmania University           | praneethtm@gmail.com           | M 92936855  |
+| Immediate Past Chair | Mohammed Arifuddin Sohel      | M J CET, Hyderabad           | arif.sohel@gmail.com             | SM 90871309   |
 
-## Planned Events
----
 
-1. Third CASS membership development workshop on Internet of Things at JITS Warangal on 17 and 18 February 2018. For further details, please visit <https://sites.google.com/site/cassiotforum/home>
-2. Career Opportunities in Electronics Sector at Osmania University on 24 February 2018. 
-3. For details of events of last six years Please visit us at <https://sites.google.com/site/casshyderabad>
-
-## Conducted Events (2019)
----
-
-1. CASS Dinner Meeting with Prof. Subhas Mukopadhyay 
-2. Inauguration of IoT lab facility at MJCET
-3. Technical Talk on Wearable Devices in Healthcare
-4. Second Workshop on Advance Iot with Machine Learning 
-5. First Workshop on Advanced IOT with Machine learning 
-6. CAS/ ED Research Forum
-7. Three day workshop on Setup of IoT Lab 
-8. Hands-on LoRaWAN workshop for IoT applications 
-9. 2019 IEEE International Conference on Modeling of Systems Circuits and Devices(MOS AK India) 
-10. IEEE EDS Mini Colloquia(MQ) 
-11. Technical Talk on Creating IoT solutions for Industry
-
-## Planned Events
-
-| S.No. | Event Description                                                        |
-| :-----: | ------------------------------------------------------------------------ |
-| 1     | Third Workshop on Advanced IoT with Machine Learning at RIT, Vizag |
-| 2     | Hands On Workshop on Analog IC Design                           |
 

@@ -30,42 +30,24 @@ The Chapter was founded in 2011 by Dr. Amit Kumar. Dr. Amit Kumar chaired the ch
 
 IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. We have organized hands on sessions, technical talks, workshops with experts from premier academic institutions and Industry such as Indian Statistical Institute kolkota, PES University, Mahindra ecole Centrale, Infosys and Microsoft. Recently, we have organized a flagship event titled “John Mc Carthy Memorial Lectures series” which is widely accepted by the CIS community. The first lecture was delivered by Prof. C.A. Murthy, Indian Statistical Institute, Kolkata and the Second lecture was delivered by Prof. Raghu Krishnapuram, Fellow IEEE. Recently, we have started GRSS flagship event titled "Richard Moore Memorial Lectures". The first lecture was delivered Dr. Paul A. Rosen, JPL, NASA. We propose to take forward our experiential learning to organize innovative programs that provide oppurtunities for all classes our memberships in 2018.
 
-## Executive Committee - 2019
+## Executive Committee - 2020
+
+#### CIS/GRSS Joint Society Chapter
 
 | Designation          | Name                  | Organisation        | E-mail                     | Membership No |
 | -------------------- | --------------------- | ------------------- | -------------------------- | ------------- |
 | Chair                | Hitendra Sarma        | SRIT, Ananthapuramu | t.hitendrasarma@gmail.com  | SM 91168866   |
-| Vice Chair           | Vijayalaxmi Biradar   | VITS Hyderabad      | laxmi81181@gmail.com       | SM 92478983   |
-| Secretary/Treasurer  | Mousmi Ajay Chaurasia | MJ CET, Hyderabad   | mousmi.ksu@ieee.org        | M 91191414    |
-| Member               | Tilottama Goswami     | BVRIT, Hyderabad    | tilottama.goswami@ieee.org | M 94984369    |
-| Member               | Kidambi Seshadri      | NRSC                | seshadri.nrsc@gmail.com    | M 94862712    |
-| Immediate Past Chair | Naresh                | NRSC                | nareshm@ieee.org           | SM 92101512   |
+| Vice Chair          | Mousmi Ajay Chaurasia | MJ CET, Hyderabad   | mousmi.ksu@ieee.org        | M 91191414   |
+| Secretary  | Vinit Kumar Gunjan | CMR Institute of Technology	   | vinitkumargunjan@gmail.com       | SM 92020956   |
+| Treasurer  | B Vijendra Reddy	| ADRIN, ISRO		   | bviijay@gmail.com       | SM 92775834  |
+| Member               | Ramkaran Rudravaram	     | RCV Innovations Pvt Ltd	    | 	ram.karan@gmail.com | 	M 96353274    |
+| Member               | Sunni Kanta Prasad Khuswaha	     | IIT Roorkee	    | s.k.p.kushwaha92@gmail.com |	M 95398046    |
+| Member               | N Usha Rani	      |Vignan's Foundation for ST&R	                | usharani.nsai@gmail.com    | SM 93890196    |
+| Member               | B Eswara Reddy	      | Dept. of CSEl, JNTUACEK	                | eswar.cse@jntua.ac.in     | SM 91242952  |
+| Member               | Tara Saikumar	      | CMRTC, Hyderabad	                | tara.sai437@gmail.com    | SM 93809193  |
+| Immediate Past Chair | M Naresh Kumar               | NRSC                | nareshm@ieee.org           | SM 92101512   |
 
 
-## Planned Events
----
-
-**To be Announced Later**
-
-## Conducted Events(2019)
-
-| S.No. | Event Description                                                        |
-| :-----: | ------------------------------------------------------------------------ |
-| 1     | Applications of Geoinformatics to solve groundwater problems in hard rock terrain of the country in 2-3 years |
-| 2     | Blockchain Technology: Applications & Career Opportunities |
-| 3     | BlockChain Technology: The Future of Cyber Security from Cyber Attacks |
-| 4     | Expert Talk on  Applications of Geoinformatics to solve groundwater problems in hard rock terrain of the country in 2-3 years |
-| 5     | National Remote Sensing Day  |
-| 6     | Two day Workshop on HYPERSPECTRAL IMAGE ANALYSIS  AND APPLICATIONS  |
-| 7     | Expert Talk on BASICS OF REMOTE SENSING AND TECHNIQUES  |
-| 8     | 2-Days Workshop on "GIS Concepts for Remote Sensing Applications  |
-
-## Student Branch Chapters
----
-
-**Muffakham Jah College of Engineering and Technology, Hyderabad** 
-
-**Srinivasa Ramanujam Institute of Technology, Anantapur**
 
 ## Pre-College Materials
 ---
@@ -91,31 +73,6 @@ A Teachers lesson plan giving suggestions on how to use the teaching pack with t
 
 **Please cite this website if you are using this material in your course work.**
 
-## Opportunities  
----  
-
-### CIS Summer School
-#### 22nd - 28th November 2018
-
-A 6-day Computer Intelligence Society summer school is to be held from November 22-18, 2018 on the campus of Muffakham Jah College of Engineering & Technology, Banjarahills, Hyderabad, India. Recent spurt in adoption of computational intelligence based techniques by Industry giants for commercial use has created a demand to reskill the young professionals. Also, many startups that provide computational intelligence based solutions to customers have sprung up and are on lookout for graduate students who have prior exposure and working knowledge in computational intelligence. This in turn has led to a requirement to provide additional skills to new job aspirants. This summer schools attempts to fulfill the above requirements through a balanced program design incorporating theory, implementation and applications of computational intelligence technologies. 
-
-**Registration:** <https://www.payumoney.com/events/#/buyTickets/cis-ss2018>
-
-**Website:** <https://cishyd-ss.ieeehyd.org>
-
-**Venue:** Muffakham Jah College of Engineering & Technology (M.J.C.E.T.) Banjara Hills, Hyderabad
-
-**Contact:**
-
-Atul Negi, Chair,  
-IEEE CIS Summer School  
-<atul.negi@ieee.org>
-
-M.Naresh, Co-Chair,  
-IEEE CIS Summer School  
-<nareshm@ieee.org>
-
-[Announcement](https://drive.google.com/file/d/1Qmx-8vHtB6g-2insWkFhXjYyyuts_lpX/view?usp=sharing&noprocess)
 
 ### GRSS Summer School - 9-13 July 2018
 
@@ -219,16 +176,6 @@ CIS Outstanding Chapter Award - $2500 (2013)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6vYpvxdfhns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Flagship Events  
----
-
-#### Second John McCarthy Memorial Lecture by Prof. Raghu Krishnapuram, Fellow IEEE
-
-**Topic:** Recent developments in Artificial Intelligence and Potential Applications
-
-**Abstract:** In the recent past, many areas of artificial Intelligence (AI) such as machine learning and deep learning have seen developments at a breakneck speed. Major IT firms are investing heavily in these areas to gain a strategic advantage. This intense competition has resulted in many novel AI technologies, which are being incorporated into a plethora of applications in a variety of domains. This talk will provide an overview of the hype and reality behind the recent claims by the AI community, and outline its potential use in a variety of domains. Deep learning techniques are capable of making sense out of large volumes of disparate data, and (deep) reinforcement learning can deal with complex control and planning scenarios. Therefore, in combination, these techniques can be used to address many real world challenges.
-
-![](/user/img/cis-grss/events/jmc2017.jpg)
 
 ---  
 
@@ -246,174 +193,9 @@ These data are becoming essential climate records, with a scientific imperative 
 
 ![](/user/img/cis-grss/events/rml2017.jpg)
  
-## Forthcoming Events  
----
-
-#### Webinar on "The Social and Ethical Implications Of Computational Intelligence" ####
-
-Computational Intelligence  Society (CIS) is organizing a webinar and please find the details below:
-
-**Webinar Speaker:** Dr Matt Garratt, University of New South Wales
-
-**Webinar Title:** The Social and Ethical Implications Of Computational Intelligence
-
-**Date:** Thu, May 17, 2018 1:30 PM - 2:30 PM IST
-
-**Registration link:** <https://attendee.gotowebinar.com/register/2071141647237678337>
-
-**Abstract**: Computational Intelligence (CI) is a term encompassing a basket of soft-computing methodologies used to solve problems that are not suited to solution by mathematical or other traditional methods. CI techniques include technologies such as fuzzy logic, artificial neural networks, deep learning, evolutionary computation and cognitive and developmental systems. Today, CI techniques are embodied within many technologies ranging from autonomous driverless cars to automated decision making on the stock exchange. These technologies already have a significant positive effect on the global economy and when used properly can greatly enhance the lives of many people. There are however risks with misuse of CI. In this webinar, we will discuss what the moral principles should be that govern the behaviour of CI technology, as well as the designer. These principles cover balancing the ecological footprint of technologies against the economic benefits, managing the impact of automation on the workforce, ensuring privacy is not adversely affected and dealing with the legal implications of embodying CI technologies in autonomous systems.
-
-**Speaker Bio:** Matthew A Garratt received a BE degree in Aeronautical Engineering from Sydney University, Australia, a graduate diploma in applied computer science from Central Queensland University  and a PhD in the field of biologically inspired robotics from the Australian National University in 2008. Prior to entering academia, Matt worked as an engineer in the Royal Australian Navy for a decade. Some of his research successes include demonstration of terrain following using vision for an unmanned helicopter, landing an unmanned helicopter onto a moving deck simulator and control of helicopters using neural networks. Some of his current research projects include achieving autonomous flight in cluttered environments using monocular cameras and range sensors, landing UAVs on moving platforms, adaptive flight control for flapping wing and rotary wing vehicles, trusted human-autonomy teaming in teleoperations and self-organising Unmanned Systems in contested RF environments. He is an Associate professor with the School of Engineering and Information Technology (SEIT) at the University of New South Wales, Canberra. Matt is currently the Deputy Head of School (Research) in SEIT and is the chair of the Computational Intelligence Society task force on the Ethics and Social Implications of CI. His research interests include sensing, guidance and control for autonomous systems with particular emphasis on biologically inspired and Computational Intelligence approaches.
-
-## Past Events  
----
-
-### 2018
-
-##### Field visit to Zen Technologies  
-**Date and Time:** Saturday, 17 March 2018, 10:00am  
-**Venue:** Zen Technologies, Sanath Nagar, Hyderabad.  
-**Map:** <https://goo.gl/maps/dyA5AHWV1cq>  
-**Contact:** Dr. Mousmi Ajay Chaurasia, +91-91601-46701, <mousmi.ksu@ieee.org>  
-
-![](/user/img/cis-grss/events/ZenTech.jpg)
-
-![](/user/img/cis-grss/events/ZenTech1.jpg)
-
-##### Two-day Tutorial on " Machine Learning and Evolutionary Optimization - Foundations, Recent Trends and Future Challenges"  by Prof. Swagatam Das, Indian Statistical Institute (ISI), Kolkatta @Dept. of CSE, JNTUH College of Engineering, Hyderabad.
-
-**Date and Time:** Saturday-Sunday, 24-25 March 2018, 9:00 am to 4:00 pm  
-**[Register here](https://in.explara.com/e/cistutorial)**  
-**Venue:** JNTUH, Kukatpally Hyderabad.   
-**Map:** <https://goo.gl/maps/xff64HQzQ9S2>   
-**Contact:** Dr. Mousmi Ajay Chaurasia, +91-91601-46701, <mousmi.ksu@ieee.org>
-
-[Flyer Event#6](https://drive.google.com/open?id=1hBT9G27ovBD8cGHwqmARBV0peUP18Fwt&noprocess)
-
-[Download Tutorial material](https://drive.google.com/open?id=1ORoPC7pqnF4VMcpepp0bhGfoGsa9j6bU&noprocess)
-
-![](/user/img/cis-grss/events/Dr.Swagatam.jpg)
-
-![](/user/img/cis-grss/events/tutorial_JNTUH.jpg)
-
-1. **A Distinguished Lecturer Event on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @NRSC**
-**Date and Time:** Friday, 9th February 2018, 10:30 am to 12:00 noon  
-**Venue:** National Remote Sensing Centre, Balanagar, Hyderabad.  
-**Map:** <https://goo.gl/maps/cHCR6gwXmNK2>  
-**Coordinator:** NESA President, Shri. C.V. Srinivas <srinivas_cv@nrsc.gov.in>
-
-[Flyer Event#5](https://drive.google.com/open?id=1ENkrR7YpsIaY7dmjKrMM1JxkpDmapePm&noprocess)
-![](/user/img/cis-grss/events/nrsc1.jpg)
-
-![](/user/img/cis-grss/events/nrsc2.jpg)
-1. **A Distinguished Lecturer Event on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @MEC**
-**Date and Time:** Thursday, 8th February 2018, 04:30 pm to 05:45 pm
-**Venue:** Mahindra Ecole Centrale, Hyderabad. 
-**Map:** <https://goo.gl/maps/6dkew98CJYD2>
-**Coordinator:** Dr. Arya Bhattacharya, Dean R&D, <arya.bhattacharya@mechyd.ac.in>
-
-[Flyer Event#4](https://drive.google.com/open?id=1zo0u0L3kR4K5oWRUrIRWl--Tv88AUYC0&noprocess)
-
-3. **A Distinguished Lecturer Event on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @UoH**
-**Date and Time:** Thursday, 8th February 2018, 10:30 am to 12:00 noon
-**Venue:** Raman Auditorium, University of Hyderabad, Hyderabad. 
-**Map:** <https://goo.gl/maps/tUJYUc1zAJA2> 
-**Coordinator:** Mr. Prasad B, <prasadb@ieee.org>
-
-[Flyer Event#3](https://drive.google.com/open?id=1FOHFCkrojVFKXeSHIc7jzZgBuccbz1SN&noprocess)
-![](/user/img/cis-grss/events/uoh.jpg)
-2. **Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @UOH**  
-**Date and Time:** Monday, 08th January 2018 Timing: 11:00 AM to 12:30 PM  
-**Venue:**  CMSD Seminar Hall University of Hyderabad, Gachibowli, Hyderabad
-**Map:**  <https://goo.gl/maps/tUJYUc1zAJA2>
-**Coordinator:** Prof. Atul Negi, UOH, Immediate Past Chair, IEEE CIS <atul.negi@ieee.org>
-
-[Flyer Event#2](https://drive.google.com/open?id=1ZuWYuW_z-wLx7MV9gme-dqrlacT8xNYl&noprocess)
-
-
-3. **Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @MJCET**
-   
-   **Date and Time:** Sunday, 07th January 2018 Timing: 3:00 PM to 4:30 PM
-   
-   **Venue:** Conference Hall, Ground Floor, Block-5 Muffakham Jah College of Engg. & Tech., Road no 3, Banjara hills, Hyderabad.
-   
-   **Map:** <https://goo.gl/maps/h83cW1cbVaS2>
-   
-   **Coordinator:** Dr. Mousmi Ajay Chaurasia, IEEE MJCET CIS Chapter Advisor, <mousmi.ksu@ieee.org>
-
-[Flyer Event#1](https://drive.google.com/open?id=17yXhIHsUjIQKsCcHxp5Du7D93kKSPqVL&noprocess)
-
-### 2017
-| Event | Description                                                                                                                                                                                                     |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 23    | An Expert Talk on MINING FOR MEDICAL EXPERTISE @Saint Francis on 28-12-2017 10:30                                                                                                                               |
-| 22    | Social Evening with distinguished speaker Prof. Risto Miikkulainen -- @ Vivanta by Taj Begumpet, Hyderabad.                                                                                                     |
-| 21    | Repeat of the DL talk “Evolution of Neural Networks” by distinguished speaker Prof. Risto Miikkulainen -- @ Gokaraju Rangaraju Institute of Engineering and Technology, Kukatpally, Hyderabad.                |
-| 20    | Repeat of the DL talk “Evolution of Neural Networks” by Distinguished speaker Prof. Risto Miikkulainen -- @ International Business Machines-India, Building 3, Raheja Mindspace , IBM corporation, Hyderabad. |
-| 19    | IEEE CIS Distinguished Lecture on “Evolution of Neural Networks” by Distinguished speaker Prof. Risto Miikkulainen -- @ International Institute of Information Technology, Hyderabad, Telangana India         |
-| 18    | Workshop on Differential Evolution - Concepts, Implementation and Applications	@MEC 29-11-2017 14:30                                                                                                            |
-| 17    | Workshop on Differential Evolution - Concepts, Implementation and Applications @MEC	29-11-2017 09:30                                                                                                            |
-| 16    | Social Evening with IEEE GRSS DL Dr. Ramapriyan	@Vivanta By Taj 28-11-2017 19:30                                                                                                                                |
-| 15    | IEEE GRSS Distinguished Lecturer program @IIIT Hyderabad	28-11-2017 14:30                                                                                                                                       |
-| 14    | IEEE GRSS Distinguished Lecturer program	@NRSC 27-11-2017 11:30                                                                                                                                                 |
-| 13    | Felicitation of Prof. B.L. Deekshatulu for outstanding support to GRSS @NRSC 27-11-2017 11:30                                                                                                                   |
-| 12    | Richard Moore Memorial Lectures	@NRSC 21-11-2017 11:30                                                                                                                                                          |
-| 11    | Social evening - Discussion on promoting geoscience and remote sensing - way ahead followed by dinner @ Vivanta by Taj, 20-11-2017 19:00                                                                        |
-| 10    | Renaissance in Radar Applications: Vision for Earth and Beyond	@IIIT Hyderabad 20-11-2017 15:00                                                                                                                 |
-| 9     | John McCarthy Memorial Lecture 2017	@Osmania University 18-11-2017 10:00                                                                                                                                        |
-| 8     | Workshop on Game theory with applications to Security @MJCET 06-10-2017 09:30                                                                                                                                   |
-| 7     | Technical Talk on Improved GA for Channel Allocation in Mobile Computing @UOH 21-09-2017 15:00                                                                                                                  |
-| 6     | Technical Talk on Social Implications of Technology	@NRSC 15-09-2017 11:00                                                                                                                                      |
-| 5     | A Tutorial Talk on Applications of Fuzzy Logic using MATLAB	@MJCET 30-08-2017 09:30                                                                                                                             |
-| 4     | Felicitation of Prof. Kalyanmoy Deb @ IDRBT 22-08-2017 11:00                                                                                                                                                    |
-| 3     | Workshop on Hadoop Basics & Advanced @SRIT Ananthpur 28-07-2017 11:00                                                                                                                                           |
-| 2     | Seminar on Convolutional Neural Networks and Deep Machine learning	@IIIT Hyderabad 26-07-2017 15:00                                                                                                             |
-| 1     | Workshop on Hadoop Basics	@IIT Hyderabad 08-04-2017 09:00                                                                                                                                                       |
-
-
-## Posters  
----  
-
-### 2017
-1. [SAGM 2017](https://drive.google.com/open?id=17wemFLUwlHBweFMiSd5DLbvvCZsi1t5c&noprocess)
-
-## Reports  
----  
-
-#### 2017
-1. [Activities Report 2017](https://drive.google.com/open?id=1t11xQ9Px_1m93fUAmsmJz1P4p90nmq0F&noprocess)  
-
-Topic: Recent developments in Artificial Intelligence and Potential Applications
-
-cognition  
-Topic: Recent developments in Artificial Intelligence and Potential Applications
-
-
-Topic: Recent developments in Artificial Intelligence and Potential Applications
-
-
-## Felicitation of Prof. Kalyanmoy Deb @ IDRBT Fellow IEEE  
-![](/user/img/cis-grss/events/debdrbt2017.jpg?raw=true)  
-
-### CIS Outstanding Supporter Award 2017  
-
-#### Prof. Sameen Fatima, Principal, UCE, Osmania University receiving the award @ CSE Department, Osmania University on 18 Nov 2017   
-![](/user/img/cis-grss/events/Sameen.jpg?raw=true)  
-
-#### Dr. Kavitha, Assistant Professor & Addl.Controller of Examinations, CSE, JNTU Hyderabad receiving the award @ CSE Department Osmania University on 18 Nov 2017  
-![](/user/img/cis-grss/events/Kavitha.jpg?raw=true)  
-
-### GRSS Outstanding Supporter Award 2017  
-
-#### Prof. B.L. Deekshatulu, Life Fellow IEEE receiving the award @ NRSC on 27 Nov 2017  
-![](/user/img/cis-grss/events/Deekshatulu.jpg?raw=true)  
-
-## Featured Interviews  
----  
-> To be announced later.  
 
 ## Call for Volunteers 
 ---  
 Volunteers are the blood line of the chapter. As a volunteer you play a key role in shaping the future of this chapter. You will get an oppurtunity to horn your leadership qualities and skills through organizing events and interactions with fellow members in our community. You will be the first to know latest happennings in your area of work or expertise. You will get oppurtunities to colloborate with top notch professionals working in the field of computational intelligence and geospatial technologies both from the industry and academia. Come join us and get the best out of yourself.  
 
-**Get in touch with us or send your suggestions/queries to: [Naresh M, Founding Chairman, IEEE CIS/GRSS Joint Hyderabad Chapter](mailto:nareshm@ieee.org)**
+**Get in touch with us or send your suggestions/queries to: [Hitendra Sarma, Chairman, IEEE CIS/GRSS Joint Hyderabad Chapter](mailto:t.hitendrasarma@gmail.com)**

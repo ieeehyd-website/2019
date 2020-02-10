@@ -17,24 +17,17 @@ project management; strategy; education and training; organizational development
 behavior; transitioning to management; and the socioeconomic impact of engineering and technology
 management.
 
-## Executive Committee - 2019
+## Executive Committee - 2020
+
+#### TEMS Chapter
 
 | Designation           | Name               | Organisation     | E-mail                    | Membership No |
 | --------------------- | ------------------ | ---------------- | ------------------------- | ------------- |
-| Chair                 | Aditya Rao         | Oracle           | a.rao@computer.org        | SM 41392320   |
-| Vice Chair            | P Ravi Shankar     | IIIT, VLABS      | prs7953@gmail.com         | SM 92134939   |
-| Secretary / Treasurer | Ch Venkaiah        | NIT Warangal     | ch.venkaiah@gmail.com     | SM 80031822   |
-| Member                | Sitaram Tadepally  | TCS              | sitaram.Tadepalli@tcs.com | M 93749937    |
-| Member                | Rajagopalan Kannan | BHEL R&D (Retd.) | bhelkannan@gmail.com      | SM 40159914   |
+| Chair                 | Aditya Rao         | Service Now      | a.rao@computer.org        | SM 41392320   |
+| Vice Chair            | Surendra Tipparaju	     | Microsoft      | tipparaju@hotmail.com     | 	M 95812126   |
+| Secretary | Krishna Joshi        |    | srikrishnajoshi@gmail.com  | M 96500875   |
+| Treasurer                | Sashi Kumar Bandaru  |            | sasikumar.bandaru@gmail.com | M 96500822    |
+| Member                | Narendra Ramya | | nramyavv@gmail.com   | M 94139832  |
 | Immediate Past Chair  | Jose R             | TCS              | jose.reddypogu@tcs.com    | M 91129303    |
 
-## Past Events (2017)
-
-| S.No. | Event Details                                                                                                                                                                                                                                                                                                                                                                          |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Technical Talk on “Innovations: Latest Advances in Technology” by Mr. Sitaram Tadepalli, TCS Hyderabad on 21 Dec 17 at Auditorium, TCS Q-City Office, Nanakram Guda.                                                                                                                                                                                                                 |
-| 2     | Technical Talk on “Big Data Analytics: Application in the Real World” by Mr. Sitaram Tadepalli, TCS Hyderabad on 19 Dec 17 at Sanskriti Seminar Hall, Vignan Institute of Technology and Science Deshmukhi Village, Yadadri District.                                                                                                                                                |
-| 3     | In collaboration with Software Engineering Research Center (SERC), IIIT, organized Half Day workshop on “ISO / IEC / IEEE 42020 - Architecture Processes” by Dr. Anand Kumar, Senior Scientist TRDDC Pune on 15 December 17 at Hall No. 119, Nilgiri Building, IIIT Hyderabad, Gachibowli.                                                                                           |
-| 4     | In collaboration with Industrial Relations Committee (IRC), organized Technical Talk on “Understanding AR/VR and it's scope, Scope for Alternate Reality in our daily life” by Mr. Jignesh Talasila, Loop Reality, Hyderabad on 04 August 17 at Main Seminar Hall, Nalla Narasimha Reddy Education Society’s Group of Institutions, Near Narapally, Chowdariguda, Ghatkesar Mandal. |
-| 5     | Technical Talk on Race Against the Machine: Surviving and Thriving in the “Systems Age” by Mr. MGPL Narayana, Vice President & Chief Scientist, TCS Hyderabad on 07 April 17, Friday at Auditorium, TCS Q-City Office, Nanakram Guda, IIIT Hyderabad.                                                                                                                                |
-| 6     | Technical Talk on “Instrumenting Processes" by Dr Anand Kumar, Senior Scientist, TRDDC Pune on 30 March 17, Thursday at Room No. 119, Nilgiri Building, IIIT Hyderabad.                                                                                                                                                                                                               |
+                                                                

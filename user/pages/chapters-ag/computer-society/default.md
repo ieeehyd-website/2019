@@ -10,7 +10,7 @@ The IEEE Computer Society is the world's leading membership organization dedicat
 
 IEEE Computer Society Chapter under Hyderabad Section is driven with a Technology Passion to make a difference to the community. The group encompasses with enthusiastic members from Industry and academics. The Mission of IEEE Computer Society is to promote the usage of technology to influence the quality of Life in the society.  a Techno Enthusiasts group having members from both Industry and academia with sole mission of promoting Technology Knowledge and its relevance to make a strong impact to the change in the society. The goal of the IEEE Computer Society is to drive an understanding on technology impact technologies that are of societal importance and benefit the Human kind. Technology Trends driving the next generation revolution to drive the convergence of technologies, construct General Purpose Technology and shift from linear to exponential in adoption. Computer Society members work in Industry, Academica, Government and Self-Employed. Computer Society members are responsible for
 
-| Various Domains of Computer Science including |                                  |
+| **Various Domains of Computer Science including** |                                  |
 | :-------------------------------------------- | -------------------------------- |
 | Software Development/Design Engineering       | Internet of Things               |
 | Cloud Computing                               | UI Design / Development          |
@@ -24,23 +24,22 @@ IEEE Computer Society Chapter under Hyderabad Section is driven with a Technolog
 | Games and Simulation                          | Smart Grid                       |
 | Blockchain                                    | Quantum Computing                |
 
-## Activities
----
 
-IEEE Computer Society chapter Hyderabad Section has organized more than 20 events this year. We have organized Technical Seminars, Faculty Development Programs, Technology Workshops, Webinars and Student Congress Conference with IEEE Distinguished Speakers and experts coming from Industry, Academia and other professional bodies.  Recently, we have organized a flagship Conference on "Demystifying AI and Blockchain" as IEEE All Hyderabad Section ComputerS Society Student Congress at Vaagdevi College of Engineering, Warangal. This conference was attended by over 300 delegates giving deeper insights into AI and Blockchain with a view on Real-time projects.
+## Executive Committee - 2020
 
-## Executive Committee - 2019
+#### Computer Society Chapter
 
 | Designation          | Name                     | Organisation               | E-mail                        | Membership No |
 | -------------------- | ------------------------ | -------------------------- | ----------------------------- | ------------- |
-| Chair                | Vidyasagar T             | TCS, Hyderabaad            | sagarvt@ieee.org              | M 93060528    |
-| Vice Chair           | MA Jabbar                | Vardhaman College of Engg. | jabbar.meerja@gmail.com       | SM 91119906   |
-| Secretary            | Rajanikanth Aluvalu      | Vardhaman College of Engg. | rajanikanth.aluvalu@gmail.com | M 94246417    |
-| Treasurer            | Gollapudi Ramesh Chandra | VNR VJIT                   | gollapudi_ramesh@yahoo.com    | M 92770255    |
-| Member               | G. Geeta                 | BITS Pilani, Hyderabad     | geethamaruvada@gmail.com      | M 80050971    |
-| Member               | K. Shyamala              | CSE Dept. OU               | prkshyamala@gmail.com         | M 92801683    |
-| Member               | Pavankumar Allu          | TCS, Hyderabad             | pavankumar.allu@tcs.com       | M 93406905    |
-| Immediate Past Chair | Bala Prasad Peddigari    | TCS, Hyderabaad            | bala.peddigari@ieee.org       | M 93031723    |
+| Chair                | T Vidyasagar           | TCS, Hyderabaad            | sagarvt@ieee.org              | SM 93060528    |
+| Vice Chair           | Reena Dayal	                | Microsoft	 |  dayal.reena@gmail.com       | M 92959254   |
+| Secretary            | G Dileep Kumar     | Sudiksha Analytics | 	gdkumar@ieee.org | SM 92195055    |
+| Treasurer            | 	Rajnikanth Aluvalu | Vardhaman College of Engg.                 | 	rajanikanth.aluvalu@gmail.com   | 	M 94246417    |
+| Member               | G. Geeta Kumari                | BITS Pilani, Hyderabad     | geethamaruvada@gmail.com      | M 80050971    |
+| Member               | V. Rama Krishna             | Anurag Group of Institutions             | 	ramakrishnacse@cvsr.ac.in        | M 96518655    |
+| Member               | 	Akhil Ageer          | ITE & C Dept, Govt. of Telangana	             | akhil.ageer@ieee.org       |	M 93860656   |
+| Member               | 	M A Jabbar	      | Vardhaman College of Engg.		             | 	jabbar.meerja@gmail.com      |	SM 91119906   |
+| Immediate Past Chair | Bala Prasad Peddigari    | TCS, Hyderabaad            | bala.peddigari@ieee.org       | SM 90578910    |
 ---
 
 ### 2019
