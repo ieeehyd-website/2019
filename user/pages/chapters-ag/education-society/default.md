@@ -15,7 +15,7 @@ Theory and practice of education and educational technology and professional dev
 | Vice Chair           | Divya Nalla         | Nalla Malla Reddy Engineering College        | divyanalla@nmrec.edu.in  |	M 80563669   |
 | Secretary/ Treasurer          | Tara Saikumar         | CMRTC, Hyderabad             | tara.sai437@gmail.com        | SM 93809193    |
 | Member               | Sudheer Kumar Terlapu	       | Shri Vishnu Engineering College for Women	            | 	profsudheer@gmail.com | 	M 94752819    |
-| Member               | Salman Abdul Moiz		       | 	Hyderabad Central University		            | 		salmanmca@gmail.com |  SM 90639306    |
+| Member               | Salman Abdul Moiz		       | 	Hyderabad Central University		            | 		salman@uohyd.ac.in |  SM 90639306    |
 | Immediate Past Chair | D V S S Siva Sarma    | NIT Warangal                 | sivasarma@gmail.com          | SM 41597317   |
 
 

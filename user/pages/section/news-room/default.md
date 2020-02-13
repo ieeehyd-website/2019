@@ -1,7 +1,12 @@
 # Synapse Section Newsletter
 ---
 
+## 2020
+---
+[January 2020 Edition](/user/docs/news-room/published/2019-January.pdf)
 
+## Past Editions
+---
 ## 2019
 ---
 <!-- [September 2019 Edition](/user/docs/news-room/published/2019-Sep.pdf)   -->
@@ -9,7 +14,6 @@
 [July 2019 Edition](/user/docs/news-room/published/2019-July.pdf)  
 [January 2019 Edition](/user/docs/news-room/published/2019-January.pdf)
 
-## Past Editions
 ---
 
 ## 2018

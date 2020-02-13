@@ -17,5 +17,6 @@ There are more than 200 professional members and around 1000 student members as 
 | Immediate Past Chair | Abraham Varughese          | NSTL, Visakhapatnam          | abraham.v@nstl.drdo.in  | SM 92536131    |
 
 ## Events
+---
 
-
+[List of Events](rssfeed/list.html)
