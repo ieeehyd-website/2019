@@ -35,7 +35,7 @@ advance and disseminate state-of- the-art scientific information and resources; 
 the signal processing community; and provide a venue for people to interact and
 exchange ideas.
 
-## Executive Committe - 2020
+## Executive Committee - 2020
 
 #### ComSoc/SPS Joint Chapter
 
@@ -48,7 +48,6 @@ exchange ideas.
 | Member               | Prasad Krishnan     | IIIT Hyderabad      | Prasad.Krishnan@iiit.ac.in     | M 90758758    |
 | Immediate Past Chair | Sanjeev Nimishakavi | Qualcomm            | sanjeevrn@yahoo.com            | M 80250684    |
 
-## Highlights from 2019
 
 ### Planned Events 
 
@@ -76,7 +75,26 @@ exchange ideas.
 | 16 | The Ninth Alexander Graham Bell Memorial Lecture |
 
 
+** [GRADUATE CONGRESS : GraTE’7’](/user/docs/chapters-ag/comsoc-sps/ieee_comsoc_grate7_2020.pdf)** 
 
+----
+** Graduate Thesis Evaluation in 7 minutes **
 
+**(18 April 2020, NIT= Calicut, Kerala)**
 
+<P align="justify">IEEE Communication Society (ComSoc) Kerala Chapter jointly with ComSoc Bangalore Chapter and ComSoc Hyderabad Chapter calls for submissions for GraTE-7 , 2020. GraTE-7, 2020, is the next edition of the Graduate Congress: Grate-7 held last year in Bangalore. The goal of GraTE-7 is to recognize and reward graduates (PG and PhD) students/scholars on the basis of their research contributions. In this congress, candidates who have graduated (final thesis defense/viva completed) in 2019 would submit the synopsis and other details as mentioned below. The shortlisted candidates will present their work in 7 minutes to the audience and panellists. Based on the quality of work and exposition, 3 best ME/MTech/MS/ thesis and 4 best PhD theses (in total, the great 7) will be awarded. The award will carry 15,000/- INR for each selected PhD thesis, 10,000/- INR for each selected MS/ME/MTech thesis and a certificate of recognition. The certificate will also be given to corresponding Supervisor/Co-Supervisor in recognition as the best  supervisor/Co-supervisor of the year.</P>
+
+**The following are the eligibility for the candidate:**
+<P> 1. Graduated (defended the thesis) in 2019; that is, all those who have completed the final viva between 01 Jan 2019 - 31 Dec 2019.</P>
+<P>2. Graduated from any of the institutions/colleges in the states of Karnataka, Kerala and Andhra Pradesh/Telangana.</P>
+<P>3. Thesis should be in the broad areas of Communication and Networking.</P>
+
+<p><b>For registration of your thesis synopsis, go to this link (Please read the instruction and eligibility criteria before submission.</b></p>
+
+<https://in.explara.com/e/graduate-congress-grate-7-2020>
+
+**The following are some important dates:**
+  1. Submission start date: **12 Feb 2020.**
+  2. Submission end date: **29 Feb 2020.**
+  3. Notification of the shortlisted thesis: **15 Mar 2020.**
 

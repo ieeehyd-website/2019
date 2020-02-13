@@ -41,7 +41,7 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 | Secretary  | Vinit Kumar Gunjan | CMR Institute of Technology	   | vinitkumargunjan@gmail.com       | SM 92020956   |
 | Treasurer  | B Vijendra Reddy	| ADRIN, ISRO		   | bviijay@gmail.com       | SM 92775834  |
 | Member               | Ramkaran Rudravaram	     | RCV Innovations Pvt Ltd	    | 	ram.karan@gmail.com | 	M 96353274    |
-| Member               | Sunni Kanta Prasad Khuswaha	     | IIT Roorkee	    | s.k.p.kushwaha92@gmail.com |	M 95398046    |
+| Member               | Sunni Kanta Prasad Kushwaha 	     | IIT Roorkee	    | s.k.p.kushwaha92@gmail.com |	M 95398046    |
 | Member               | N Usha Rani	      |Vignan's Foundation for ST&R	                | usharani.nsai@gmail.com    | SM 93890196    |
 | Member               | B Eswara Reddy	      | Dept. of CSEl, JNTUACEK	                | eswar.cse@jntua.ac.in     | SM 91242952  |
 | Member               | Tara Saikumar	      | CMRTC, Hyderabad	                | tara.sai437@gmail.com    | SM 93809193  |

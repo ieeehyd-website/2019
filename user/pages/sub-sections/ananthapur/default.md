@@ -12,3 +12,8 @@ Ananthapur Sub-Section was formed under the Hyderabad Section in 2017.
 | Secretary      | B.Eswara Reddy  | Dept. of CSEl, JNTUACEK       | eswar.cse@jntua.ac.in       | SM 91242952    |
 | Treasurer      | K Jithendra Gowd | Asst.Prof. in EEE, JNTUACEA | indra.eee@jntua.ac.in     | SM 91243098    |
 | Immediate Past Chair       | V.Sankar        | JNTUA        | sankar.velamury@ieeehyd.org | SM 90339465   |
+
+## Events
+---
+
+[List of Events](rssfeed/list.html)

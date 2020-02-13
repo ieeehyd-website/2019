@@ -139,6 +139,11 @@
             <p align="center" ><b>Mr. Syed Musthak, Chair</b></p>
             <pre align="center">Educational Activities</pre>
         </div>
+        <div>
+            <img src="/user/img/sac/execom-2020/mousmi_chaurasia.jpg" height="250" width="250">
+            <p align="center" ><b>Mrs. Mousmi Chaurasia</b></p>
+            <pre align="center">Chief Editor - Newsletter</pre>
+        </div>
     </div>  
 </div>
     

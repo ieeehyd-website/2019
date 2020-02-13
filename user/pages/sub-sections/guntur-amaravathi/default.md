@@ -15,3 +15,6 @@ IEEE GUNTUR SUBSECTION was established in the year 2004 to serve as a nearer tec
 | Member               | V Udaya Shanker            | SRM University             | vusankar@yahoo.com | SM 91077372    |
 | Member               | K Giribabu     | VVIT                  | giribabukande@gmail.com  | M 95409554   |
 | Immediate Past Chair              | D.Ramakrishna        | EFFTRONICS                    | md@efftronics.com          | SM 80310346    |
+
+## Events
+---
