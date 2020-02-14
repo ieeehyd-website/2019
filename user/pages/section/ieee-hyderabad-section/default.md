@@ -16,7 +16,7 @@
 | Member               | Gopala Krishna Kuppa       | Consultant                     | gopalakrishna.kuppa.2005@ieee.org | SM 80168118    |
 | Immediate Past Chair  | N Venkatesh	        | 	Redpine Signals        | nvenkatesh@ieee.org            | SM 41506407   |
 
-[IEEE Hyderabad Section Revised Slate 2020](/user/docs/section/execom/2020/ieee-hyderabad-section-slate-2020-v3.0.pdf)
+[IEEE Hyderabad Section Revised Slate 2020](/user/docs/section/execom/2020/ieee_hyderabad_section_slate_2020.pdf)
 
 
 ## Future Directions Committee
