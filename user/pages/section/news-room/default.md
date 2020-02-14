@@ -3,7 +3,7 @@
 
 ## 2020
 ---
-[January 2020 Edition](/user/docs/news-room/published/2019-January.pdf)
+[January 2020 Edition](/user/docs/news-room/published/2020-January.pdf)
 
 ## Past Editions
 ---
