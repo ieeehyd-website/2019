@@ -33,3 +33,8 @@ Hyderabad is host to a large pool of RF & Microwave, Antenna and EMI-EMC Profess
 | Member               | Chepala Anil Kumar		    | RCI	| anil.kumar@rcilab.in                |M 90849143   |
 | Member               | Sambasiv Rao		    | RCI	| k.sambasivarao@rcilab.in            |M 92850838 |         
 | Immediate Past Chair | Yogesh Kumar Verma | RCI, DRDO               |	ykverma@yahoo.com                    | 	M 90392860   |
+
+---
+
+## Events
+[List of Events](rssfeed/list.html)

@@ -14,6 +14,5 @@ Ananthapur Sub-Section was formed under the Hyderabad Section in 2017.
 | Immediate Past Chair       | V.Sankar        | JNTUA        | sankar.velamury@ieeehyd.org | SM 90339465   |
 
 ## Events
----
 
 [List of Events](rssfeed/list.html)
