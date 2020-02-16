@@ -1,349 +1,423 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>L31 Reports</title>
-    <link>http://events.vtools.ieee.org/events/search/advanced</link>
-    <description>IEEE vTools.Meetings System</description>
-    <language>en-us</language>
-    <item>
-      <title>Worksop on Arduino</title>
-      <description>&lt;p&gt;Boot course on arduino&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/216722</link>
-      <guid>http://events.vtools.ieee.org/m/216722</guid>
-    </item>
-    <item>
-      <title>Advances in remote sensing and its applications</title>
-      <description>&lt;p&gt;Regarding the advancements made in remote sensing and its applications&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/216721</link>
-      <guid>http://events.vtools.ieee.org/m/216721</guid>
-    </item>
-    <item>
-      <title>Seminar on Hybrid Electric Vehicles</title>
-      <description>&lt;p&gt;Seminar on hybrid Electirc vehicle and its working&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/208284</link>
-      <guid>http://events.vtools.ieee.org/m/208284</guid>
-    </item>
-    <item>
-      <title>Drone Awareness Workshop</title>
-      <description>&lt;p&gt;Awareness program on Drone technology&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/208282</link>
-      <guid>http://events.vtools.ieee.org/m/208282</guid>
-    </item>
-    <item>
-      <title>Workshop on Solar power plants and battery energy storage systems in utility grids and micro grids</title>
-      <description>&lt;p&gt;Workshop on solar power plants and battery energy and storage systems in utility grids and micro grids and industrial visit to the Efftronics&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/208283</link>
-      <guid>http://events.vtools.ieee.org/m/208283</guid>
-    </item>
-    <item>
-      <title>Virtual Labs</title>
-      <description>&lt;p&gt;A workshop on Virtual labs and its awareness&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/208281</link>
-      <guid>http://events.vtools.ieee.org/m/208281</guid>
-    </item>
-    <item>
-      <title>Virtual Labs</title>
-      <description>&lt;p&gt;A workshop on Virtual labs and its awareness&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/208280</link>
-      <guid>http://events.vtools.ieee.org/m/208280</guid>
-    </item>
-    <item>
-      <title>Virtual Labs</title>
-      <description>&lt;p&gt;A workshop on Virtual Labs and its awareness&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/208279</link>
-      <guid>http://events.vtools.ieee.org/m/208279</guid>
-    </item>
-    <item>
-      <title>Virtual Labs</title>
-      <description>&lt;p&gt;A workshop on virtual labs and its awareness&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/208278</link>
-      <guid>http://events.vtools.ieee.org/m/208278</guid>
-    </item>
-    <item>
-      <title>A one day workshop on Cadence</title>
-      <description>&lt;p&gt;Enlightening on the Cadence software&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/208277</link>
-      <guid>http://events.vtools.ieee.org/m/208277</guid>
-    </item>
-    <item>
-      <title>National Womens Symposium</title>
-      <description>&lt;p&gt;Workshop on Women Empowerment, safety&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/208276</link>
-      <guid>http://events.vtools.ieee.org/m/208276</guid>
-    </item>
-    <item>
-      <title>Block Chain Technology</title>
-      <description>&lt;p&gt;Guest lecture on Block Chain Technology&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/208275</link>
-      <guid>http://events.vtools.ieee.org/m/208275</guid>
-    </item>
-    <item>
-      <title> Digital Signal Processing Using Python-Hands on - Innovative teaching </title>
-      <description>&lt;p&gt;Teaching and Learning DSP using Free software&lt;/p&gt;
-&lt;p&gt;Digital Signal Processing Using Python&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/181541</link>
-      <guid>http://events.vtools.ieee.org/m/181541</guid>
-    </item>
-    <item>
-      <title>LEADERSHIP OPPORTUNITIES FOR PROFESSIONAL WOMEN</title>
-      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Enabling empowered women to work and Exceed in all &lt;em&gt;PRODUCTIVE &lt;/em&gt;sectors, Energize them to Excel in contributing towards the socio-economic growth of the nation.&lt;/strong&gt;&lt;/p&gt;
-&lt;h5&gt;&lt;span style="font-size: 12pt;"&gt;This unique workshop&lt;/span&gt;&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Will feature some exemplars and achievers from different walks of life to share their Vision, Mission, Journey to success and life lessons on Leadership!&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Opens up opportunities for women to pick-up courage, overcome hurdles and build leadership skills to excel.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Listen to inspirational experiences of successful women and become one&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/179293</link>
-      <guid>http://events.vtools.ieee.org/m/179293</guid>
-    </item>
-    <item>
-      <title>Technical Talk on "Heralding Smart Technologies" at IEEE Day Celebrations</title>
-      <description>&lt;p&gt;IEEE Guntur Subsection is organizing a Technical Talk on " Heralding Smart Technologies" as apart of IEEE Day celebrations at KLEF Deemed to be uNiversity&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/178434</link>
-      <guid>http://events.vtools.ieee.org/m/178434</guid>
-    </item>
-    <item>
-      <title>PES day celebrations</title>
-      <description>&lt;p&gt;PES day has been celebrated with lot if interest and enthusiasm by Guntur Subsection . There were expert lectures and visits to solar and wind plants arranged by the Subsection in KLEF Deemed to be University&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/175818</link>
-      <guid>http://events.vtools.ieee.org/m/175818</guid>
-    </item>
-    <item>
-      <title>Womens day celebrations</title>
-      <description>&lt;div dir="auto"&gt;International women's day celebrations in the Guntur Subsection was conducted on 8th March 2018 at GVR&amp;amp;S COLLEGE OF ENGINEERING AND TECHNOLOGY , Budampadu, Guntur. An eminent advocate Mrs. Naseema Rajasekhar, Dr. SVNL Lalitha, Vice Chair, Guntur Subsection gave lectures on importance of Women's day celebrations and challenges faced by women in Engineering. Number of girl students actively participated in the celebrations. Prizes were distributed.&amp;nbsp;&lt;/div&gt;</description>
-      <link>http://events.vtools.ieee.org/m/174057</link>
-      <guid>http://events.vtools.ieee.org/m/174057</guid>
-    </item>
-    <item>
-      <title>Student branch inauguration &amp; Expert lecture</title>
-      <description>&lt;div dir="auto"&gt;IEEE Student branch was inaugurated in Narasarao Pet engineering college, Narasarao Pet on 17-02-2018. On this occasion Er. D. Rama krishna, Chair, Guntur Subsection has gave an expert lecture on "Present trends on IOT, Industry requirements in current technology". Dr. Prakash Kodali, branch counsellor, Dr. D. Venkata Rao, HOD ECE and Mr. Rajasekhar, student branch chair participated in the event.&amp;nbsp;&lt;/div&gt;
-&lt;div dir="auto"&gt;&amp;nbsp;&lt;/div&gt;</description>
-      <link>http://events.vtools.ieee.org/m/174058</link>
-      <guid>http://events.vtools.ieee.org/m/174058</guid>
-    </item>
-    <item>
-      <title>SPACES-2018</title>
-      <description>&lt;div dir="auto"&gt;Conference on Signal Processing and communication engineering systems - SPACES - 2018 was organised by KLEF Deemed to be University under the&amp;nbsp; technical sponsorship of Guntur Subsection and Hyderabad Section on 4th - 5th January 2018. There was a pre conference tutorial session on 3rd December 2018 given by Dr. James M. Conrad, Director, IEEE Region-3. There were number of expert lectures given by&amp;nbsp;Dr. James M. Conrad, Director, IEEE Region-3,&amp;nbsp;Dr. M. Lakshminarayana, Scientist-H (Retd.),DRDO,Chairman IEEE, Hyderabad Section, Dr. Y.V.N. KrishnaMurthy, Director, National Remote Sensing Centre (NRSC), Hyderabad,&amp;nbsp;&lt;/div&gt;
-&lt;div dir="auto"&gt;Dr. A. Subba Rao, Head Budget Planning &amp;amp; Monitoring Division Programme Planning &amp;amp; Evaluation Group, National Remote Sensing Centre (NRSC), Hyderabad, Dr. N. Aparna, Group Head NRSC Data Center National Remote Sensing Centre (NRSC), Hyderabad, Dr. Koushik Guha, Associate Professor, Department of ECE, National Institute of Technology Silcher, Prof. G. Sasi Bhushana Rao,Professor Department of ECE, College Of Engineering, Andhra University, Visakhapatnam, Dr. Mahadeva Bhat Kanathila, Scientist, DRDO, Hyderabad, Dr. Shaik Rafi Ahamed, Associate Professor, Department of EEE, Indian Institute of Technology Guwahati, Guwahati, Er. D.Ramakrishna, Vice-Chair, Guntur Subsection, MD,Efftronics Systems Pvt. Ltd, Vijayawada&lt;/div&gt;
-&lt;div dir="auto"&gt;Dr. E. Sreenivasa Reddy, Treasurer, Guntur Subsection, Professor &amp;amp; Principal, University College of Engineering, Acharya Nagarjuna University, Guntur&lt;/div&gt;
-&lt;div dir="auto"&gt;Dr. M. Kamaraju, Professor &amp;amp; Mentor (AS&amp;amp;A), ECE Department, Gudlavalleru Engineering College, Gudlavalleru. Dr. V. Rajesh was the Convener of the conference.Dr. P. Siddaiah, Chair, Guntur Subsection,&amp;nbsp; Dr. G V Subbarao, Dr. D. Parthasaradhi, Dr. D V Ratnam, Dr. BTP. Madhav from KLEF are the organisers of the technical sessions. A total of 47 research papers have been accepted for&amp;nbsp; presentation during the conference based on the recommendation of the technical program committee headed by Dr. James M Cornard. All 47 members have registered for the conference and presented the papers.&lt;/div&gt;</description>
-      <link>http://events.vtools.ieee.org/m/174059</link>
-      <guid>http://events.vtools.ieee.org/m/174059</guid>
-    </item>
-    <item>
-      <title>Expert lecture on Power System Planning</title>
-      <description>&lt;p&gt;An expert Guest lecture is conducted in RVR&amp;amp;JC College of Engineering, Guntur, Andhra Pradesh by IEEE Guntur Subsection on 22&lt;sup&gt;nd&lt;/sup&gt; December, 2017. Dr. Ramaiah Divi Lead Engineer Transmission system planning form Alberta Electric Corporation, Canada gave an expert lecture on &amp;ldquo;Power System Planning&amp;rdquo; to the faculty and Students of Guntur Subsection. Dr. K Chandra Sekhar, Professor of EEE introduced Mr. Ramaiah Divi to the students. In his lecture, he discussed about the planning of electrical transmission system in Indian Scenario and in American Scenario. Various aspects of Renewable energy dominated generation and transmission grids are also discussed. He wished that the students and faculty members involve actively in providing solutions to the challenges in future electric grids.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Dr. SVNL Lalitha, Professor in EEE at KLUniversity and Secretary of IEEE Guntur subsection emphasized on the benefits of IEEE membership. She addressed gathering and asked the students to enthusiastically participate in the activities of Guntur subsection.&amp;nbsp; Student Branch counselor Dr. K. Swarnasri coordinated the event.&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156523</link>
-      <guid>http://events.vtools.ieee.org/m/156523</guid>
-    </item>
-    <item>
-      <title>Review on SPACES 2018 at KLEF, Deemed to be University</title>
-      <description>&lt;p&gt;Review of arrangements for SPACES-2018 by the TPC of the Conference at KLEF, Deemed to be University&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156525</link>
-      <guid>http://events.vtools.ieee.org/m/156525</guid>
-    </item>
-    <item>
-      <title>Meeting of Subsection execom with Section representatives</title>
-      <description>&lt;p&gt;Meeting of Subsection execom with Section representatives is conducted in Sunflower hall of KLEF, Deemed to be University, Guntur to discuss about the activities of Guntur Sunsection&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156508</link>
-      <guid>http://events.vtools.ieee.org/m/156508</guid>
-    </item>
-    <item>
-      <title>CAS Research form</title>
-      <description>&lt;p&gt;about CAS research form&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156521</link>
-      <guid>http://events.vtools.ieee.org/m/156521</guid>
-    </item>
-    <item>
-      <title>CAS-EDS Research forum by Guntur Subsection at KLEF, Deemed to be University</title>
-      <description>&lt;p&gt;This Program is to provide a structured approach to persons aspiring to do research&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156511</link>
-      <guid>http://events.vtools.ieee.org/m/156511</guid>
-    </item>
-    <item>
-      <title>Subsection EXECOM Meeting</title>
-      <description>&lt;p&gt;Guntur Subsection EXECOM Meeting&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156529</link>
-      <guid>http://events.vtools.ieee.org/m/156529</guid>
-    </item>
-    <item>
-      <title>IEEE Day  Celebrations</title>
-      <description>&lt;p&gt;In the auspicious ocassion of IEEE day celebarations&amp;nbsp;&amp;nbsp;&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156520</link>
-      <guid>http://events.vtools.ieee.org/m/156520</guid>
-    </item>
-    <item>
-      <title>Smart Grid</title>
-      <description>&lt;p&gt;about smart grid&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156518</link>
-      <guid>http://events.vtools.ieee.org/m/156518</guid>
-    </item>
-    <item>
-      <title>Guntur Subsection EXECOM Meeting</title>
-      <description>&lt;p&gt;Guntur Subsection EXECOM Meeting&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156531</link>
-      <guid>http://events.vtools.ieee.org/m/156531</guid>
-    </item>
-    <item>
-      <title>Guntur Subsection Special Meeting</title>
-      <description>&lt;p&gt;A special meeting of all members of Guntur Subsection is going to be conducted in Efftronics Systems Pvt. Ltd., Vijayawada on 13th April 2017 at 5.00 pm. All members are requested to attend. Invitations have been sent to all engineering colleges to attend the meeting.&amp;nbsp;&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/45060</link>
-      <guid>http://events.vtools.ieee.org/m/45060</guid>
-    </item>
-    <item>
-      <title>Guntur Subsection EXECOM Meeting</title>
-      <description>&lt;p&gt;Guntur Subsection EXECOM Meeting&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156534</link>
-      <guid>http://events.vtools.ieee.org/m/156534</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] Two day Arduino Workshop</title>
-      <description>&lt;p&gt;Two days Hands on Arduino workshop has been successfully completed during 31st March &amp;amp; 1st April 2017 by Guntur Subsection with 75 student&amp;nbsp; participants from various colleges. Half day industry visit to Efftronics Systems Pvt. Ltd., Vijayawada for demonstrating the real applications also has been done. It was conducted in K L University, Guntur.&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/148073</link>
-      <guid>http://events.vtools.ieee.org/m/148073</guid>
-    </item>
-    <item>
-      <title>Guntur Subsection EXECOM Meeting</title>
-      <description>&lt;p&gt;Guntur Subsection EXECOM Meeting&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156538</link>
-      <guid>http://events.vtools.ieee.org/m/156538</guid>
-    </item>
-    <item>
-      <title>Workshop on Ruby Programming &amp; Womens day celebrations</title>
-      <description>&lt;p&gt;Women empowerment&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156505</link>
-      <guid>http://events.vtools.ieee.org/m/156505</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] BRANCH INAURGATION</title>
-      <description>&lt;p class="Default"&gt;IEEE student chapter was&amp;nbsp; inaugurated&amp;nbsp; successfully on 18/02/2017. In this regard the department invited an eminent personality &lt;strong&gt;Dr. Lakshiminarayana Merugu, Chairman ,IEEE Hyderabad Section&amp;nbsp; &lt;/strong&gt;to inaugurate IEEE student branch.&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/149920</link>
-      <guid>http://events.vtools.ieee.org/m/149920</guid>
-    </item>
-    <item>
-      <title>Subsection Execom orientation   meeting with Section representatives </title>
-      <description>&lt;p&gt;Sub section meeting with representaives&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156501</link>
-      <guid>http://events.vtools.ieee.org/m/156501</guid>
-    </item>
-    <item>
-      <title>Talk on Internet of Things -Present and Future</title>
-      <description>&lt;p&gt;How important is the internet of things is to future development of the country&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/156503</link>
-      <guid>http://events.vtools.ieee.org/m/156503</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] Workshop on Embedded Systems</title>
-      <description>IEEE student chapter of K L University organized a one day workshop on "Embedded Systems".The objective of this workshop is to introduce the concept of embedded systems and to create awareness about IEEE and it's activities in the university. The duration of the workshop is divided into two sessions. During morning session, the concepts of embedded systems were introduced and explained in detail. On learning latest developments and applications of embedded systems we broke for lunch. After lunch, Hands on session has been conducted on arduino board where the participants enthusiastically participated and worked on specific applications. It was a brain storming and fruitful session where participants are made to code and develop an application. This workshop has been attended by 50 students in total out of which 45 are Non-IEEE members. </description>
-      <link>http://events.vtools.ieee.org/m/137187</link>
-      <guid>http://events.vtools.ieee.org/m/137187</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] IEEE CBIT(STB 31231) PERADE(2016)</title>
-      <description>&lt;p dir="ltr"&gt;IEEE CBIT Conducted a parade in the campus during sruthi-2016 which is the annual&lt;/p&gt;
-&lt;p dir="ltr"&gt;Institution fest of CBIT. IEEE CBIT executive body has explained about the benefits of IEEE&lt;/p&gt;
-&lt;p dir="ltr"&gt;And greatness and the role of ieee in advancing technology for humanity. This parade&lt;/p&gt;
-&lt;p dir="ltr"&gt;Gave members an opportunity to introduce about IEEE to the students across all years&lt;/p&gt;
-&lt;p dir="ltr"&gt;Of CBIT.IEEE executive body members clarified various doubts about IEEE to different&lt;/p&gt;
-&lt;p dir="ltr"&gt;Students after the parade.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/137456</link>
-      <guid>http://events.vtools.ieee.org/m/137456</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] IEEE CBIT(STB 31231) IEEE WEEK CELEBRATIONS </title>
-      <description>&lt;p&gt;IEEE CBIT(STB 31231)&lt;/p&gt;
-&lt;p&gt;IEEE WEEK CELEBRATIONS 2015&lt;/p&gt;
-&lt;p&gt;IEEE CBIT has conducted ieee week celebrations by conducting various online competitions namely&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Online essay writing competitions&lt;/li&gt;
-&lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Online debate&lt;/li&gt;
-&lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Innovative Idea contest&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Online publicity and offline publicity is done for the above competitions. The essays and the abstracts of the innovative idea contest are requested to be mailed to &lt;strong&gt;ieeecbit.essay@gmail.com&lt;/strong&gt;&amp;nbsp; .There were 20 essays submitted and 8 abstracts for innovative idea contest are submitted. Online debate is conducted through Facebook has a platform.&amp;nbsp;&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/137392</link>
-      <guid>http://events.vtools.ieee.org/m/137392</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] Workshop Progress</title>
-      <description>&lt;p&gt;&lt;strong&gt;Progress&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The workshop on Ethical hacking was officially confirmed by the branch counsellor. Workshop on Ethical hacking was to be held in association with Indian Servers Pvt Ltd. The speaker was Mr. Satish, CEO of Indian Server who was a very experienced person in the field of Ethical hacking and Cyber Securities.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Date Feasibility&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mr. Thrikaran Vamshi addressed the meeting regarding the availability of dates for Ethical hacking workshop to be held in KLUniversity in association with Indian Servers. Different problems regarding examinations in the University, Bandhs in the state and the upcoming holidays along with the availability of participants were discussed.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Target Audience&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The workshop mainly focused on the B.Tech as well as Management students from KLUniversity and neighboring sister colleges, who needed fundamentals of Ethical Hacking in order to protect their own firms or projects from cyber-crimes. Estimated strength was 150 participants.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Permissions and Budget&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mr. Dheeraj spoke about approval of the event by the university and regarding the budget allotment for the event taking different aspects into consideration.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mr. Vamshi concluded the meet with summary of the meeting along with the agenda for the next meet.&amp;nbsp;&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/121242</link>
-      <guid>http://events.vtools.ieee.org/m/121242</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] Workshop Meet</title>
-      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The permissions and budget for the workshop were made. Peacock hall was taken for the seminar part and a lab was allocated where participants can have a hands on experience.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Roles and Responsibilities&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mr. Thrikaran Vamshi addressed the meeting regarding the roles and responsibilities of the coordinators. Teams were divided for publicity, sponsorships, stage management, designing etc. Their specific roles were explained and their deadlines were specified.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Publicity&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Publicity teams were divided on the basis of internal and external publicity. Internal publicity had to make posters along with the designing team, make sure the event is taken to all the target audience in the University. External Publicity had to move around the sister colleges, request the college officials and take the event to them. Target audience for the publicity team was explained and practice sessions were made for coordinators to bring out their best.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sponsorships and Other&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Sponsorship teams were made and were given the template for sponsorship applications along with list of probable sponsors, who could sponsor the event. Designing team was provided with layouts for their posters and banners.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mr. Vamshi concluded the meet with summary of the meeting along with the agenda for the next meet.&amp;nbsp;&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/121241</link>
-      <guid>http://events.vtools.ieee.org/m/121241</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] Branch Progress</title>
-      <description>&lt;p&gt;&lt;strong&gt;Branch Progress&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Branch Progress from the previous meeting was discussed. Different issues related to Year Planner, Memberships, Events etc. were discussed.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Year Planner&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mr. Thrikaran Vamshi addressed the meeting regarding the year planner to be made for the upcoming academic year 2015-2016. Mass ideas were collected through mails and letters. After scrutinizing all the ideas and analyzing their feasibility, a model of year planner was made, which has to be confirmed by next meeting.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Upcoming Workshop&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Ideas for upcoming workshop were discussed. Many ideas were collected, along with availability of resource persons, resources etc. Finally an idea of Ethical Hacking workshop was made. Discussion regarding confirmation of workshop was to be made by next meeting.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Women in Engineering Progress&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Miss. Pavani spoke about different aspects and plans to develop WIE activities and Events. The need for WIE chapter and its importance in the branch was introduced to the fresher members&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mr. Vamshi concluded the meet with summary of the meet along with the agenda for the next meet.&lt;/p&gt;</description>
-      <link>http://events.vtools.ieee.org/m/121240</link>
-      <guid>http://events.vtools.ieee.org/m/121240</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] INDUSTRIAL VISIT</title>
-      <description>To bridge the gap between theoretical aspects what students learn in classrooms and practical approach done in industries IEEE KLU SB has organized an industrial visit to S.V.R. ELECTRICALS which enhances the pragmatic knowledge of students.
-S.V.R. ELECTRICALS is renowned for manufacturing transformer in coastal region of AP and also engaged in manufacturing Power, Distribution &amp; Special application type of transformers. Students were explained about the different types of transformer available for various applications and utilities. Construction of winding, core and finally assembling them to form a transformer is authentically described. 
-These industrial visits will encompass the higher learning capability, effective interaction with industry &amp; to know about updating technology in industry for student.</description>
-      <link>http://events.vtools.ieee.org/m/91175</link>
-      <guid>http://events.vtools.ieee.org/m/91175</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] INDUSTRIAL VISIT</title>
-      <description>To bridge the gap between theoretical aspects what students learn in classrooms and practical approach done in industries IEEE KLU SB has organized an industrial visit to S.V.R. ELECTRICALS which enhances the pragmatic knowledge of students.
-S.V.R. ELECTRICALS is renowned for manufacturing transformer in coastal region of AP and also engaged in manufacturing Power, Distribution &amp; Special application type of transformers. Students were explained about the different types of transformer available for various applications and utilities. Construction of winding, core and finally assembling them to form a transformer is authentically described. 
-These industrial visits will encompass the higher learning capability, effective interaction with industry &amp; to know about updating technology in industry for student.</description>
-      <link>http://events.vtools.ieee.org/m/91177</link>
-      <guid>http://events.vtools.ieee.org/m/91177</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] Tech Talk on FUZZY LOGIC CONTROL</title>
-      <description>This technical lecture is aimed at empowering student's knowledge on fuzzy logic and to converse about the techniques that are often integrated with other Computational Intelligence methods, and with other computational techniques, giving rise to powerful computational approaches &amp; describing about latest technological development using this FUZZY LOGIC control and effective use of it.</description>
-      <link>http://events.vtools.ieee.org/m/91123</link>
-      <guid>http://events.vtools.ieee.org/m/91123</guid>
-    </item>
-    <item>
-      <title>[Legacy Report] Renewable Energy Deep Dive</title>
-      <description>Renewable Energy one one of the most important source for the next generation to survive in this world.So with regard of this we conducted a 2 day workshop named as "RENEWABLE ENERGY DEEP DIVE". KLU IEEE STUDENT BRANCH in collaboration with green add organization conducted a 2 day workshop at the university campus on 16th - 17th Feb 2012.With more than 250 students taking part in this workshop its a huge challenging task for the organizer to complete the program in a nice manner as its started and they stood up to their mark to make this event a grand success.The whole event was divided into 3 sessions per day.
-The topic which was covered in this 2 day workshop are:
-1.Solar Wind hybrid system using smart control
-2.Solar electric hydrogen fuel cell smart programmed
-</description>
-      <link>http://events.vtools.ieee.org/m/73161</link>
-      <guid>http://events.vtools.ieee.org/m/73161</guid>
-    </item>
-  </channel>
-</rss>
+<meeting_reports>
+  <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
+  <time_utc>2020-02-15 15:56:28 UTC</time_utc>
+  <report>
+    <id>208276</id>
+    <title>National Womens Symposium</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Workshop on Women Empowerment, safety&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Women Empowerment, safety</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Guntur</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-02-25 09:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-02-25 18:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>100</ieee_attending>
+    <guests_attending>200</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
+    <link>http://events.vtools.ieee.org/m/208276</link>
+  </report>
+  <report>
+    <id>208277</id>
+    <title>A one day workshop on Cadence</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Enlightening on the Cadence software&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Cadence</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Guntur</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-03-16 09:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-03-16 18:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>25</ieee_attending>
+    <guests_attending>40</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
+    <link>http://events.vtools.ieee.org/m/208277</link>
+  </report>
+  <report>
+    <id>208278</id>
+    <title>Virtual Labs</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;A workshop on virtual labs and its awareness&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Virtual labs</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Guntur</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-04-03 09:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-04-03 12:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>23</ieee_attending>
+    <guests_attending>60</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
+    <link>http://events.vtools.ieee.org/m/208278</link>
+  </report>
+  <report>
+    <id>208279</id>
+    <title>Virtual Labs</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;A workshop on Virtual Labs and its awareness&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Virtual Labs</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Vijayawada</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-04-03 13:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-04-03 17:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>50</ieee_attending>
+    <guests_attending>50</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
+    <link>http://events.vtools.ieee.org/m/208279</link>
+  </report>
+  <report>
+    <id>208280</id>
+    <title>Virtual Labs</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;A workshop on Virtual labs and its awareness&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Virtual Labs</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Guntur</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-04-04 09:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-04-04 12:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>20</ieee_attending>
+    <guests_attending>20</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
+    <link>http://events.vtools.ieee.org/m/208280</link>
+  </report>
+  <report>
+    <id>208281</id>
+    <title>Virtual Labs</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;A workshop on Virtual labs and its awareness&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Virtual Labs</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Bapatla</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-04-04 13:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-04-04 17:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>15</ieee_attending>
+    <guests_attending>20</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
+    <link>http://events.vtools.ieee.org/m/208281</link>
+  </report>
+  <report>
+    <id>208283</id>
+    <title>Workshop on Solar power plants and battery energy storage systems in utility grids and micro grids</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Workshop on solar power plants and battery energy and storage systems in utility grids and micro grids and industrial visit to the Efftronics&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Solar Power plants, Energy Storage Systems, Utility grids, Micro grids</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Vijayawada</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-07-18 09:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-07-18 17:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>100</ieee_attending>
+    <guests_attending>50</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
+    <link>http://events.vtools.ieee.org/m/208283</link>
+  </report>
+  <report>
+    <id>208282</id>
+    <title>Drone Awareness Workshop</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Awareness program on Drone technology&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Drone technology</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Narasaraopeta</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-07-27 09:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-07-27 17:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>50</ieee_attending>
+    <guests_attending>150</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
+    <link>http://events.vtools.ieee.org/m/208282</link>
+  </report>
+  <report>
+    <id>208284</id>
+    <title>Seminar on Hybrid Electric Vehicles</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Seminar on hybrid Electirc vehicle and its working&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Hybrid Electric Vehicle</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Narasaraopet</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-07 09:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-09-07 17:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>25</ieee_attending>
+    <guests_attending>75</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
+    <link>http://events.vtools.ieee.org/m/208284</link>
+  </report>
+  <report>
+    <id>216721</id>
+    <title>Advances in remote sensing and its applications</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Regarding the advancements made in remote sensing and its applications&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>remote sensing</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Guntur</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-12-18 09:15:00 Asia/Kolkata</start_time>
+    <end_time>2019-12-22 17:15:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>60</ieee_attending>
+    <guests_attending>100</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
+    <link>http://events.vtools.ieee.org/m/216721</link>
+  </report>
+  <report>
+    <id>216722</id>
+    <title>Worksop on Arduino</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Boot course on arduino&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>arduino</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Guntur</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-12-20 09:15:00 Asia/Calcutta</start_time>
+    <end_time>2019-12-21 17:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>50</ieee_attending>
+    <guests_attending>50</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
+    <link>http://events.vtools.ieee.org/m/216722</link>
+  </report>
+</meeting_reports>
