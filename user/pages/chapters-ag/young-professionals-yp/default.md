@@ -18,4 +18,6 @@ The IEEE Young Professionals is an international community of innovative members
 ---
 
 ## Events
+
+Coming Soon!
 <!-- [List of Events](rssfeed/list.html) -->

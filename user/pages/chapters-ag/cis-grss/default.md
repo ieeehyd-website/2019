@@ -74,6 +74,8 @@ A Teachers lesson plan giving suggestions on how to use the teaching pack with t
 **Please cite this website if you are using this material in your course work.**
 
 ## Events
+
+Coming Soon!
 <!-- [List of Events](rssfeed/list.html) -->
  
 
