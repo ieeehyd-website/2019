@@ -30,4 +30,9 @@ management.
 | Member                | Narendra Ramya | | nramyavv@gmail.com   | M 94139832  |
 | Immediate Past Chair  | Jose R             | TCS              | jose.reddypogu@tcs.com    | M 91129303    |
 
-                                                                
+---
+
+## Events
+
+Coming Soon!
+<!-- [List of Events](rssfeed/list.html) -->

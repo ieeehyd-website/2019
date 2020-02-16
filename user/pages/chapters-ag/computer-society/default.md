@@ -40,89 +40,11 @@ IEEE Computer Society Chapter under Hyderabad Section is driven with a Technolog
 | Member               | 	Akhil Ageer          | ITE & C Dept, Govt. of Telangana	             | akhil.ageer@ieee.org       |	M 93860656   |
 | Member               | 	M A Jabbar	      | Vardhaman College of Engg.		             | 	jabbar.meerja@gmail.com      |	SM 91119906   |
 | Immediate Past Chair | Bala Prasad Peddigari    | TCS, Hyderabaad            | bala.peddigari@ieee.org       | SM 90578910    |
----
-
-### 2019
-
-Event | Description     |
-|:-----:|-----------------|
-|13  | Workshop on Quantum Computing |
-|12  | Technical Seminar on Future Cloud Transformation |
-|11  | IEEE Computer Society - Blockchain workshop |
-|10  | Technical Seminar: Next Generation Cloud Computing  |
-|8   | AHCSSC 2019 (All Hyderabad Computer Society Student Congress) |
-|9   | Digital Reality (AR/VR/MR) Workshop   |
-|7   | Myths and Facts on How to Learn Technology (AI & ML) |
-|6   | Robotics and Digital Reality (AR/VR) Workshop |
-|5   | Technical Seminar on Future Cloud Transformation of Organizations |
-|4   | Artificial Intelligence Impact in Digital Marketing |
-|3   | Edge Intelligence in the IoT |
-|2   | Modelling in UML: A practical introduction |
-|1   | IEEE Standards Association - AI & ML workshop |
----
-
-
-### 2018
-
- Event | Description     |
-|:-----:|-----------------|
-|26   | IEEE SIG on Quantum Computing by Reena Dayal, 27 November 2018 |
-|25   | Artificial Intelligence: DCGANs – Architecture, Applications and Implications by Kishore Kopalle, 14 October 2018 |
-|24   | Technical Seminar: Comprehensive Perspective of Digital Ecosystem, by Venkat Kadari, CSI Office, December 17, 2017 |
-|23   | Technology Workshop on Data Science – Level 1 by Pavan Damaraju,Nilesh and Sudheer, 29-30 September 2018 |
-|22   | Technology Workshop on Cloud and Blockchain Computing by Madhu Vadlamani and Amarnath, 28-29 September 2018 |
-|21   | Webinar: IEEE XTreme Sessions - Python Programming in collaboration with IEEE SAC by Purnachander, 22 September 2018 |
-|20   | IEEE Road to Success by Bala Peddigari at Jayamukhi Institute of Technology and Science, 12 September 2018 |
-|19   | World Blockchain Hackathon in Association with Vagdevi College of Engineering, 31 August 2018 |
-|18   | Digital Marketing Powered by AI by Vidyasagar Tejomurtula at Vizag IEEE Section, 18 August 2018 |
-|17   | Conversational Experience driven by AI by Bala Peddigari at Vizag IEEE Section, 18 August 2018 |
-|16   | Workshop on Academic Writing Skills by Dr. Md. Mamun Bin Ibne Reaz at Vardhaman College of Engineering, 11 August 2018 |
-|15   | Technical Seminar-Digital Trends in IT at SRIT College, 3 August 2018 |
-|14   | Technical Seminar -Driving Innovation through Artificial Intelligence at JNTU Ananthapur, 3 August 2018 |
-|13   | Blockchain Summit - Driven with Practical Approach at Anurag Group of Colleges, 20-21 July 2018 |
-|12   | Next Generation Cloud Computing by Allan Leinwand CTO ServiceNow, June 26 2018 |
-|11   | Session on Future of AI and its Impact by Bala Peddigari, 23 June 2018 |
-| 10   | Expert Talk on Big Data and Analytics by Madhu Vadlmaani, 23 June 2018  |
-| 9   | Expert Talk on Deep Learning Applications by Ketan Kotecha, 22 June 2018  |
-| 8   | Digital Trends – Reimagining the Future Impact of Contemporary Engineering and Technologies at PS Engineering College, 2 April 2018  |
-| 7   | EA for Insight, Foresight and Oversight by Pallab Saha, 31 March 2018  |
-| 6   | Project Day 2K18 BITS Warangal, 29 March 2018  |
-| 5   | Technology Trends in Digital Context, 24 March 2018  |
-| 4   | IOT – Challenges and Opportunities, Guru Nanak Institutions Technical Campus, 22 March 2018  |
-| 3   | Blockchain and its impact at Anurag Group of Institutes, 10 March 2018  |
-| 2   | Particle Swarm Optimization (PSO) and its applications at CSI Office Hyderabad, 4 Feb 2018  |
-| 1   | IEEE AHCSSC - Demystifying AI and Blockchain, Vaagdevi College of Engineering, Jan 5 to Jan 7, 2018  |
 
 ---
-
-
-### 2017 
-
-| Event | Description                                                                                                                                                                                    |
-| :-----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 22    | Technical Seminar: Comprehensive Perspective of Digital Ecosystem, by Venkat Kadari, CSI Office, December 17, 2017                                                                             |
-| 21    | Technical Seminar: Software Reusability and its Usefulness, by NJ Rajaram CSI office, Hyderabad, November 12, 2017                                                                             |
-| 20    | Technical Workshop: Data Analytics using R” by Madhu Vadlamani, Kony Labs -- @ Vardharman College of Engineering, Hyderabad.                                                                  |
-| 19    | Technical Seminar: Improved Genetics Algorithms for Channel Allocation in Mobile Computing by Dr Deo Prakash Vidyarti @University of Hyderabad, Collaborated with CIS/GRSS, September 21, 2017 |
-| 18    | Webinar: Writeing Effective White Papers by Bala Peddigari @CSI Office, Hyderabad, September 17, 2017                                                                                          |
-| 17    | Technical Seminar: Demystification of Digital Transformation by Bala Peddigari @CSI Office, Hyderabad, September 10, 2017                                                                      |
-| 16    | Technical Workshop: Artificial Intelligence and Machine Learning @SNIST, Hyderabad, August 29, 2017                                                                                            |
-| 15    | Technical Seminar: Basics of Quantum Information and Computations by Dr. Indranil Chakrabarty @IIIT Hyderabad Collaborated with Industrial Relations Committee, August 20, 2017                |
-| 15    | Technical Seminar: Convolutional Neural Networks and Deep Machine Learning by Kiran Gunnam, IIIT Hyderabad, July 26, 2017                                                                      |
-| 14    | Technical Seminar: Internet of Everything - Industrie 4.0 Revolution by Dr Ram Sriram, CSI Office, Hyderabad July 23, 2017                                                                     |
-| 13    | Technical Seminar: Agility in Today's World, Prithvi Raj, CSI Office, Hyderabad, July 16, 2017                                                                                                 |
-| 12    | Faculty Development Program: Emerging Trends in Computer Science and Engineering, Vardhaman College of Engineering, June 8 to June 14, 2017                                                    |
-| 11    | Technical Workshops: Web Development Sessions with Hands-on - Phase 4, SNIST Hyderabad, August 16, 2017                                                                                        |
-| 10    | Technical Workshops: Web Development Sessions with Hands-on - Phase 3, SNIST Hyderabad, August 10, 2017                                                                                        |
-| 9     | Technical Workshops: Web Development Sessions with Hands-on - Phase 2, SNIST Hyderabad, August 8, 2017                                                                                         |
-| 8     | Technical Workshops: Web Development Sessions with Hands-on - Phase 1, SNIST Hyderabad, August 1, 2017                                                                                         |
-| 7     | Virtual Reality and Internet of Things, MJCET Hyderabad, March 27, 2017                                                                                                                        |
-| 6     | Technites, MJCET Hyderabad, February 8, 2017                                                                                                                                                   |
-| 5     | Adastra'17 A National Level Techno Management and Robotics and Literary Symposium,  Hyderabad, January 23, 2017 to January 26, 2017                                                            |
-| 4     | Technical Workshops: Big Data ,  Hyderabad, January 3, 2017 to January 4, 2017                                                                                                                 |
-| 3     | IEEE CS Chapter Inauguration : Keshav Memorial Institue of Technology, Hyderabad                                                                                                               |
-| 2     | IEEE CS Chapter Inauguration : Vaagdevi College of Engineering, Warangal                                                                                                                       |
-| 1     | Conference:Emerging Trends in Intelligent Machines, in collaboration with Industrial Relations Committee                                                                                       |
+## Events
+[List of Events](rssfeed/list.html)
+                                                                                      
 
 ## Special Interest Groups
 
