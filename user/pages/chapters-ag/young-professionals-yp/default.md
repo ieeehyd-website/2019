@@ -14,3 +14,8 @@ The IEEE Young Professionals is an international community of innovative members
 | Vice Chair           | Sai Thejeshwar       | ALPES.ai                | ssai.thejeshwar.in@ieee.org  | M 93838604    |
 | Secretary/ Treasurer            | Merugu Suresh        | CMRIT                   | msuresh@ieee.org             | M 93025601    |
 | Immediate Past Chair | Saurabh Jain         | CGI Hyderabad           | saurabh.jain.1988@ieee.org   | M 93988396    |
+
+---
+
+## Events
+<!-- [List of Events](rssfeed/list.html) -->

@@ -35,4 +35,5 @@ The Joint Chapter of IEEE Circuits and Systems/ Electron Device Societies was es
 | Immediate Past Chair | Mohammed Arifuddin Sohel      | M J CET, Hyderabad           | arif.sohel@gmail.com             | SM 90871309   |
 
 
-
+## Events
+[List of Events](rssfeed/list.html)

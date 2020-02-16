@@ -18,3 +18,4 @@ IEEE GUNTUR SUBSECTION was established in the year 2004 to serve as a nearer tec
 
 ## Events
 ---
+[List of Events](rssfeed/list.html)

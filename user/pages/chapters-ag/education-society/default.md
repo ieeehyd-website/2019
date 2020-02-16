@@ -18,20 +18,7 @@ Theory and practice of education and educational technology and professional dev
 | Member               | Salman Abdul Moiz		       | 	Hyderabad Central University		            | 		salman@uohyd.ac.in |  SM 90639306    |
 | Immediate Past Chair | D V S S Siva Sarma    | NIT Warangal                 | sivasarma@gmail.com          | SM 41597317   |
 
-
-## Events Planned
-| S.No | Event Names |
-| :----: | :------------ |
-| 1 | Learning Paradigms for Outcome Based Education in Digital Era |
-
-## Events Conducted
-
-| S.No | Event Names |
-| :-----: | :------------------------------------------------------------------------ |
-| 1 | An Art of Writing Technical Paper  |
-| 2 | Career Opportunities in core electrical and electronics sector  |
-
-## A report on EdSoc Chapter (2017)
 ---
 
-[A brief report on IEEE Education Society Chapter 2017](/chapters/edusoc/events/IEEE-Education-Society-Chapter-2017.pdf)
+## Events
+[List of Events](rssfeed/list.html)
