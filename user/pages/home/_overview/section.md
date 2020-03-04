@@ -1,12 +1,18 @@
 <div class="container">
-    <a href="http://ieeehydcon.org/">
-    <div class="d-flex flex-wrap justify-content-around align-items-center">
-    <img src="/user/img/logos/gold.png">
-    </a>
-    </div> 
+    <div class="d-flex flex-wrap justify-content-around align-items-left">
+        <a href="http://ieeehydcon.org/">
+            <img style="clear: left;" alt="" src="/user/img/logos/gold.png">
+        </a>
+    </div>
+    <p><center>Click on the image to visit IEEE HYDCON-2020</center></p>
+    <div class="d-flex flex-wrap justify-content-around align-items-right">
+        <a href="http://ieeecovidmove.in/">
+            <img style="clear: right;" alt="" src="/user/img/logos/ieee_covid_move.png" >
+        </a>
+    </div>
+    <center>Click on the image to visit IEEE CovidMove website</center> 
 </div>
 
-<center>Click on the image to visit IEEE HYDCON-2020</center>
 ---
 
 # Overview
