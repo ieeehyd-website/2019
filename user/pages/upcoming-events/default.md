@@ -2,7 +2,7 @@
 ---
 
 ## List of Upcoming Events
-| S.No                     | Event Type                     |               Event Name                        |      Event Date and Time    | Organizing Society         | Contact Email               | Location                   | Event URL       |
+| S.No                     | Event Type                     |               Event Name                        |      Event Date   | Organizing Society         | Contact Email               | Location                   | Event URL       |
 |:-------------------------:| :--------------------------------| :--------------------------- -------------------------------| :------------------------------------------------:              |:--------------------------------| :--------------------------- | :----------------------------|:--------------------------- |
 |1	| Professional |	How Agile Promotes Innovations |	10 Apr 2020 |	TEMS	| <aditya.rao@computer.org> |	Webinar |	<https://events.vtools.ieee.org/m/228491> |
 |2 |	Technical |	Emerging Trends in Electrical Power System Operation and Control |	10 Apr 2020	 | LMAG	|<rbmanian@gmail.com>	| Webinar |	<https://events.vtools.ieee.org/m/228216> |

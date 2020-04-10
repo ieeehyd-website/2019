@@ -75,8 +75,8 @@ A Teachers lesson plan giving suggestions on how to use the teaching pack with t
 
 ## Events
 
-Coming Soon!
-<!-- [List of Events](rssfeed/list.html) -->
+<!-- Coming Soon! -->
+[List of Events](rssfeed/list.html)
  
 
 ## Call for Volunteers 
