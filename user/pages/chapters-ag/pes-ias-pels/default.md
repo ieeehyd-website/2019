@@ -22,3 +22,6 @@ A PES/IAS/PELS Chapter is a technical sub-unit of IEEE Hyderabad Section and it 
 | Member               | Rajamani  | CPRI/ Hyderabad	           |rajamani@cpri.in               | M 90443596   |
 | Member               | Madhuri Bayya	          | Associate Professor/ Geethanjali College of Engineering & Technology (GCET)                 | mbayya@gmail.com          | M 91138944 |              
 | Immediate Past Chair | Kuppa Gopala Krishna | Consultant                  | gopalakrishna.kuppa@hotmail.com | M 80168118    |
+----
+## Events
+[List of Events](rssfeed/list.html)

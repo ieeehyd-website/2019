@@ -1,235 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-02-15 15:56:28 UTC</time_utc>
-  <report>
-    <id>208276</id>
-    <title>National Womens Symposium</title>
-    <description>
-      <type>HTML</type>
-      <text>&amp;lt;p&amp;gt;Workshop on Women Empowerment, safety&amp;lt;/p&amp;gt;</text>
-    </description>
-    <keywords>Women Empowerment, safety</keywords>
-    <category>Technical</category>
-    <location>
-      <city>Guntur</city>
-      <state>AND</state>
-      <country>IN</country>
-    </location>
-    <start_time>2019-02-25 09:00:00 Asia/Kolkata</start_time>
-    <end_time>2019-02-25 18:00:00 Asia/Kolkata</end_time>
-    <report_time_zone>Asia/Kolkata</report_time_zone>
-    <ieee_attending>100</ieee_attending>
-    <guests_attending>200</guests_attending>
-    <joint_with_branch>false</joint_with_branch>
-    <cost>false</cost>
-    <primary_unit>
-      <ou_type>SUBSECTION</ou_type>
-      <ou>GUNTUR SUBSECTION</ou>
-      <parents>
-        <parent>
-          <type>section</type>
-          <name>HYDERABAD</name>
-        </parent>
-        <parent>
-          <type>region</type>
-          <name>10</name>
-        </parent>
-      </parents>
-    </primary_unit>
-    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
-    <link>http://events.vtools.ieee.org/m/208276</link>
-  </report>
-  <report>
-    <id>208277</id>
-    <title>A one day workshop on Cadence</title>
-    <description>
-      <type>HTML</type>
-      <text>&amp;lt;p&amp;gt;Enlightening on the Cadence software&amp;lt;/p&amp;gt;</text>
-    </description>
-    <keywords>Cadence</keywords>
-    <category>Technical</category>
-    <location>
-      <city>Guntur</city>
-      <state>AND</state>
-      <country>IN</country>
-    </location>
-    <start_time>2019-03-16 09:00:00 Asia/Kolkata</start_time>
-    <end_time>2019-03-16 18:00:00 Asia/Kolkata</end_time>
-    <report_time_zone>Asia/Kolkata</report_time_zone>
-    <ieee_attending>25</ieee_attending>
-    <guests_attending>40</guests_attending>
-    <joint_with_branch>false</joint_with_branch>
-    <cost>false</cost>
-    <primary_unit>
-      <ou_type>SUBSECTION</ou_type>
-      <ou>GUNTUR SUBSECTION</ou>
-      <parents>
-        <parent>
-          <type>section</type>
-          <name>HYDERABAD</name>
-        </parent>
-        <parent>
-          <type>region</type>
-          <name>10</name>
-        </parent>
-      </parents>
-    </primary_unit>
-    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
-    <link>http://events.vtools.ieee.org/m/208277</link>
-  </report>
-  <report>
-    <id>208278</id>
-    <title>Virtual Labs</title>
-    <description>
-      <type>HTML</type>
-      <text>&amp;lt;p&amp;gt;A workshop on virtual labs and its awareness&amp;lt;/p&amp;gt;</text>
-    </description>
-    <keywords>Virtual labs</keywords>
-    <category>Technical</category>
-    <location>
-      <city>Guntur</city>
-      <state>AND</state>
-      <country>IN</country>
-    </location>
-    <start_time>2019-04-03 09:00:00 Asia/Kolkata</start_time>
-    <end_time>2019-04-03 12:00:00 Asia/Kolkata</end_time>
-    <report_time_zone>Asia/Kolkata</report_time_zone>
-    <ieee_attending>23</ieee_attending>
-    <guests_attending>60</guests_attending>
-    <joint_with_branch>false</joint_with_branch>
-    <cost>false</cost>
-    <primary_unit>
-      <ou_type>SUBSECTION</ou_type>
-      <ou>GUNTUR SUBSECTION</ou>
-      <parents>
-        <parent>
-          <type>section</type>
-          <name>HYDERABAD</name>
-        </parent>
-        <parent>
-          <type>region</type>
-          <name>10</name>
-        </parent>
-      </parents>
-    </primary_unit>
-    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
-    <link>http://events.vtools.ieee.org/m/208278</link>
-  </report>
-  <report>
-    <id>208279</id>
-    <title>Virtual Labs</title>
-    <description>
-      <type>HTML</type>
-      <text>&amp;lt;p&amp;gt;A workshop on Virtual Labs and its awareness&amp;lt;/p&amp;gt;</text>
-    </description>
-    <keywords>Virtual Labs</keywords>
-    <category>Technical</category>
-    <location>
-      <city>Vijayawada</city>
-      <state>AND</state>
-      <country>IN</country>
-    </location>
-    <start_time>2019-04-03 13:00:00 Asia/Kolkata</start_time>
-    <end_time>2019-04-03 17:00:00 Asia/Kolkata</end_time>
-    <report_time_zone>Asia/Kolkata</report_time_zone>
-    <ieee_attending>50</ieee_attending>
-    <guests_attending>50</guests_attending>
-    <joint_with_branch>false</joint_with_branch>
-    <cost>false</cost>
-    <primary_unit>
-      <ou_type>SUBSECTION</ou_type>
-      <ou>GUNTUR SUBSECTION</ou>
-      <parents>
-        <parent>
-          <type>section</type>
-          <name>HYDERABAD</name>
-        </parent>
-        <parent>
-          <type>region</type>
-          <name>10</name>
-        </parent>
-      </parents>
-    </primary_unit>
-    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
-    <link>http://events.vtools.ieee.org/m/208279</link>
-  </report>
-  <report>
-    <id>208280</id>
-    <title>Virtual Labs</title>
-    <description>
-      <type>HTML</type>
-      <text>&amp;lt;p&amp;gt;A workshop on Virtual labs and its awareness&amp;lt;/p&amp;gt;</text>
-    </description>
-    <keywords>Virtual Labs</keywords>
-    <category>Technical</category>
-    <location>
-      <city>Guntur</city>
-      <state>AND</state>
-      <country>IN</country>
-    </location>
-    <start_time>2019-04-04 09:00:00 Asia/Kolkata</start_time>
-    <end_time>2019-04-04 12:00:00 Asia/Kolkata</end_time>
-    <report_time_zone>Asia/Kolkata</report_time_zone>
-    <ieee_attending>20</ieee_attending>
-    <guests_attending>20</guests_attending>
-    <joint_with_branch>false</joint_with_branch>
-    <cost>false</cost>
-    <primary_unit>
-      <ou_type>SUBSECTION</ou_type>
-      <ou>GUNTUR SUBSECTION</ou>
-      <parents>
-        <parent>
-          <type>section</type>
-          <name>HYDERABAD</name>
-        </parent>
-        <parent>
-          <type>region</type>
-          <name>10</name>
-        </parent>
-      </parents>
-    </primary_unit>
-    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
-    <link>http://events.vtools.ieee.org/m/208280</link>
-  </report>
-  <report>
-    <id>208281</id>
-    <title>Virtual Labs</title>
-    <description>
-      <type>HTML</type>
-      <text>&amp;lt;p&amp;gt;A workshop on Virtual labs and its awareness&amp;lt;/p&amp;gt;</text>
-    </description>
-    <keywords>Virtual Labs</keywords>
-    <category>Technical</category>
-    <location>
-      <city>Bapatla</city>
-      <state>AND</state>
-      <country>IN</country>
-    </location>
-    <start_time>2019-04-04 13:00:00 Asia/Kolkata</start_time>
-    <end_time>2019-04-04 17:00:00 Asia/Kolkata</end_time>
-    <report_time_zone>Asia/Kolkata</report_time_zone>
-    <ieee_attending>15</ieee_attending>
-    <guests_attending>20</guests_attending>
-    <joint_with_branch>false</joint_with_branch>
-    <cost>false</cost>
-    <primary_unit>
-      <ou_type>SUBSECTION</ou_type>
-      <ou>GUNTUR SUBSECTION</ou>
-      <parents>
-        <parent>
-          <type>section</type>
-          <name>HYDERABAD</name>
-        </parent>
-        <parent>
-          <type>region</type>
-          <name>10</name>
-        </parent>
-      </parents>
-    </primary_unit>
-    <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
-    <link>http://events.vtools.ieee.org/m/208281</link>
-  </report>
+  <time_utc>2020-04-09 16:20:37 UTC</time_utc>
   <report>
     <id>208283</id>
     <title>Workshop on Solar power plants and battery energy storage systems in utility grids and micro grids</title>
@@ -419,5 +191,54 @@
     </primary_unit>
     <contact_email64>c3ZubGxhbGl0aGFAZ21haWwuY29t</contact_email64>
     <link>http://events.vtools.ieee.org/m/216722</link>
+  </report>
+  <report>
+    <id>228074</id>
+    <title>A  Webinar on Smart Cities – Challenges and Opportunities</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Growing urbanization is causing lot of challenges to mankind. Current cities in India and World are not ready to accept these challenges. These cities need to have technology based innovative solutions to solve their daily problems. During this webinar we will focus on various challenges faced in the cities related to &amp;amp;ldquo;&amp;lt;em&amp;gt;Transport, Utilities, Environment, Education, Health , Safety , Security and Governance&amp;amp;rdquo;&amp;lt;/em&amp;gt; .&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Smart cities mission, smart cities in India, challenges and opportunities </keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-02 17:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-02 18:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>41</ieee_attending>
+    <guests_attending>69</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>GUNTUR SUBSECTION</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Efftronics systems Private limited, Vijayawada.</cosponsor_name>
+    <contact_email64>c3dhcm5hc3Jpa0BnbWFpbC5jb20=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228074</link>
+    <speakers>
+      <speaker>
+        <id>503957</id>
+        <display_name>Er. Rama Krishna Dasari</display_name>
+        <organization>Efftronics Systems Private Limited</organization>
+        <topic>
+          <title>A  Webinar on Smart Cities – Challenges and Opportunities</title>
+        </topic>
+      </speaker>
+    </speakers>
   </report>
 </meeting_reports>

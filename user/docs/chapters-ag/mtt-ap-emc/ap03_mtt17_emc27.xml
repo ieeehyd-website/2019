@@ -1,58 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-02-08 16:17:31 UTC</time_utc>
-  <report>
-    <id>206522</id>
-    <title>Inaugural of IEEE Microwave Theory and Techniques Society Student Chapter &amp; Technical Lecture at Vardhaman College of Engineering, Shamshabad – 501 218, Hyderabad</title>
-    <description>
-      <type>HTML</type>
-      <text>&amp;lt;p&amp;gt;IEEE MTT-S Student Chapter was inaugurated with motive to be efficacious in scientific,&amp;lt;br /&amp;gt;technical and industrial activities in the field of EM, RF and Microwave engineering contributing&amp;lt;br /&amp;gt;to the advancement of present and future wireless communications. The chief guest and guest of&amp;lt;br /&amp;gt;honor attended to the event were present and past IEEE MTT-S chairs. Principal, HOD, Prof. P.&amp;lt;br /&amp;gt;Nageshwar Rao, Head IQAC and IEEE Advisor Prof. M.A. Jabbar were the other eminent&amp;lt;br /&amp;gt;professors who graced the event. Principal, HOD, IEEE advisor addressed the students and gave&amp;lt;br /&amp;gt;the importance of joining IEEE and the benefits of joining as members in the organization. MTTS Student advisor motivated the students about the field of Microwaves, antennas and their&amp;lt;br /&amp;gt;applications in present wireless field. Discussed about society&amp;amp;rsquo;s wide range of publications,&amp;lt;br /&amp;gt;conferences, about importance of research and networking opportunities to the students. Later the&amp;lt;br /&amp;gt;dignitaries released newsletter of the MTT-S student chapter &amp;amp;ldquo;TARANG&amp;amp;rdquo; and IEEE Approval&amp;lt;br /&amp;gt;Letter for the formation of student chapter.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;A technical presentation on &amp;quot;Antennas, Probes &amp;amp;amp; Devices for EMI-EMC Applications&amp;quot; was given&amp;lt;br /&amp;gt;by Mr. Sandeep Satav, Chair IEEE Jt Chapter AP/MTT/EMC, Hyderabad section &amp;amp;amp; Scientist, Head, EMI- EMC Centre, DRSS,&amp;lt;br /&amp;gt;Research Centre Imarat, DRDO, Min. of Defence, Hyderabad. The technical talk gave more&amp;lt;br /&amp;gt;practical insights in the field of EMI/EMC. A total of 170 members attended the session among&amp;lt;br /&amp;gt;which 30 are faculty members and 50 are IEEE student members.&amp;lt;/p&amp;gt;</text>
-    </description>
-    <keywords>MTT-S, </keywords>
-    <category>Professional</category>
-    <location>
-      <city>Shamshabad</city>
-      <state>AND</state>
-      <country>IN</country>
-    </location>
-    <start_time>2019-03-02 11:00:00 Asia/Dili</start_time>
-    <end_time>2019-03-02 16:00:00 Asia/Dili</end_time>
-    <report_time_zone>Asia/Dili</report_time_zone>
-    <ieee_attending>50</ieee_attending>
-    <guests_attending>120</guests_attending>
-    <joint_with_branch>true</joint_with_branch>
-    <cost>false</cost>
-    <primary_unit>
-      <ou_type>CHAPTER</ou_type>
-      <ou>AP03/MTT17/EMC27</ou>
-      <parents>
-        <parent>
-          <type>section</type>
-          <name>HYDERABAD</name>
-        </parent>
-        <parent>
-          <type>region</type>
-          <name>10</name>
-        </parent>
-      </parents>
-    </primary_unit>
-    <cosponsor_name>Vardhaman College of Engineering, Shamsabad, Hyderabad</cosponsor_name>
-    <contact_email64>c2FuZGVlcG0uc2F0YXZAcmNpbGFiLmlu</contact_email64>
-    <link>http://events.vtools.ieee.org/m/206522</link>
-    <speakers>
-      <speaker>
-        <id>460861</id>
-        <display_name>Sandeep M Satav</display_name>
-        <email64>c2FuZGVlcG0uc2F0YXZAcmNpbGFiLmlu</email64>
-        <organization>RCI, DRDO</organization>
-        <topic>
-          <title>Antennas, Probes &amp; Devices for EMI-EMC Applications</title>
-        </topic>
-      </speaker>
-    </speakers>
-  </report>
+  <time_utc>2020-04-09 16:21:50 UTC</time_utc>
   <report>
     <id>207454</id>
     <title>1 Day Seminar on Phased Array RADAR Modelling and Simulation</title>
