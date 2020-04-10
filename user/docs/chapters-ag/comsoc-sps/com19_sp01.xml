@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-02-08 16:11:22 UTC</time_utc>
-  <report>
-    <id>202067</id>
-    <title>The Ninth Alexander Graham Bell Memorial Lecture</title>
-    <description>
-      <type>HTML</type>
-      <text>&amp;lt;p&amp;gt;The Communications and Signal Processing societies joint chapter of the IEEE Hyderabad Section launched the Annual Alexander Graham&amp;amp;nbsp;&amp;lt;span id=&amp;quot;DWT3185&amp;quot; class=&amp;quot;ZmSearchResult&amp;quot;&amp;gt;&amp;lt;span id=&amp;quot;DWT3191&amp;quot; class=&amp;quot;ZmSearchResult&amp;quot;&amp;gt;Bell&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;amp;nbsp;&amp;lt;span id=&amp;quot;DWT3193&amp;quot; class=&amp;quot;ZmSearchResult&amp;quot;&amp;gt;&amp;lt;span id=&amp;quot;DWT3197&amp;quot; class=&amp;quot;ZmSearchResult&amp;quot;&amp;gt;Memorial&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;amp;nbsp;&amp;amp;nbsp;&amp;lt;span id=&amp;quot;DWT3195&amp;quot; class=&amp;quot;ZmSearchResult&amp;quot;&amp;gt;&amp;lt;span id=&amp;quot;DWT3199&amp;quot; class=&amp;quot;ZmSearchResult&amp;quot;&amp;gt;Lecture&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;amp;nbsp;&amp;amp;nbsp;in &amp;amp;nbsp;2011, &amp;amp;nbsp;the &amp;amp;nbsp;year &amp;amp;nbsp;of &amp;amp;nbsp;the 164th &amp;amp;nbsp; birthday &amp;amp;nbsp;of Alexander Graham&amp;amp;nbsp;&amp;lt;span id=&amp;quot;DWT3187&amp;quot; class=&amp;quot;ZmSearchResult&amp;quot;&amp;gt;&amp;lt;span id=&amp;quot;DWT3201&amp;quot; class=&amp;quot;ZmSearchResult&amp;quot;&amp;gt;Bell&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;, to commemorate his genius. The 2019&amp;amp;nbsp;&amp;lt;span id=&amp;quot;DWT3189&amp;quot; class=&amp;quot;ZmSearchResult&amp;quot;&amp;gt;&amp;lt;span id=&amp;quot;DWT3203&amp;quot; class=&amp;quot;ZmSearchResult&amp;quot;&amp;gt;lecture&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;amp;nbsp;is the ninth in the series.&amp;lt;/p&amp;gt;</text>
-    </description>
-    <keywords>AG Bell Memorial Lecture</keywords>
-    <category>Technical</category>
-    <location>
-      <city>Hyderabad</city>
-      <state>AND</state>
-      <country>IN</country>
-    </location>
-    <start_time>2019-03-27 16:30:00 Asia/Kolkata</start_time>
-    <end_time>2019-03-27 18:00:00 Asia/Kolkata</end_time>
-    <report_time_zone>Asia/Kolkata</report_time_zone>
-    <ieee_attending>20</ieee_attending>
-    <guests_attending>10</guests_attending>
-    <joint_with_branch>false</joint_with_branch>
-    <cost>false</cost>
-    <primary_unit>
-      <ou_type>CHAPTER</ou_type>
-      <ou>COM19/SP01</ou>
-      <parents>
-        <parent>
-          <type>section</type>
-          <name>HYDERABAD</name>
-        </parent>
-        <parent>
-          <type>region</type>
-          <name>10</name>
-        </parent>
-      </parents>
-    </primary_unit>
-    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
-    <link>http://events.vtools.ieee.org/m/202067</link>
-    <speakers>
-      <speaker>
-        <id>451951</id>
-        <display_name>Dr. Venkat Padmanabhan</display_name>
-        <organization>Microsoft Research, India</organization>
-        <topic>
-          <title>End-host-based Bandwidth Probing and Management</title>
-        </topic>
-      </speaker>
-    </speakers>
-  </report>
+  <time_utc>2020-04-09 16:22:26 UTC</time_utc>
   <report>
     <id>202072</id>
     <title>Interaction with Prof. K.V.S. Hari</title>

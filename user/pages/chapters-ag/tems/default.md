@@ -34,5 +34,5 @@ management.
 
 ## Events
 
-Coming Soon!
-<!-- [List of Events](rssfeed/list.html) -->
+<!-- Coming Soon! -->
+[List of Events](rssfeed/list.html)

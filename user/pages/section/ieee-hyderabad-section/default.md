@@ -242,3 +242,8 @@ IEEE Hyderabad Section has following sub-sections in her region.
 | 19     | Dr. Merugu Lakshminarayana (2016-2017) |
 | 20     | Mr. P V S Maruthi Rao (2018)           |
 | 21     | Mr. N Venkatesh(2019)                  |
+
+
+## Events
+---
+[List of Events](rssfeed/list.html)
