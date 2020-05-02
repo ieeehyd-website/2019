@@ -24,3 +24,6 @@
 
 
 
+----
+## Events
+[List of Events](rssfeed/list.html)

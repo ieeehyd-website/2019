@@ -19,7 +19,7 @@
 ---
 **Section Chairman (2020)**: Amit Kumar   
 **Year Started**: 1984  
-**Current Member Strength**: 6012+  
+**Current Member Strength**: 3238+  
 
 ## Vision
 

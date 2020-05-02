@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-04-09 16:26:39 UTC</time_utc>
+  <time_utc>2020-05-02 06:43:42 UTC</time_utc>
   <report>
     <id>198324</id>
     <title>PDP: Workshop on  “Micro-Grids &amp; Battery Energy Storage Systems", by PES/IAS/PELS Jt Chapter, Hyderabad, in Association with Geethanjali College of Engg. &amp; Technology (GCET), Hyderabad.</title>
@@ -1020,5 +1020,89 @@
         </topic>
       </speaker>
     </speakers>
+  </report>
+  <report>
+    <id>228417</id>
+    <title>1st-Excom(2020) Meeting of PES/IAS/PELS Joint Chapter/ IEEE-Hyderabad Section/ Virtual Meeting/ in "Webex"/ on 4-Apr-2020</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This is the 1st Executive Committee (2020) Meeting / Administrative Meeting of PES/IAS/PES Jt. Chapter/ IEEE-Hyderabad Section. This will be attended by the Excom Members. A brief Report on the activities completed in the Program Year-2019 will be presented. The Plan of Chapter activities for the Year-2020 will be discussed in detail. Also, the work Plan for the activities from Jan to Dec-2020 will be discussed. Also, the Plan for generating Funds/ Sponsors for the activities Planned for the Year-2020 will be discussed in detail.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Note-1:&amp;lt;/strong&amp;gt; This Meeting is for prticipation Only for the Executive Members of Our Chapter. However, this is published here for Event Registration and also for information to Other IEEE Members.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Note-2:&amp;lt;/strong&amp;gt; ALL Excom (2020) Members are already given the details of Webex Link and&amp;amp;nbsp; other information to attend online. In case of any assitance required, Pl. contact the below designated persons.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;******************************************&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Excom, Admin Meet, </keywords>
+    <category>Administrative</category>
+    <location>
+      <city> Hyderabad, Telangana</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-04 11:00:00 Indian/Reunion</start_time>
+    <end_time>2020-04-04 13:00:00 Indian/Reunion</end_time>
+    <report_time_zone>Indian/Reunion</report_time_zone>
+    <ieee_attending>6</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>PE31/IA34/PEL35</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>cmFqZ29wYWwzZUBnbWFpbC5jb20=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228417</link>
+  </report>
+  <report>
+    <id>228773</id>
+    <title>2nd-Admin Meeting of the Excom(2020) of PES-Joint Chapter/ Hyderabad Section/ Virtual Meeting/ in "Webex"/ on 11-Apr-2020</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This is the 2nd-Admin Meeting of the Executive Committee (2020) of our of PES--Jt. Chapter/ Hyderabad Section. This will be attended by the Excom Members. In this Meeting&amp;amp;nbsp; detailed&amp;amp;nbsp; Activities Plan of Chapter activities for the Program Year-2020 will be done. Also, the Plan for generating Funds/ Sponsors for the activities Planned for the Year-2020 will be discussed in detail. Also, other major activities and their implementation plans will be discussed.&amp;amp;nbsp;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Note:&amp;lt;/strong&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;1) In this Meeting participation is &amp;lt;strong&amp;gt;Only for the Executive Members&amp;lt;/strong&amp;gt; of Our Chapter.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;2)&amp;lt;strong&amp;gt;&amp;amp;nbsp;&amp;lt;/strong&amp;gt;This is published here for Event Registration (and Event Reporting) and also for information to Other IEEE Members.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;3)&amp;amp;nbsp;ALL Excom (2020) Members are already given the details of Webex Link and&amp;amp;nbsp; other information to attend online. In case of any assitance required, Pl. contact the below designated persons.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;******************************************&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Excom, Admin Meet, </keywords>
+    <category>Administrative</category>
+    <location>
+      <city> Hyderabad, Telangana</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-11 11:00:00 Indian/Reunion</start_time>
+    <end_time>2020-04-11 13:00:00 Indian/Reunion</end_time>
+    <report_time_zone>Indian/Reunion</report_time_zone>
+    <ieee_attending>5</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>PE31/IA34/PEL35</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>cmFqZ29wYWwzZUBnbWFpbC5jb20=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228773</link>
   </report>
 </meeting_reports>
