@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-04-09 16:25:35 UTC</time_utc>
+  <time_utc>2020-05-02 06:46:59 UTC</time_utc>
   <report>
     <id>204136</id>
     <title>WALK THE TALK-VARDHAMAN 2019</title>
@@ -891,5 +891,173 @@ SOCIAL MEDIA- Pros and Cons and its impact on society</keywords>
     <cosponsor_name>CVR College of Engineering</cosponsor_name>
     <contact_email64>cGFkbWFzYWlfeUBpZWVlLm9yZw==</contact_email64>
     <link>http://events.vtools.ieee.org/m/228062</link>
+  </report>
+  <report>
+    <id>228229</id>
+    <title>Need of the hour- wake up and Find solutions ( Save People and Save Country)</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p style=&amp;quot;font-weight: 400;&amp;quot;&amp;gt;Corona is widely spreading in India and other parts of the world. During this time of Lock down , we all need to be united and follow the guidelines given by the government for betterment of our society.&amp;amp;nbsp; The lockdown is demoralizing many and also leading to&amp;amp;nbsp; cyber-crimes.&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;font-weight: 400;&amp;quot;&amp;gt;&amp;amp;nbsp;Let&amp;amp;rsquo;s all join together and find solutions so as to save our people and save our country. A step towards this is taken by IEEE WIE AG&amp;amp;nbsp; and YP Hyderabad Section to help you utilize the time being at home and join for an expert talk on &amp;amp;ldquo;Need of the hour- wake up and find solutions&amp;amp;rdquo; with the theme of &amp;amp;ldquo;Save people and Save Country&amp;amp;rdquo; by Sri. Rama Mohan Ukkalam, SP Crime Spots, CID, Amaravati on 12&amp;lt;sup&amp;gt;th&amp;lt;/sup&amp;gt;&amp;amp;nbsp;April 2020 at 5 pm through online (webex).&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Cyber-crimes,
+Need of the hour- wake up and find solutions”</keywords>
+    <category>Humanitarian</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-12 17:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-12 19:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>100</ieee_attending>
+    <guests_attending>85</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>AFFINITY</ou_type>
+      <ou>WOMEN IN ENGINEERING</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>YP IEEE Hyderabad Section</cosponsor_name>
+    <contact_email64>cGFkbWFzYWlfeUBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228229</link>
+    <speakers>
+      <speaker>
+        <id>504267</id>
+        <display_name>Mr. U. Rama Mohan</display_name>
+        <email64>cnVra2FsYW1AZ21haWwuY29t</email64>
+        <organization>SP Crime Spots,CID, Amaravati</organization>
+        <topic>
+          <title>Need of the hour- wake up and Find solutions ( Save People and Save Country) </title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>504268</id>
+        <display_name>Dr. D.N.Rao</display_name>
+        <email64>ZHJkbnJhb0B5YWhvby5jb20=</email64>
+        <organization>President , Vignana Jyothi Society ( VNR Vignana Jyothi Institute of ENgineering &amp; Tech.)</organization>
+        <topic>
+          <title>Need of the hour- wake up and Find solutions ( Save People and Save Country) </title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229133</id>
+    <title>Online tools training </title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Online tools Training to the members of WIE AG for smooth conduct of the events through Webex&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Webex </keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-19 15:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-19 15:45:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>7</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>AFFINITY</ou_type>
+      <ou>WOMEN IN ENGINEERING</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>eXBhZG1hc2FpQGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229133</link>
+    <speakers>
+      <speaker>
+        <id>506075</id>
+        <display_name>Mr. T. Sai Kumar</display_name>
+        <email64>c2Fpa3VtYXI5QGllZWUub3Jn</email64>
+        <organization>Secretary/Treasurer, IEEE Education Society, IEEE Hyderabad Section.</organization>
+        <topic>
+          <title>Online Tools training</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229000</id>
+    <title>Panel discussion on Work from home and it's challenges </title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Women are an integral part of society and face multiple challenges in every role of their life. It can be at home, office or anywhere else. Even during this struggling times of COVID -19, women are not only looking after the families but also completing their professional commitments too. It is very challenging to accomplish multiple jobs simultaneously.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;To understand the concerns of women and help them overcome the stress, IEEE Women in Engineering Affinity Group, Hyderabad Section in association with IEEE Education Society is organizing a Panel Discussion with eminent personalities on &amp;amp;ldquo;Work from home and its challenges&amp;amp;rdquo; on 25&amp;lt;sup&amp;gt;th&amp;lt;/sup&amp;gt;&amp;amp;nbsp;April 2020 from 5.00 to 6.30 PM.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The Panellists are:&amp;lt;/p&amp;gt;
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;Dr. Celia Shahnaz, Chair, IEEE Bangladesh Section&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Dr. Lahari Surapaneni, Nutritionist, Food Scientist &amp;amp;amp; Consultant&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Ms. Suharika Karri, Swiggy, General Manager, Bangalore&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Moderator &amp;amp;ndash; Dr. S. Kanchana, Asst. Prof., VNRVJIET&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;</text>
+    </description>
+    <keywords>Professional commitments , Nutrition </keywords>
+    <category>Humanitarian</category>
+    <location>
+      <city>HYDERABAD</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-25 17:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-25 18:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>95</ieee_attending>
+    <guests_attending>114</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>AFFINITY</ou_type>
+      <ou>WOMEN IN ENGINEERING</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Dr. Vijayalata Reddy Yellasiri-Chair, Education Society Chapter</cosponsor_name>
+    <contact_email64>eXBhZG1hc2FpQGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229000</link>
+    <speakers>
+      <speaker>
+        <id>505809</id>
+        <display_name>Dr.Celia Shahnaz</display_name>
+        <email64>Y2VsaWFzaGFobmF6QGdtYWlsLmNvbQ==</email64>
+        <organization>Chair, IEEE Bangladesh Section</organization>
+        <topic>
+          <title>Pannel discussion on Work from home and it's challenges </title>
+        </topic>
+      </speaker>
+    </speakers>
   </report>
 </meeting_reports>

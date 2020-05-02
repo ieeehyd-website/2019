@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-04-09 16:17:54 UTC</time_utc>
+  <time_utc>2020-05-02 06:42:47 UTC</time_utc>
   <report>
     <id>197800</id>
     <title>Digital Reality (AR/VR/MR) Workshop</title>
@@ -659,6 +659,661 @@
         <email64>c2FnYXJ2dEBpZWVlLm9yZw==</email64>
         <topic>
           <title>IEEE CS Ideate - Hackeethon</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228146</id>
+    <title>Analysis of COVID-19 and Healthcare problems using AI</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE CS Hyderabad oraganizing this AI webinar to demonstrate different problems analysis on COVID 19, Healthcare domain using AI by Project Internship Associates from MNC&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>CS Ideate,COVID 19</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-04 17:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-04 18:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>89</ieee_attending>
+    <guests_attending>22</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228146</link>
+    <speakers>
+      <speaker>
+        <id>504101</id>
+        <display_name>Vidyasagar T</display_name>
+        <email64>c2FnYXJ2dEBpZWVlLm9yZw==</email64>
+        <topic>
+          <title>Analysis of COVID-19 and Healthcare problems using AI</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228085</id>
+    <title>IEEE CS IDEATE EKALAVYA</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE HYDERABAD SECTION, COMPUTER SOCIETY CHAPTER in Association with IEEE Vardhaman College of Engineering,Hyderabad is Organizing IEEE CS IDEATE EKALAVYA which is a 3 Hrs Contest to encorage the students and research scholars to build their skills in Technical and Academics&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>CS Ideate, Ekalavya</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-06 11:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-06 14:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>415</ieee_attending>
+    <guests_attending>213</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Vardhamaan College of Engineering</cosponsor_name>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228085</link>
+    <speakers>
+      <speaker>
+        <id>503979</id>
+        <display_name>Vidyasagar T</display_name>
+        <email64>c2FnYXJ2dEBpZWVlLm9yZw==</email64>
+        <topic>
+          <title>IEEE CS Ideate - Ekalavya</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228441</id>
+    <title>Webinar - IEEE Collabratec community and its benefits</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;A webinar on IEEE collabratec by IEEE Computer Society Ideate team in association with IEEE SAC, Hyderabad Section&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Registration link :&amp;amp;nbsp;http://bit.ly/collabratec&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>CS Ideate, Collabratec</keywords>
+    <category>Administrative</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-09 17:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-09 18:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>50</ieee_attending>
+    <guests_attending>139</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228441</link>
+    <speakers>
+      <speaker>
+        <id>504691</id>
+        <display_name>Madhav Negi</display_name>
+        <email64>bS5qLm5lZ2lAaWVlZS5vcmc=</email64>
+        <topic>
+          <title>IEEE CS Ideate - Collabratec</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228442</id>
+    <title>IEEE CS Ideate : Smart-O-Thon</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Hackathon by IEEE Computer Society Ideate in association with IEEE YP, Hyderabad Section&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Registration link :&amp;lt;/strong&amp;gt;https://www.explara.com/e/smart-o-thon-event&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Google Form :&amp;lt;/strong&amp;gt; bit.ly/Smart-O-Thon&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>CS Ideate, Code Contest</keywords>
+    <category>Administrative</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-12 09:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-12 21:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>2</ieee_attending>
+    <guests_attending>9</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228442</link>
+    <speakers>
+      <speaker>
+        <id>504693</id>
+        <display_name>vidyasagar T</display_name>
+        <topic>
+          <title>IEEE CS Ideate :   smart-o-thon</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228755</id>
+    <title>webinar : IEEE CS - Computer Vision</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Webinar by Smartbridge Soultions on Computer Vision&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Registration : https://bit.ly/cs_vision&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;WebEx :&amp;amp;nbsp;https://zoom.us/webinar/register/WN_kbZqdoHcTDio6hpeajF4jg&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE CS, Computer Vision</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-12 11:30:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-12 13:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>50</ieee_attending>
+    <guests_attending>135</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228755</link>
+    <speakers>
+      <speaker>
+        <id>505319</id>
+        <display_name>Mrs.Swathi</display_name>
+        <topic>
+          <title>Computer Vision</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228756</id>
+    <title>webinar : Strategic Marketing in a Digital World</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;&amp;#39;Strategic Marketing in a Digital World&amp;#39; - Why everyone needs to adapt &amp;amp;amp; practice marketing in the evolving global scenarios&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Register at&amp;amp;nbsp;&amp;lt;span style=&amp;quot;text-decoration: underline;&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;https://bit.ly/cs-digital&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;text-decoration: underline;&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;webEx:&amp;amp;nbsp;&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Digital Marketing</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-15 11:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-15 12:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>100</ieee_attending>
+    <guests_attending>73</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228756</link>
+    <speakers>
+      <speaker>
+        <id>505321</id>
+        <display_name>Josh</display_name>
+        <topic>
+          <title>'Strategic Marketing in a Digital World'</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228909</id>
+    <title>Webinar - Innovation in Rural India</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This webinar is about&amp;amp;nbsp;&amp;amp;nbsp;to Give more importance on rural development and its enhancements through Computer Science and Innovations in rural India.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Registration link&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;https://bit.ly/cs-innovation&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;WebEx link&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;margin: 0in; font-family: Calibri; font-size: 11.0pt; color: black;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://ieeemeetings.webex.com/join/mmga-hyderabad&amp;quot;&amp;gt;https://ieeemeetings.webex.com/join/mmga-hyderabad&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>ieee cs, rural india, innovation</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-16 11:30:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-16 12:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>200</ieee_attending>
+    <guests_attending>93</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228909</link>
+    <speakers>
+      <speaker>
+        <id>505627</id>
+        <display_name>Ganesham Pogula</display_name>
+        <topic>
+          <title>Webinar - Innovation in Rural India</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228815</id>
+    <title>webinar - Robotic process Automation</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Webinar - Robotic Process Automation by Sowmya Choudary from Global Foundries&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;This webinar is about&amp;amp;nbsp;&amp;amp;nbsp;an overview on RPA, and the complete bouts and scope of using it. Overview includes all it&amp;#39;s use, it&amp;#39;s popularity now and in future, pros and cones , everything. It will also cover live demos using RPA tools&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Registration&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;https://bit.ly/cs-rpa&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>RPA, IEEE CS</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-16 17:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-16 18:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>100</ieee_attending>
+    <guests_attending>92</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228815</link>
+    <speakers>
+      <speaker>
+        <id>505439</id>
+        <display_name>sowmya chowdary</display_name>
+        <topic>
+          <title>webinar - Robotic Process Automation</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228818</id>
+    <title>Technical Workshop - MS Renown</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Session Abstract (less than 100 words) : This webinar is about MSWord and user guides, manuals, Microsoft styles.&amp;lt;br /&amp;gt; How consistent we are in writing or creating a document?&amp;lt;br /&amp;gt; Are we following the standards of Microsoft?&amp;lt;br /&amp;gt; Have you ever identified mistakes in the guides and manuals and their formats?&amp;lt;br /&amp;gt; Why you need a style guide for the user manual?&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Registration : https://bit.ly/cs-msrenown&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;WebEx:&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;table width=&amp;quot;100%&amp;quot;&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=ef6943a7eb9d16b8bf741613b8bffc2e4&amp;quot;&amp;gt;https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=ef6943a7eb9d16b8bf741613b8bffc2e4&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE CS,Workshop</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-17 10:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-17 12:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>50</ieee_attending>
+    <guests_attending>20</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228818</link>
+    <speakers>
+      <speaker>
+        <id>505445</id>
+        <display_name>Arun Parasara</display_name>
+        <topic>
+          <title>Technical workshop - MS Renown</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229092</id>
+    <title>Introduction to R in Statastical Analysis</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This Tech talk session will gives an introduce R as a programming&amp;lt;br /&amp;gt;language and how it can be used in performing statistical analysis.&amp;lt;br /&amp;gt;This will mostly technical oriented. You will be able to know: What&amp;lt;br /&amp;gt;is R?, Basic programming concepts in R. How to use R in statistical&amp;lt;br /&amp;gt;analysis How analysis can be performed using Supervised and&amp;lt;br /&amp;gt;Unsupervised statistical.This session will be mostly technical. Basic&amp;lt;br /&amp;gt;understanding of statistics and probability is needed. This session&amp;lt;br /&amp;gt;will introduce statistical concepts at a high level but will not go into&amp;lt;br /&amp;gt;detail.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>R, Analytics</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-19 10:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-19 11:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>60</ieee_attending>
+    <guests_attending>200</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>U2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229092</link>
+    <speakers>
+      <speaker>
+        <id>505993</id>
+        <display_name>Ravi Nistala</display_name>
+        <topic>
+          <title>Introduction to R in statistical Analysis</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229188</id>
+    <title>SFTP (Student Faculty Training Program) - Datascience concepts</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Student faculty training program is new initiative by IEEE CS Ideate to invovle both students, faculty for a technical competency drive. This is a 3 day training program on Datascience concepts&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Registration link&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;https://bit.ly/Ml-workshop&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>datascience, statastics</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-23 10:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-25 12:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>100</ieee_attending>
+    <guests_attending>150</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Y29tcHV0ZXJzQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229188</link>
+    <speakers>
+      <speaker>
+        <id>506185</id>
+        <display_name>Akash Gujju</display_name>
+        <topic>
+          <title>SFTP - Datascience (AI)</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229187</id>
+    <title>Webinar - An Insight into Machine Learning</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Webinar - An Insight into Machine Learning&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;https://bit.ly/cs-ml-app&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Machine Learning</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-25 17:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-25 18:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>89</ieee_attending>
+    <guests_attending>100</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Y29tcHV0ZXJzQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229187</link>
+    <speakers>
+      <speaker>
+        <id>506183</id>
+        <display_name>Dr. MA Jabbar</display_name>
+        <topic>
+          <title>Webinar - An Insight into Machine Learning</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229547</id>
+    <title>CSI and IEEE Tech Talk #5 - Robotic Process Automation</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Description of Tech Talk #05&amp;lt;br /&amp;gt; RPA is disrupting the way operations are running the business. As world is evolving, so are the operational challenges. To keep up with operational challenges, leveraging latest technologies and techniques such RPA,AI / ML is critical for operations. This session will help audience understand all about RPA and how is it delivering value to operations&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e75f301058ff1c073ee680d13ea964808&amp;quot;&amp;gt;https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e75f301058ff1c073ee680d13ea964808&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>RPA, IEEE CS</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-26 11:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-26 12:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>59</ieee_attending>
+    <guests_attending>130</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Y29tcHV0ZXJzQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229547</link>
+    <speakers>
+      <speaker>
+        <id>506903</id>
+        <display_name>Yadunandan S</display_name>
+        <topic>
+          <title>CSI and IEEE Tech Talk #5 - Robotic Process Automation</title>
         </topic>
       </speaker>
     </speakers>

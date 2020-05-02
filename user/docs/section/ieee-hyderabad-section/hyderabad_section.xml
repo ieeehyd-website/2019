@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-04-09 16:47:21 UTC</time_utc>
-  <report>
-    <id>201357</id>
-    <title>4th IEEE HYDERABAD SECTION MEETING, 2019 SLATE</title>
-    <description>
-      <type>HTML</type>
-      <text>&amp;lt;p&amp;gt;This is the fourth meeting of the Section Executive Committee of the 2019 Slate of IEEE Hyderabad Section. Section officers as well as Chapter/AG chairs, chairs of standing committees, and execom of subsections are invited.&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
-    </description>
-    <keywords>Section Execom</keywords>
-    <category>Administrative</category>
-    <location>
-      <city>Hyderabad</city>
-      <state>AND</state>
-      <country>IN</country>
-    </location>
-    <start_time>2019-04-14 09:30:00 Asia/Kolkata</start_time>
-    <end_time>2019-04-14 17:30:00 Asia/Kolkata</end_time>
-    <report_time_zone>Asia/Kolkata</report_time_zone>
-    <ieee_attending>22</ieee_attending>
-    <guests_attending>1</guests_attending>
-    <joint_with_branch>false</joint_with_branch>
-    <cost>false</cost>
-    <primary_unit>
-      <ou_type>SECTION</ou_type>
-      <ou>(section)</ou>
-      <parents>
-        <parent>
-          <type>section</type>
-          <name>HYDERABAD</name>
-        </parent>
-        <parent>
-          <type>region</type>
-          <name>10</name>
-        </parent>
-      </parents>
-    </primary_unit>
-    <cosponsor_name>Bala Prasad Peddigari</cosponsor_name>
-    <contact_email64>YmFsYS5wZWRkaWdhcmlAaWVlZS5vcmc=</contact_email64>
-    <link>http://events.vtools.ieee.org/m/201357</link>
-  </report>
+  <time_utc>2020-05-02 06:41:27 UTC</time_utc>
   <report>
     <id>201358</id>
     <title>5th IEEE HYDERABAD SECTION MEETING, 2019 SLATE</title>
@@ -1597,6 +1558,425 @@ Student Branch Chapters</keywords>
         <email64>c19zcmVlbGFrc2htaUB5YWhvby5jb20=</email64>
         <topic>
           <title>Role and Responsibilites of an SN Member</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229929</id>
+    <title>4TH IEEE HYDERABAD SECTION MEETING, 2020 SLATE : Hyderabad Section</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;4TH IEEE HYDERABAD SECTION MEETING, 2020 SLATE : Hyderabad Section&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Hyderabad Section, IEEE, Section Meeting</keywords>
+    <category>Administrative</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-05 09:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-05 13:20:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>26</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SECTION</ou_type>
+      <ou>(section)</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Bala Peddigari</cosponsor_name>
+    <contact_email64>YmFsYS5wZWRkaWdhcmlAaWVlZS5vcmc=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229929</link>
+  </report>
+  <report>
+    <id>229878</id>
+    <title>Student Network Members Meet</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Speaker: Prof G. Sree Lakshmi&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The Role and Volunteering opportunities for Student Network Members are discussed.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Various models to show, how a SN member can influence the Chapter and Section activities are explained&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;At the end Q&amp;amp;amp;A is taken&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>SN Members 
+Volunteering Opportunities</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-12 15:30:00 Indian/Reunion</start_time>
+    <end_time>2020-04-12 17:00:00 Indian/Reunion</end_time>
+    <report_time_zone>Indian/Reunion</report_time_zone>
+    <ieee_attending>65</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SECTION</ou_type>
+      <ou>(section)</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c19zcmVlbGFrc2htaUB5YWhvby5jb20=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229878</link>
+    <speakers>
+      <speaker>
+        <id>507565</id>
+        <display_name>G. Sree Lakshmi</display_name>
+        <email64>c19zcmVlbGFrc2htaUB5YWhvby5jb20=</email64>
+        <topic>
+          <title>SN Member Role and Opportunities</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229131</id>
+    <title>Student Branch Counselors' Meet</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Theres is every need to improve the professional knoledge in the functioning of a Student Branch.&amp;amp;nbsp; Some of the SB Counselors are new and hence this SB Couselors meet is proposed Many topics including&amp;amp;nbsp;&amp;lt;span style=&amp;quot;font-size: 12pt;&amp;quot;&amp;gt;Role and Responsibilities of a IEEE Student Branch Couselor,&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-size: 12pt;&amp;quot;&amp;gt;Officer Reporting,&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-size: 12pt;&amp;quot;&amp;gt;Annual Plan Submission, L31 Filing,&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-size: 12pt;&amp;quot;&amp;gt;vTools,&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-size: 12pt;&amp;quot;&amp;gt;Rebate,&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-size: 12pt;&amp;quot;&amp;gt;Awards,&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-size: 12pt;&amp;quot;&amp;gt;Chapters and AG formation,&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-size: 12pt;&amp;quot;&amp;gt;Competitions and Accounting are discussed.&amp;amp;nbsp; Q&amp;amp;amp;A session is also organized.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Student Branch, Rebate L-31</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-15 17:30:00 Indian/Reunion</start_time>
+    <end_time>2020-04-15 18:45:00 Indian/Reunion</end_time>
+    <report_time_zone>Indian/Reunion</report_time_zone>
+    <ieee_attending>54</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SECTION</ou_type>
+      <ou>(section)</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c19zcmVlbGFrc2htaUB5YWhvby5jb20=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229131</link>
+    <speakers>
+      <speaker>
+        <id>506071</id>
+        <display_name>G. Sree Lakshmi</display_name>
+        <email64>c19zcmVlbGFrc2htaUB5YWhvby5jb20=</email64>
+        <organization>CVR College of Engineering </organization>
+        <topic>
+          <title>Role and Responsibilities, Officer Reporting, Annual Plan, Chapters and AG Formation</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>506072</id>
+        <display_name>Prof N. Srinivasa Rao </display_name>
+        <email64>c3Jpbml2YXNhLm5vb2thbGFAZ21haWwuY29t</email64>
+        <organization>IEEE</organization>
+        <topic>
+          <title>L-31, vTools, Rebate, Competitions and Accounting</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229882</id>
+    <title>SN Members Meeting for SSR and JSSR Selection Process</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Section Student Representative&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Joint Section Student Representative&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Zonal Student Representative&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Mode of identification, selection process explained.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Skill set of each SN member too gathered&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Section Student Rep</keywords>
+    <category>Professional</category>
+    <location>
+      <city>hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-19 16:30:00 Indian/Reunion</start_time>
+    <end_time>2020-04-19 17:30:00 Indian/Reunion</end_time>
+    <report_time_zone>Indian/Reunion</report_time_zone>
+    <ieee_attending>38</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SECTION</ou_type>
+      <ou>(section)</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c19zcmVlbGFrc2htaUB5YWhvby5jb20=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229882</link>
+    <speakers>
+      <speaker>
+        <id>507573</id>
+        <display_name>G. Sree Lakshmi</display_name>
+        <email64>c19zcmVlbGFrc2htaUB5YWhvby5jb20=</email64>
+        <topic>
+          <title>Section Student Rep, JSSR, ZSR SN Members Role</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229176</id>
+    <title>How to Create a Professional Resume</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Meant for About-to-Graduate IEEE student members and recently graduate IEEE Young Professionals, this Webinar from Experienced HR leader Anita Shelton informs you about how to build a resume that impresses the reader. It will show that you are a professional and right for the job. Normally students really need to know what and how to put their knowledge into a resume.&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE YP and StudentMembers, Resume</keywords>
+    <category>Nontechnical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-21 18:30:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-21 19:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>34</ieee_attending>
+    <guests_attending>76</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SECTION</ou_type>
+      <ou>(section)</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bS5qLm5lZ2lAaWVlZS5vcmc=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229176</link>
+    <speakers>
+      <speaker>
+        <id>506161</id>
+        <display_name>Anita Shelton</display_name>
+        <organization>Royal Caribbean</organization>
+        <topic>
+          <title>How to create a Professional Resume</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229124</id>
+    <title>IEEE CISGRSS, Hyderabad Section presents Fuzzy Interpolative Systems and Applications  By Prof. Dr. Ing . Marius M. Bălaş  Aurel Vlaicu University of Arad</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Dear All,&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, sans-serif;&amp;quot;&amp;gt;IEEE CISGRSS Jt. Chapter, Hyderabad Section in collaboration&amp;amp;nbsp;with Computer&amp;lt;span style=&amp;quot;color: #000000;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;color: #000000;&amp;quot;&amp;gt;Society of India, Hyderabad Chapter organising Webinar&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;color: #cc0000;&amp;quot;&amp;gt;&amp;quot;&amp;lt;/span&amp;gt;Fuzzy Interpolative Systems and Applications&amp;lt;span style=&amp;quot;color: #cc0000;&amp;quot;&amp;gt;&amp;quot;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;color: #000000;&amp;quot;&amp;gt;by&amp;amp;nbsp;Prof. Dr.&amp;amp;nbsp;Ing&amp;amp;nbsp;. Marius M.&amp;amp;nbsp;Bălaş&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;color: #000000;&amp;quot;&amp;gt;Aurel Vlaicu University of Arad&amp;amp;nbsp; &amp;amp;nbsp;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;color: #990000;&amp;quot;&amp;gt;Date: 23 April 2020, Thursday&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;color: #990000;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;color: #990000;&amp;quot;&amp;gt;Time: 4pm - 5pm Indian Standard Time&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;color: #990000;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;color: #990000;&amp;quot;&amp;gt;Interested&amp;amp;nbsp;participants&amp;amp;nbsp;must register here:&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;amp;nbsp;&amp;lt;a href=&amp;quot;https://forms.gle/PRoF56hTwkjBJARA7&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot; data-saferedirecturl=&amp;quot;https://www.google.com/url?q=https://forms.gle/PRoF56hTwkjBJARA7&amp;amp;amp;source=gmail&amp;amp;amp;ust=1587236054532000&amp;amp;amp;usg=AFQjCNHyGDIN6dTidpEkaJZpwIDninJvXw&amp;quot;&amp;gt;https://forms.gle/&amp;lt;wbr /&amp;gt;PRoF56hTwkjBJARA7&amp;lt;/a&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, sans-serif;&amp;quot;&amp;gt;Abstract&amp;lt;br /&amp;gt;The fuzzy-interpolative systems are a Soft Computing item, hybridizing&amp;amp;nbsp;Sugeno&amp;amp;nbsp;fuzzy systems with linear interpolation networks (look-up-tables). They share the fuzzy linguistic knowledge&amp;amp;nbsp;representation&amp;amp;nbsp;with the matrix/memory structures&amp;amp;rsquo; extreme applicative efficiency.&amp;amp;nbsp;Neuro-fuzzy applications are derived very conveniently.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, sans-serif;&amp;quot;&amp;gt;Some basic self-adaptive techniques are presented: gradual PD-PID shifting, self-adaptation by&amp;amp;nbsp; linguistic phase trajectory analysis, fuzzy-fusion correctors and LUT planners.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, sans-serif;&amp;quot;&amp;gt;Applications from several fields of activity are briefly presented: adaptive control, traffic&amp;amp;nbsp;management, renewable energy management, etc.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, sans-serif;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, sans-serif;&amp;quot;&amp;gt;Brief Bio:&amp;amp;nbsp;Marius M.&amp;amp;nbsp;Balas, IEEE Senior Member, is currently a Full Professor at the University &amp;amp;ldquo;Aurel&amp;amp;nbsp;Vlaicu&amp;amp;rdquo; of Arad (Romania). He is the author of 4 books, 14 book chapters, 83 indexed articles, 40 papers in other journals and conference proceedings and 7 invention patents. His research interests are in Electronic Circuits,&amp;amp;nbsp;Modeling&amp;amp;nbsp;and Simulation, Adaptive Control, Intelligent and Fuzzy Systems, Greenhouses and Intelligent Transportation. The main original concepts introduced by&amp;amp;nbsp;Prof.&amp;amp;nbsp;Marius M.&amp;amp;nbsp;Balas&amp;amp;nbsp;are: the fuzzy-interpolative systems, the passive greenhouse, the intelligent roof-top greenhouse, the constant time to collision optimization of the traffic, the imposed distance braking, the internal model bronze casting, PWM inverters for railway coaches, the rejection of the switching controllers effect by phase trajectory analysis, etc. He has been mentor for student research challenges, awarded by Microsoft Imagine Cup, GDF Suez,&amp;amp;nbsp;etc.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, sans-serif;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, sans-serif;&amp;quot;&amp;gt;Feel free to contact.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Event Coordinator:&amp;amp;nbsp;Saikumar&amp;amp;nbsp;Tara&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Excom&amp;amp;nbsp;Member, CIS/GRSS&amp;amp;nbsp;Jt&amp;amp;nbsp;Chapter and MC, CSI Hyderabad Chapter.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;mailto:saikumar9@ieee.org&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;saikumar9@ieee.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Regards&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Dr. T. Hitendra Sarma&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;mailto:hitendrasarma@ieee.org&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;hitendrasarma@ieee.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Computational Intelligence, Fuzzy Inerpolation</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-23 16:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-23 17:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>120</ieee_attending>
+    <guests_attending>60</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SECTION</ou_type>
+      <ou>(section)</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2Fpa3VtYXI5QGllZWUub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229124</link>
+  </report>
+  <report>
+    <id>229883</id>
+    <title>Selection of SSR, JSSR</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Selection of SSR, JSSR and Zonal Reps on the basis of interaction between SNs and SAC&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>SSR JSSR ZSR</keywords>
+    <category>Administrative</category>
+    <location>
+      <city>hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-23 15:00:00 Indian/Reunion</start_time>
+    <end_time>2020-04-23 19:00:00 Indian/Reunion</end_time>
+    <report_time_zone>Indian/Reunion</report_time_zone>
+    <ieee_attending>36</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SECTION</ou_type>
+      <ou>(section)</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c19zcmVlbGFrc2htaUB5YWhvby5jb20=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229883</link>
+    <speakers>
+      <speaker>
+        <id>507575</id>
+        <display_name>G. Sree Lakshmi</display_name>
+        <email64>c19zcmVlbGFrc2htaUB5YWhvby5jb20=</email64>
+        <topic>
+          <title>Selection of SSR, JSSR, ZSR for Hyderabad Section</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229908</id>
+    <title>"Telangana's biggest online hackathon," I - Innovate-Inaugural</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE Hyderabad section for taking up the responsibility and supporting us as Technology&amp;amp;nbsp; partner&amp;amp;nbsp; for the launch of &amp;quot;Telangana&amp;#39;s biggest online hackathon,&amp;quot; I - Innovate in the webinar : Innovation -&amp;amp;nbsp; need of the hour, happening today at&amp;amp;nbsp;&amp;lt;strong&amp;gt;04 : 15 PM to 05 :30 PM&amp;lt;/strong&amp;gt;&amp;amp;nbsp;addressed by Mr Ravi Narayan, CIO, TSIC, CEO ,T - HUB supported by Telangana State Innovation cell [TSIC] and Telangana Information Technology Association [TITA] organised by Publishsutra.&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Inaugural</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-25 16:15:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-25 17:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>135</ieee_attending>
+    <guests_attending>5</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SECTION</ou_type>
+      <ou>(section)</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Publishsutra</cosponsor_name>
+    <contact_email64>c2FjQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229908</link>
+    <speakers>
+      <speaker>
+        <id>507625</id>
+        <display_name>Mr Ravi Narayan</display_name>
+        <organization>CIO, TSIC, CEO ,T - HUB</organization>
+        <topic>
+          <title>Innovation -  need of the hour</title>
         </topic>
       </speaker>
     </speakers>
