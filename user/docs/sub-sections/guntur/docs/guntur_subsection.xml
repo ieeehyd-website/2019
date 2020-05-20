@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-05-02 06:44:01 UTC</time_utc>
+  <time_utc>2020-05-20 05:47:43 UTC</time_utc>
   <report>
     <id>208283</id>
     <title>Workshop on Solar power plants and battery energy storage systems in utility grids and micro grids</title>
@@ -263,7 +263,7 @@ Guntur Subsection</keywords>
     <end_time>2020-04-22 17:00:00 Asia/Kolkata</end_time>
     <report_time_zone>Asia/Kolkata</report_time_zone>
     <ieee_attending>45</ieee_attending>
-    <guests_attending>423</guests_attending>
+    <guests_attending>378</guests_attending>
     <joint_with_branch>false</joint_with_branch>
     <cost>false</cost>
     <primary_unit>

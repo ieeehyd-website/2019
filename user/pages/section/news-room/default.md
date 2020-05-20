@@ -3,6 +3,7 @@
 
 ## 2020
 ---
+[May 2020 Edition](/user/docs/news-room/published/2020-May.pdf)                                           
 [January 2020 Edition](/user/docs/news-room/published/2020-January.pdf)
 
 ## Past Editions

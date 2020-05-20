@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-05-02 06:44:50 UTC</time_utc>
+  <time_utc>2020-05-20 05:51:29 UTC</time_utc>
   <report>
     <id>211575</id>
     <title>1st TEMS Core meeting</title>
@@ -700,6 +700,68 @@
         <display_name>Taskeen Bhasha</display_name>
         <topic>
           <title>How to use Social Media to build your Business</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229551</id>
+    <title>Webinar: Diversity as a driver of innovation &amp; enterprise success</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Topic:&amp;amp;nbsp;Diversity as a driver of innovation &amp;amp;amp; enterprise success&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Abstract:&amp;amp;nbsp;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;a) How does diversity help with innovation?&amp;lt;br /&amp;gt;b) For companies and individuals to win in this global marketplace, we need to deliberately embrace diverse perspectives and introduce diversity into our teams and organizations. Leaders need to pivot their behaviour to foster the diversity so that the innovative potential on their teams is unlocked. So let&amp;amp;rsquo;s explore, what do business results look like for diverse teams and what do these inclusive behaviours look like? How should you and I foster these environments and measure?&amp;lt;br /&amp;gt;c) Open discussions on barriers, biases, and how we get ahead of this problem.&amp;lt;strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Speaker: Radha Shreeniwas, Sr. Director, Global Talent - APJ, ServiceNow Inc.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Radha joined ServiceNow APJ as Sr. Director Global Talent in 2019. In this role, Radha leads the team that provides strategic people practices &amp;amp;amp; business partnership to the APJ Regional leadership. Her team builds organizational capability to enable growth and they empower employees to do their best as they make the world of work, work better for people.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Radha brings with her strong domain experience spanning more than 18 years of work across Human Resources, Business Operations and Engineering.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;br /&amp;gt; She holds an Electrical Engineering degree from the University of Rochester; an MBA in Marketing and Strategy from Yale University&amp;amp;rsquo;s School of Management.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;br /&amp;gt; After a successful career with Thomson Reuters as a software engineer, Radha moved back to India to help build the Global Captive Center for Target as an Operations Leader. Her passion for developing talent &amp;amp;amp; her leadership capability gave her the opportunity to become the head of Learning &amp;amp;amp; Development for Target India.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;br /&amp;gt; Radha deepened her HR domain expertise in the US as a Strategic HR business partner for groups as diverse as Technology, Community Relations, Corporate Security &amp;amp;amp; Legal at Target Headquarters in Minneapolis. The dynamic environment of Asia and her passion for building companies and cultures brought her back to India as Head of HR and HR leader for APAC Sales for LinkedIn.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;In January 2019, Radha joined ServiceNow as Head of Talent for APJ and is helping build and develop a culture in APJ ServiceNow that attracts and develops diverse, passionate, purpose driven talent.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;When not engaged with people affairs at ServiceNow, Radha&amp;amp;rsquo;s hands are full parenting her high energy teenagers.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;To view Radha&amp;amp;rsquo;s detailed profile, click on &amp;lt;a href=&amp;quot;https://www.linkedin.com/in/radhashreeniwas&amp;quot;&amp;gt;https://www.linkedin.com/in/radhashreeniwas&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;NOTE: WebEx details will be sent to you post registration (please register from&amp;amp;nbsp;https://bit.ly/TEMSDiversity)&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, TEMS, Diversity, Hiring, Innovation, Enterprises, Enterprise, Topline, Management, Human Resources</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-05 18:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-05-05 19:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>32</ieee_attending>
+    <guests_attending>37</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>WiE Affinity Group, Hyderabad Section</cosponsor_name>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229551</link>
+    <speakers>
+      <speaker>
+        <id>506911</id>
+        <display_name>Radha Shreeniwas</display_name>
+        <topic>
+          <title>Diversity as a driver of innovation &amp; enterprise success</title>
         </topic>
       </speaker>
     </speakers>
