@@ -10,5 +10,3 @@
 |4	| Professional | "COLLABRO COLLOQUY " A webinar series to emerge , engage and evolve by student network team  | 5/20/20 18:00 |	SAC	| <sac@ieeehyd.org> | Webinar |	<http://events.vtools.ieee.org/m/231095> |
 |5	| Professional | New Challenges in Electricity Distribution and Regulation    |	5/22/20 17:30 |	PES/PELS/IAS Joint Chapter	| <rajgopal3e@gmail.com> | Webinar |	<http://events.vtools.ieee.org/m/230911> |
 |6	| Technical | InfoQuest- Virtual Paper Presentation : RVR & JC College Of Engineering  |	5/27/20 22:00 |	RVR & JC College Of Engineering	| <tripura.pidikiti@gmail.com> | Virtual |	<http://events.vtools.ieee.org/m/231038> |
-
-
