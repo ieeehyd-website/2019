@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-05-02 06:46:04 UTC</time_utc>
+  <time_utc>2020-05-20 05:50:54 UTC</time_utc>
   <report>
     <id>201190</id>
     <title>Two day Workshop on HYPERSPECTRAL IMAGE ANALYSIS  AND APPLICATIONS</title>
@@ -807,6 +807,205 @@
         <organization>CHRIST University</organization>
         <topic>
           <title>Inspired Soft Computing: Application to Prediction of Environmental Hazards</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229972</id>
+    <title>CIS/GRSS Joint Chapter Execom Meeting</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;The meeting&amp;#39;s agenda is to discuss the following:-&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;1. Call for Nominations for Outstanding Chapter &amp;amp;ndash; Due by 30th April&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;2. Funding Proposals&amp;amp;nbsp; - Due by 30th April&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;3. Brief on Completed activities&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;4. Action plan for 2nd Quarter 2020&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;5. Any other points&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>CIS/GRSS, CIS Hyderabad, Vinit Kumar Gunjan</keywords>
+    <category>Administrative</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-09 19:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-09 21:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>6</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CIS11/GRS29</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>dmluaXRrdW1hcmd1bmphbkBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229972</link>
+  </report>
+  <report>
+    <id>228639</id>
+    <title>Successful scientific publishing: from the project to the advertising</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;div class=&amp;quot;page&amp;quot; title=&amp;quot;Page 1&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;section&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;layoutArea&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;We will review good scientific practices that may lead to more success and less stress of the active researcher. We will emphasize the importance of reproducibility in every step of the research process: from the conception and writing of the proposal to the publication and support of the results.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;</text>
+    </description>
+    <keywords>CIS, GRSS, Scientific Publishing, Alejandro C. Frery</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-13 17:30:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-13 18:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>79</ieee_attending>
+    <guests_attending>139</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CIS11/GRS29</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>IEEE GRSS Society, Bangalore Section</cosponsor_name>
+    <contact_email64>dmluaXRrdW1hcmd1bmphbkBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228639</link>
+    <speakers>
+      <speaker>
+        <id>505087</id>
+        <display_name>Alejandro C. Frery</display_name>
+        <email64>YWNmcmVyeUBnbWFpbC5jb20=</email64>
+        <topic>
+          <title>Successful scientific publishing: from the project to the advertising</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229089</id>
+    <title>An Overview of Artificial Satellite Technology: State of the Art and Current Trends</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;div&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, sans-serif;&amp;quot;&amp;gt;Link to join:&amp;amp;nbsp;&amp;lt;a title=&amp;quot;https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=ec545c89620d5cf64f5d91057ca8e3e83&amp;quot; href=&amp;quot;https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=ec545c89620d5cf64f5d91057ca8e3e83&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=ec545c89620d5cf64f5d91057ca8e3e83&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, sans-serif;&amp;quot;&amp;gt;Since the successful launch of the first artificial satellite named, Sputnik-1 in 1957, there are significant advancements in space technology for various purposes like earth-observation, communication and navigation, etc. Its purpose defines the size, orbit, and design of the artificial satellite. Currently, about 2200 artificial satellites from more than 50 countries are orbiting Earth (based on UCS Satellite Database).&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, sans-serif;&amp;quot;&amp;gt;Due to the ability of artificial satellites in addressing the societal needs of mankind, trained professionals are in great demand in various sectors. This technology has sparked off and resulted in new scientific as well as technological developments between many countries. Thus, this webinar is designed to provide an overview of artificial satellite technology with its state of the art and current trends. It also discusses the various ways our society has both driven and benefited from this development.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>GRSS, GRSS Hyderabad, CIS GRSS Hyderabad, IEEE Hyderabad section</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-19 17:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-19 18:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>56</ieee_attending>
+    <guests_attending>79</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CIS11/GRS29</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bW91c21pLmtzdUBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229089</link>
+    <speakers>
+      <speaker>
+        <id>505987</id>
+        <email64>VGhvdGEuU2l2YXNhbmthckBuaWl0dW5pdmVyc2l0eS5pbg==</email64>
+        <organization>NIIT University</organization>
+        <topic>
+          <title>An Overview of Artificial Satellite Technology: State of the Art and Current Trends</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229270</id>
+    <title>Machine Learning and Cyber Security: Continuing Convergence</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;In this talk we will discuss some applications of machine learning in cyber security tool development such as malware analysis, application firewall, anomaly detection to prevent intrusion, and analysis of threat intelligence information for better preparedness against cyber attacks. On the other side, we also will discuss how machine learning models are being subjected to cyber attack to either impact their accuracy or creating unfair and biased decision making. So the two topics are now intricately intertwined -- and this talk will give a basic overview of how such interdependency is a double edged sword in today&amp;#39;s digitalized world.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE CIS Hyderabad, IIT Kanpur, Sandeep Shukla, Cyber Security, CIS/GRSS Hyderabad, IEEE Hyderabad Section</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-28 11:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-28 12:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>32</ieee_attending>
+    <guests_attending>97</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CIS11/GRS29</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>dmluaXRrdW1hcmd1bmphbkBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229270</link>
+    <speakers>
+      <speaker>
+        <id>506349</id>
+        <display_name>Dr. Sandeep Shukla</display_name>
+        <organization>Indian Institute of Technology, Kanpur</organization>
+        <topic>
+          <title>Machine Learning and Cyber Security: Continuing Convergence</title>
         </topic>
       </speaker>
     </speakers>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-02-08 15:13:33 UTC</time_utc>
+  <time_utc>2020-05-20 05:50:38 UTC</time_utc>
   <report>
     <id>211975</id>
     <title>Awareness on Career Growth Prospects for Reliability Engineering Professionals with Industry Collaborations</title>
@@ -287,6 +287,251 @@
         <organization>JNTUA College of Engineering, Ananthapuramu</organization>
         <topic>
           <title>Report of planned and conducted events</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>227090</id>
+    <title>Ananthapuramu Subsection-Three-Day National Workshop </title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;The IEEE Ananthapuramu Subsection in association with department of Humanities and Social Sciences, JNTUA College of Engineering, Ananthapuramu, organized a Three-Day National Workshop on &amp;amp;ldquo;Pedagogical Skills for Faculty in Outcome-Based Education&amp;amp;rdquo; from 6-12-2019 to 8-12-2019 on the college premises.&amp;amp;nbsp; The workshop focused on pedagogy methods in higher education order which had undergone revolutionary changes during the last two decades. The traditional strategies have become almost obsolete in current scenario where Outcome-Based Education and student centric teaching learning are the need of the hour. About 120 participants from different parts of the country have participated in this program.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Pedagogical Skills, Outcome based education, JNTUA, Ananthapuramu subsection</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Anathapuramu</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-12-06 08:30:00 Asia/Kolkata</start_time>
+    <end_time>2019-12-08 17:14:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>35</ieee_attending>
+    <guests_attending>85</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>Ananthapuramu</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Department of Humanities and Social sciences, JNTUA</cosponsor_name>
+    <contact_email64>c2l2YTcwMDVAcmVkaWZmbWFpbC5jb20=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/227090</link>
+    <speakers>
+      <speaker>
+        <id>501989</id>
+        <display_name>PRof DVV Siva Sarma</display_name>
+        <organization>NIT warangal</organization>
+        <topic>
+          <title>Pedagogical Skills for enabling Digital Age Learners</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>501990</id>
+        <display_name>Prof. S. Chandra Sekhar</display_name>
+        <topic>
+          <title>Orientation Workshop on Outcome-Based Accreditation</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>227091</id>
+    <title>Ananthapuramu Subsection-International Conference</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;The IEEE Ananthapuramu Subsection in assocaition with JNTUA College of Engineering&amp;amp;nbsp;has conducted three day International Conference on &amp;amp;ldquo;System Automation, Reliability, Quality Control, Safety, Maintenance and Management (IC SARQCSMM19)&amp;amp;rdquo; during 11-13th December 2019.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;During the inaugural session, Patron, Principal, Prof. K. Govindarajulu, has presided over the function. Chief Patron, Vice-Chancellor, JNTUA Prof. S. Srinivas Kumar has appreciated the efforts of the team of officials who have taken the initiative in conducting 1&amp;lt;sup&amp;gt;st&amp;lt;/sup&amp;gt; International Conference in the campus. Sri. M. Srinivas Prasad, CEO &amp;amp;amp; Founder, Educlo, Singapore, Guest of Honour has stated the importance of Educational cloud platform for providing access of e-learning sources world wide.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Prof. V. Sankar, Convener of the event has stated that 51 papers have been received, 28 have been accepted. The papers presented on the theme will be considered as a book series as Performability, Engineering, by Scrivener publications USA, in collaboration with John Wiley &amp;amp;amp; Sons Inc. The papers on the any other theme will be published as proceeding of the Conference by the college JNTUA CEA with ISBN number.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Chief Guest Sri G. Nageswara Rao, Chairman, Atomic Energy Regulatory Board (AERB), Mumbai has enlightened about the importance of atomic energy as a alternate energy in the future which is going to be part of green energy revolution which is less harmful.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Parton and Rector JNTUA has discussed about safety aspects in environmental conditions&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>International conference, Ananthapuramu SUbseection, JNTUA, System Automation, Reliability, Quality Control, Safety, Maintenance and Management </keywords>
+    <category>Technical</category>
+    <location>
+      <city>Ananathapuramu</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-12-11 09:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-12-13 17:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>20</ieee_attending>
+    <guests_attending>200</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>Ananthapuramu</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>JNTUA  Ananthapuramu</cosponsor_name>
+    <contact_email64>dnNhbmthci5lZWVAam50dWEuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/227091</link>
+    <speakers>
+      <speaker>
+        <id>501991</id>
+        <display_name>G. Nageswara Rao</display_name>
+        <organization> Atomic Energy Regulatory Board (AERB), </organization>
+        <topic>
+          <title>importance of atomic energy as a alternate energy </title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>226105</id>
+    <title>Executive Committee meeting and Branch counselors meet of Ananthapuramu Subsection</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;&amp;amp;nbsp;In order to benefit the student branches the&amp;lt;br /&amp;gt;second branch counselors meet along with the Execom is scheduled on 13/03/2020 at JNTUA&amp;lt;br /&amp;gt;Ananthapuramu.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Branch Counselors Meet
+Execom meet</keywords>
+    <category>Administrative</category>
+    <location>
+      <city>Ananthapuramu</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-03-13 10:30:00 Asia/Kolkata</start_time>
+    <end_time>2020-03-13 16:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>23</ieee_attending>
+    <guests_attending>10</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>Ananthapuramu</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YW5hbmF0aGFwdXJhbXVAaWVlZWh5ZC5vcmc=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/226105</link>
+  </report>
+  <report>
+    <id>229967</id>
+    <title>A Webinar on Recent Challenges in Electrical Engineering</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Electrical engineering is a broad field right from power&amp;lt;br /&amp;gt;generation to utilization by end users through transmission&amp;lt;br /&amp;gt;and distribution. Electrical engineering is always a challenging&amp;lt;br /&amp;gt;field which requires a regular up dating with proper control and&amp;lt;br /&amp;gt;communication system. Electricity is very useful for mankind&amp;lt;br /&amp;gt;since its invention. We are using it in our domestic life and&amp;lt;br /&amp;gt;Industries for lighting, Heating, Ventilation, Air-Conditioning,&amp;lt;br /&amp;gt;Fans, and to drive Pumps, Compressors etc. With the&amp;lt;br /&amp;gt;advancement of technology, increased use of electrical&amp;lt;br /&amp;gt;appliances and availability of electrical supply at all the&amp;lt;br /&amp;gt;places, it has become complex to supply qualitative power to&amp;lt;br /&amp;gt;the consumers safely. This talk aims to review the existing&amp;lt;br /&amp;gt;electrical power system, various challenges like increased&amp;lt;br /&amp;gt;demand, age old equipment, lack of industry ready manpower,&amp;lt;br /&amp;gt;conservation of natural resources, and en-cashing the new&amp;lt;br /&amp;gt;opportunities with the help of emerging technologies. Also, an&amp;lt;br /&amp;gt;attempt will be made to address the demands and aspirations&amp;lt;br /&amp;gt;of various stake holders like power producers &amp;amp;amp; suppliers,&amp;lt;br /&amp;gt;consumers, regulators and policy makers.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Electrical Engineering,Regulators,Suppliers,Consumers</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Kurnool</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-11 10:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-11 11:10:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>140</ieee_attending>
+    <guests_attending>6</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>Ananthapuramu</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>IEEE Education Society chapter</cosponsor_name>
+    <contact_email64>YW5hbnRoYXB1cmFtdUBpZWVlaHlkLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229967</link>
+    <speakers>
+      <speaker>
+        <id>507743</id>
+        <display_name>B. Koti Reddy</display_name>
+        <topic>
+          <title>Recent Challenges in Electrical Engineering</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229819</id>
+    <title>A Webinar on ""Scalable End to End Architecture for IoT Applications in Engineering"</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Internet of Things (IoT) devices are used in wide variety of engineering and non-engineering applications.&amp;amp;nbsp; They are used for monitoring Smart Homes, Smart Grids, Mobile Users and even Servers in the Clouds.&amp;amp;nbsp; By nature of their usage, a large amounts of data from a large number of devices is collected, aggregated, stored, processed and visualized.&amp;amp;nbsp; Obviously, the End-to-End architecture of the systems which support IoT applications must be scalable.&amp;amp;nbsp; As the type of applications are varied, there is no universally accepted standard architecture.&amp;amp;nbsp; The proposed talk discusses the common characteristics of IoT applications, identifies important elements involved, discusses the challenges which influence the architecture and describes a scalable architecture along with some of technologies used to support this architecture.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Architechture,IoT</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Kurnool</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-25 11:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-25 12:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>100</ieee_attending>
+    <guests_attending>86</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SUBSECTION</ou_type>
+      <ou>Ananthapuramu</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>IEEE Education Society chapter</cosponsor_name>
+    <contact_email64>YW5hbnRoYXB1cmFtdUBpZWVlaHlkLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229819</link>
+    <speakers>
+      <speaker>
+        <id>507447</id>
+        <topic>
+          <title>Scalable End to End Architecture for IoT Applications in Engineering</title>
         </topic>
       </speaker>
     </speakers>

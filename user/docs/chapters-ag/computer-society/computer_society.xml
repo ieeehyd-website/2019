@@ -1,60 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-05-02 06:42:47 UTC</time_utc>
-  <report>
-    <id>197800</id>
-    <title>Digital Reality (AR/VR/MR) Workshop</title>
-    <description>
-      <type>HTML</type>
-      <text>&amp;lt;p&amp;gt;IEEE Computer Society, Hyderabad Section is conceptualizing AR/VR Summit (a.k.a Digital Reality Summit) for Professionals. This program will be executed under IEEE Umbrella @Hyderabad. It will be a Half-Day workshop will be conducted on 11th May&amp;#39;19 where Industry Experts (CEOs, Founders) will share their experiences and future roadmap of Digital Reality&amp;lt;/p&amp;gt;</text>
-    </description>
-    <keywords>Digital Reality, IEEE, AR/VR</keywords>
-    <category>Technical</category>
-    <location>
-      <city>Hyderabad</city>
-      <state>AND</state>
-      <country>IN</country>
-    </location>
-    <start_time>2019-05-11 09:30:00 Asia/Kolkata</start_time>
-    <end_time>2019-05-11 13:00:00 Asia/Kolkata</end_time>
-    <report_time_zone>Asia/Kolkata</report_time_zone>
-    <ieee_attending>18</ieee_attending>
-    <guests_attending>6</guests_attending>
-    <joint_with_branch>false</joint_with_branch>
-    <cost>false</cost>
-    <primary_unit>
-      <ou_type>CHAPTER</ou_type>
-      <ou>C16</ou>
-      <parents>
-        <parent>
-          <type>section</type>
-          <name>HYDERABAD</name>
-        </parent>
-        <parent>
-          <type>region</type>
-          <name>10</name>
-        </parent>
-      </parents>
-    </primary_unit>
-    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
-    <link>http://events.vtools.ieee.org/m/197800</link>
-    <speakers>
-      <speaker>
-        <id>443415</id>
-        <display_name>Ikram</display_name>
-        <topic>
-          <title>Developing AR Apps For Retail Business</title>
-        </topic>
-      </speaker>
-      <speaker>
-        <id>443416</id>
-        <display_name>Arvind</display_name>
-        <email64>YXJ2aW5kQHVuaXR5M2QuY29t</email64>
-        <organization>Unity Technologies</organization>
-      </speaker>
-    </speakers>
-  </report>
+  <time_utc>2020-05-20 05:47:12 UTC</time_utc>
   <report>
     <id>200072</id>
     <title>Modelling in UML: A practical introduction</title>
@@ -1314,6 +1261,408 @@
         <display_name>Yadunandan S</display_name>
         <topic>
           <title>CSI and IEEE Tech Talk #5 - Robotic Process Automation</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229548</id>
+    <title>Webinar - AI in Healthcare and Medicine</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Webinar about AI appliance in Heathcare Industry&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;WebEx to join the session&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=ea3d29c600c0a40e7efa68c842cc987e6&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>AI, IEEE CS, Healthcare</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-29 17:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-04-29 18:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>50</ieee_attending>
+    <guests_attending>119</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Y29tcHV0ZXJzQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229548</link>
+    <speakers>
+      <speaker>
+        <id>506905</id>
+        <display_name>Saaveethya Sivakumar</display_name>
+        <topic>
+          <title>Webinar - AI in Healthcare and Medical Field</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229479</id>
+    <title>Covid Blaster - Hackathon for Coders</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Covid Blaster - Hackathon for Coders&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Registration : https://in.explara.com/e/hackeethon-second-edition&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Participation form&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;https://bit.ly/covid-blasters&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>coders, covid</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-01 09:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-05-01 21:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>14</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Y29tcHV0ZXJzQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229479</link>
+    <speakers>
+      <speaker>
+        <id>506767</id>
+        <display_name>sagar</display_name>
+        <email64>U2FnYXJ2dEBpZWVlLm9yZw==</email64>
+        <topic>
+          <title>Covid 19 Blasters</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229549</id>
+    <title>A PANEL DISCUSSION ON LOCK DOWN PERIOD- WORK  LIFE BALANCE</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Due to Covid -19 the whole world is standstill and is in lockdown state. There is huge impact of this lockdown on human psychology and world&amp;amp;rsquo;s economy. &amp;amp;nbsp;All the employees despite working from home are going through high levels of anxiety with the fear of losing jobs, delay in appraisal and promotions.&amp;lt;br /&amp;gt; This is the time when we should keep ourselves calm and composed. Be there as a support system to entire family by maintaining proper work life balance. This session aims to make everybody realize the importance of balancing work life so as to have a healthy and peaceful&amp;lt;br /&amp;gt; life during this crucial time&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Work life balance, IEEE CS</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-02 17:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-05-02 18:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>55</ieee_attending>
+    <guests_attending>27</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Y29tcHVldGVyc0BpZWVlaHlkLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229549</link>
+    <speakers>
+      <speaker>
+        <id>506907</id>
+        <display_name>Preethi Bajaj</display_name>
+        <topic>
+          <title>Panel Discussion on Lock down period - Work life Balance</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229983</id>
+    <title>Realtime Application transportation using Big Data technologies</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Webinar on Big Data Application for Transportation - A case study at the Nebreska Department of transportation&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Webex to join the event&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;https://bit.ly/cs-bigdata&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE CS</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-08 11:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-05-08 12:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>50</ieee_attending>
+    <guests_attending>130</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Y29tcHV0ZXJzQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229983</link>
+    <speakers>
+      <speaker>
+        <id>507775</id>
+        <display_name>Sandeep Singh Rawat</display_name>
+        <topic>
+          <title>Big Data Application for Transportation - A case study at the Nebraska Department</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229977</id>
+    <title>Webinar - Immersive technologies for Aspiring Creative professionals</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;In this Covid 19 .. its important for all professionals to find right jobs and learn emerging technologies&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Registration&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;https://tinyurl.com/cs-plugxr&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Aspiring Technologies</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-09 11:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-05-09 12:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>60</ieee_attending>
+    <guests_attending>100</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Y29tcHV0ZXJzQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229977</link>
+    <speakers>
+      <speaker>
+        <id>507763</id>
+        <display_name>Shivaji Yerra</display_name>
+        <topic>
+          <title>Immersive technologies for Aspiring creative professionals</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229971</id>
+    <title>Post Pandemic opportunities in Emerging Technologies</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Post Pandemic opportunities in Emerging Technologies.&amp;amp;nbsp;During the COVID-19 pandemic, technologies are playing a crucial role in keeping our society functional in a time of lockdowns and quarantines. And these technologies may have a long-lasting impact beyond COVID-19.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Registration link &amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;https://bit.ly/cs-gov&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>COVID 19, IEEE CS</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-09 16:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-05-09 17:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>50</ieee_attending>
+    <guests_attending>160</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Y29tcHV0ZXJzQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229971</link>
+    <speakers>
+      <speaker>
+        <id>507751</id>
+        <display_name>Ramadevi Lanka</display_name>
+        <topic>
+          <title>Post Pandemic opportunities in Emerging Technologies</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>507752</id>
+        <display_name>Raghavendra M</display_name>
+        <topic>
+          <title>Post Pandemic opportunities in Emerging Technologies</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229981</id>
+    <title>Industry Expectation from Young Engineers</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Industry expectations from young engineers&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;https://bit.ly/cs-industry&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE CS</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-10 11:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-05-10 13:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>40</ieee_attending>
+    <guests_attending>90</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Y29tcHV0ZXJzQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229981</link>
+    <speakers>
+      <speaker>
+        <id>507771</id>
+        <display_name>Sreenivasa Ramanujam</display_name>
+        <topic>
+          <title>Industry Expectations From Young Engineers</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229974</id>
+    <title>Webinar - Design Thinking</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Design Thinking&amp;lt;/strong&amp;gt;&amp;amp;nbsp;is a solution-&amp;lt;strong&amp;gt;based&amp;lt;/strong&amp;gt;&amp;amp;nbsp;approach to exploring and solving problems. It focuses on generating ideas with a specific problem in mind, keeping the user at the heart of the process throughout.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;bit.ly/cs-design&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE CS, Design Thinking</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-10 16:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-05-10 17:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>50</ieee_attending>
+    <guests_attending>80</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Y29tcHV0ZXJzQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229974</link>
+    <speakers>
+      <speaker>
+        <id>507757</id>
+        <display_name>Madhu Vadlamani</display_name>
+        <topic>
+          <title>Webinar - Design Thinking</title>
         </topic>
       </speaker>
     </speakers>

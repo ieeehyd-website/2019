@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-05-02 06:41:27 UTC</time_utc>
-  <report>
-    <id>201358</id>
-    <title>5th IEEE HYDERABAD SECTION MEETING, 2019 SLATE</title>
-    <description>
-      <type>HTML</type>
-      <text>&amp;lt;p&amp;gt;This is the fifth meeting of the Section Executive Committee of the 2019 Slate of IEEE Hyderabad Section. Section officers as well as Chapter/AG chairs, chairs of standing committees, and execom of subsections are invited.&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
-    </description>
-    <keywords>Section Execom</keywords>
-    <category>Administrative</category>
-    <location>
-      <city>Hyderabad</city>
-      <state>AND</state>
-      <country>IN</country>
-    </location>
-    <start_time>2019-05-12 09:30:00 Asia/Kolkata</start_time>
-    <end_time>2019-05-12 14:15:00 Asia/Kolkata</end_time>
-    <report_time_zone>Asia/Kolkata</report_time_zone>
-    <ieee_attending>18</ieee_attending>
-    <guests_attending>1</guests_attending>
-    <joint_with_branch>false</joint_with_branch>
-    <cost>false</cost>
-    <primary_unit>
-      <ou_type>SECTION</ou_type>
-      <ou>(section)</ou>
-      <parents>
-        <parent>
-          <type>section</type>
-          <name>HYDERABAD</name>
-        </parent>
-        <parent>
-          <type>region</type>
-          <name>10</name>
-        </parent>
-      </parents>
-    </primary_unit>
-    <cosponsor_name>Bala Prasad Peddigari</cosponsor_name>
-    <contact_email64>YmFsYS5wZWRkaWdhcmlAaWVlZS5vcmc=</contact_email64>
-    <link>http://events.vtools.ieee.org/m/201358</link>
-  </report>
+  <time_utc>2020-05-20 05:44:53 UTC</time_utc>
   <report>
     <id>201359</id>
     <title>6th IEEE HYDERABAD SECTION MEETING, 2019 SLATE</title>
@@ -1563,6 +1524,64 @@ Student Branch Chapters</keywords>
     </speakers>
   </report>
   <report>
+    <id>228193</id>
+    <title>Webinar on Virtual Internship</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Student internships are necessary to learn and apply the learning to&amp;amp;nbsp;deliver tangible and relevant outcomes. In-person internship opportunities&amp;lt;br /&amp;gt;are less in number and have major challenges in scaling such as lesser&amp;amp;nbsp;number of available projects in relevant technologies, inadequate&amp;lt;br /&amp;gt;mentorship during the internship, varying college calendars and others.&amp;amp;nbsp;This webinar aims to acquaint the audience on the intent and benefits and&amp;lt;br /&amp;gt;to make them aware of what they should look for in an Internship. SRIP&amp;amp;nbsp;(Student Remote Internship Program) approach is also presented in this&amp;lt;br /&amp;gt;webinar which focuses on the domain of programming in open source&amp;amp;nbsp;technologies and projects for the internships that are relevant to 2nd and&amp;lt;br /&amp;gt;3rd year engineering college students. It aims to overcome the stated&amp;amp;nbsp;challenges and simultaneously make a contribution to the open source&amp;lt;br /&amp;gt;community. SRIP for interns was implemented on Virtual Labs open&amp;amp;nbsp;source repository which provides support to contribute and develop their&amp;lt;br /&amp;gt;programming skills. In this webinar, experiences with SRIP pilot study will&amp;amp;nbsp;also be presented.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Target Audience: Engineering Students &amp;lt;strong&amp;gt;and&amp;lt;/strong&amp;gt; Faculty&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;WebEx URL:&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;table border=&amp;quot;0&amp;quot; width=&amp;quot;100%&amp;quot; cellspacing=&amp;quot;0&amp;quot; cellpadding=&amp;quot;3&amp;quot;&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td valign=&amp;quot;top&amp;quot; nowrap=&amp;quot;nowrap&amp;quot;&amp;gt;&amp;lt;a id=&amp;quot;m_5567516589115001322gmail-attendeeURL&amp;quot; href=&amp;quot;https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e7a3fd1afc39e6b95cb70ff40715ed420&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot; data-saferedirecturl=&amp;quot;https://www.google.com/url?q=https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID%3De7a3fd1afc39e6b95cb70ff40715ed420&amp;amp;amp;source=gmail&amp;amp;amp;ust=1585726352852000&amp;amp;amp;usg=AFQjCNFG6GMGCNecqyxSUTPRJYkbUKhWHQ&amp;quot;&amp;gt;https://ieeemeetings.webex.&amp;lt;wbr /&amp;gt;com/ieeemeetings/onstage/g.&amp;lt;wbr /&amp;gt;php?MTID=&amp;lt;wbr /&amp;gt;e7a3fd1afc39e6b95cb70ff40715ed&amp;lt;wbr /&amp;gt;420&amp;lt;/a&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</text>
+    </description>
+    <keywords>Internship; Remote Internship; Virtual Internship</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-04 17:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-04 18:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>68</ieee_attending>
+    <guests_attending>210</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SECTION</ou_type>
+      <ou>(section)</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Athota Kavita</cosponsor_name>
+    <contact_email64>YXRob3Rha2F2aXRoYUBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228193</link>
+    <speakers>
+      <speaker>
+        <id>504195</id>
+        <display_name>Lalit Mohan</display_name>
+        <topic>
+          <title>Virtual Internship</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
     <id>229929</id>
     <title>4TH IEEE HYDERABAD SECTION MEETING, 2020 SLATE : Hyderabad Section</title>
     <description>
@@ -1980,5 +1999,127 @@ Volunteering Opportunities</keywords>
         </topic>
       </speaker>
     </speakers>
+  </report>
+  <report>
+    <id>229692</id>
+    <title>How to Patent Your Inventions</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;Greetings from Student Activities Committee(SAC), IEEE Hyderabad Section &amp;amp;amp;&amp;amp;nbsp;IEEE Student Branch JNTUHCEH.&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;We think we have solved the mystery of creation. May be we should patent the universe and charge everyone royalties for their existence.&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;In this quarantine times a free webinar is organised on &amp;quot;How to Patent Your Inventions&amp;quot; by Venkatesh N Immediate Past Chair IEEE-HS, Vice President Advanced Technologies Redpine Signals.&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;A patent provides a right to an inventor(s) to exclude others from exploiting the patented invention. Therefore, other than the inventor cannot use, make or sell the patented invention without permission from the inventor.&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;Speaker:&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;N Venkatesh,&amp;lt;/strong&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;nbsp;&amp;lt;/strong&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;Immediate past chair IEEE HS, Vice President Advanced Technologies Redpine Signals. Mr. Venkatesh has over 28 years of engineering and management experience in wireless system design, telecommunications, optical networking and avionics. Mr. Venkatesh is a key wireless technologist and champions the universal integration of wireless into embedded systems. Mr. Venkatesh holds a Masters Degree in Electrical Engineering from the Indian Institute of Technology, Madras, India.&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;Date :2 May 2020&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;Time : 11 AM - 12 PM&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;p&amp;gt;Kindly register Through this link:&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;a href=&amp;quot;https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=eba4344ec210d90df61d6f97c1a56ceac&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot; data-saferedirecturl=&amp;quot;https://www.google.com/url?q=https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID%3Deba4344ec210d90df61d6f97c1a56ceac&amp;amp;amp;source=gmail&amp;amp;amp;ust=1588315455834000&amp;amp;amp;usg=AFQjCNGLGGGsKhIDMPL3tGVR2k--o57SmA&amp;quot;&amp;gt;https://ieeemeetings.webex.&amp;lt;wbr /&amp;gt;com/ieeemeetings/onstage/g.&amp;lt;wbr /&amp;gt;php?MTID=&amp;lt;wbr /&amp;gt;eba4344ec210d90df61d6f97c1a56c&amp;lt;wbr /&amp;gt;eac&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;Event&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://events.vtools.ieee.org/m/229692&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow noopener&amp;quot;&amp;gt;https://events.vtools.ieee.org/m/229692&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;Poster Link:&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://drive.google.com/open?id=1vFjhBVHu6HUSFR3OM0_mvrNHZGx7nIAw&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;nofollow noopener&amp;quot;&amp;gt;https://drive.google.com/open?id=1vFjhBVHu6HUSFR3OM0_mvrNHZGx7nIAw&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;Thanks &amp;amp;amp; Regards&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;G. Sree Lakshmi&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;Chair SAC&amp;lt;/div&amp;gt;
+&amp;lt;div dir=&amp;quot;ltr&amp;quot;&amp;gt;IEEE Hyderabad Section&amp;lt;/div&amp;gt;</text>
+    </description>
+    <keywords>How to file a patent</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-02 11:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-05-02 12:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>166</ieee_attending>
+    <guests_attending>2</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SECTION</ou_type>
+      <ou>(section)</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>IEEE Student Branch JNTUCH</cosponsor_name>
+    <contact_email64>c2FjQGllZWVoeWQub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229692</link>
+    <speakers>
+      <speaker>
+        <id>507193</id>
+        <display_name>Mr. N. Venkatesh</display_name>
+        <organization>Vice President Advanced Technologies Redpine Signals</organization>
+        <topic>
+          <title>How to Patent Your Inventions</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>229930</id>
+    <title>5TH IEEE HYDERABAD SECTION MEETING, 2020 SLATE : Hyderabad Section</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;5TH IEEE HYDERABAD SECTION MEETING, 2020 SLATE : Hyderabad Section&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Hyderabad Section, IEEE, Section Meeting</keywords>
+    <category>Administrative</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-03 09:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-05-03 13:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>25</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>SECTION</ou_type>
+      <ou>(section)</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Bala Peddigari</cosponsor_name>
+    <contact_email64>YmFsYS5wZWRkaWdhcmlAaWVlZS5vcmc=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229930</link>
   </report>
 </meeting_reports>

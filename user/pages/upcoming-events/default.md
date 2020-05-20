@@ -4,16 +4,11 @@
 ## List of Upcoming Events
 | S.No                     | Event Type                     |               Event Name                        |      Event Date and Time  | Organizing Society         | Contact Email               | Location                   | Event URL       |
 |:-------------------------:| :--------------------------------| :--------------------------- -------------------------------| :------------------------------------------------:              |:--------------------------------| :--------------------------- | :----------------------------|:--------------------------- |
-|1	| Technical |	A Panel Discussion on Lock down Period- Work life Balance    : Hyderabad Section Affinity Group, WIE |	5/2/2020 17:00 |	WIE AG	| <padmasai_y@ieee.org> |	Webinar |	<http://events.vtools.ieee.org/m/229412> |
-|2	| Technical |	A PANEL DISCUSSION ON LOCK DOWN PERIOD- WORK  LIFE BALANCE : Hyderabad Section Chapter, C16 |	5/2/2020 17:00 |	Computer Society	| <compueters@ieeehyd.org> |	Webinar |	<http://events.vtools.ieee.org/m/229549> |
-|3	| Technical |	I-Innovate India's first 1 Million Seconds Non - Stop Online Hackathon : Hyderabad Section |	5/3/2020 10:25 |	Hyderabad Section	| <sac@ieeehyd.org> |	Webinar |	<http://events.vtools.ieee.org/m/229906> |
-|4	| Professional |	PES-Jt.Chapter/ FREE Live Webinar on â€œGas Insulated Substations (GIS) and their Applicationsâ€/on 3-May-2020/ Sunday/ Start Time: 5.30 PM (IST) : Hyderabad Section Jt. Chapter, PE31/IA34/PEL35 |	5/3/2020 17:30 |	PES PELS IAS Joint Chapter	| <rajgopal3e@gmail.com> |	Hackathon |	<http://events.vtools.ieee.org/m/229249> |
-|5	| Humanitarian |	Humanitarian Activities: Experiences and Opportunities toward ICT4SDG : Hyderabad Section |	5/4/2020 16:00 |	Hyderabad Section	| <msuresh@ieee.org> |	Webinar |	<http://events.vtools.ieee.org/m/229658> |
-|6	| Technical |	Webinar: Diversity as a driver of innovation & enterprise success : Hyderabad Section Chapter, TEM14 |	5/5/2020 18:00 |	TEMS Society	| <a.rao@computer.org> |	Webinar |	<http://events.vtools.ieee.org/m/229551> |
-|7	| Professional |	AYP Webinar Series: Industry Phase Shift : Hyderabad Section Affinity Group, YP |	5/9/2020 18:30 |	YP AG	| <vamshikrishnaj@ieee.org> |	Webinar |	<http://events.vtools.ieee.org/m/229850> |
-|8	| Professional |	YP Webinar Series: Is Digital Education a New Reality : Hyderabad Section Affinity Group, YP |	5/10/2020 11:30 |	YP AG	| <vamshikrishnaj@ieee.org> |	Webinar |	<http://events.vtools.ieee.org/m/229851> |
-|9	| Professional |	YP Webinar Series: Young Professionals Sailing Through the Pandemic : Hyderabad Section Affinity Group, YP |	5/10/2020 18:30 |	YP AG	| <vamshikrishnaj@ieee.org> |	Webinar |	<http://events.vtools.ieee.org/m/229852> |
-
-
+|1	| Technical | A Webinar on "Stochastic Considerations in operation of Islanded Microgrids-Optimization Perspective"|	5/20/20 15:00 |	Guntur Subsection	| <swarnasrik@rvrjc.ac.in> | Webinar	 |	<http://events.vtools.ieee.org/m/230871> |
+|2	| Professional | A Webinar on "Human vs Machine Intelligence: The architectural mismatch"  |	5/20/20 16:00 |	Education Scoiety	| <saikumar9@ieee.org> | Webinar |	<http://events.vtools.ieee.org/m/230208> |
+|3	| Professional | AI & Cyber security: Trends, Threats and Opportunities  |	5/20/20 17:30 |	CIS/GRSS Joint Chapter	| <vinitkumargunjan@ieee.org> |	 Webinar |	<http://events.vtools.ieee.org/m/230730> |
+|4	| Professional | "COLLABRO COLLOQUY " A webinar series to emerge , engage and evolve by student network team  | 5/20/20 18:00 |	SAC	| <sac@ieeehyd.org> | Webinar |	<http://events.vtools.ieee.org/m/231095> |
+|5	| Professional | New Challenges in Electricity Distribution and Regulation    |	5/22/20 17:30 |	PES/PELS/IAS Joint Chapter	| <rajgopal3e@gmail.com> | Webinar |	<http://events.vtools.ieee.org/m/230911> |
+|6	| Technical | InfoQuest- Virtual Paper Presentation : RVR & JC College Of Engineering  |	5/27/20 22:00 |	RVR & JC College Of Engineering	| <tripura.pidikiti@gmail.com> | Virtual |	<http://events.vtools.ieee.org/m/231038> |
 
 

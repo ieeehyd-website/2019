@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meeting_reports>
   <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
-  <time_utc>2020-05-02 06:46:32 UTC</time_utc>
+  <time_utc>2020-05-20 05:48:53 UTC</time_utc>
   <report>
     <id>229262</id>
     <title>#LockDownDiaries: Fireside Chat with IEEE Hyderabad Young Professionals</title>
@@ -68,5 +68,100 @@
         </topic>
       </speaker>
     </speakers>
+  </report>
+  <report>
+    <id>229931</id>
+    <title>YP Webinar Series: Robotics &amp; AI {Before &amp; After COVID19}</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE Young Professionals AG - IEEE Hyderabad Section presents one of it&amp;#39;s finest webinar series namely #LockDownDiaries. With varied topics being covered, this webinar exclusively speaks on the&amp;amp;nbsp;&amp;lt;strong&amp;gt;Robotics &amp;amp;amp; AI [Before &amp;amp;amp; After COVID World].&amp;amp;nbsp;&amp;lt;/strong&amp;gt;We thank our panelists who come from various sectors of industry who agreed to be part of this panel.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Register here:&amp;amp;nbsp;&amp;lt;strong&amp;gt;&amp;lt;a href=&amp;quot;https://bit.ly/ypwebinar1&amp;quot;&amp;gt;https://bit.ly/ypwebinar1&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Panel Chair:&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Kisshhan PSV -&amp;amp;nbsp;Founder &amp;amp;amp; CEO,&amp;amp;nbsp;&amp;lt;strong&amp;gt;H-Bots&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Panelists:&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;1) Smt. Rama Devi L,&amp;amp;nbsp;&amp;lt;/strong&amp;gt;OSD-ITE&amp;amp;amp;C, &amp;lt;strong&amp;gt;Government of Telangana&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;2) Harshitha P,&amp;amp;nbsp;&amp;lt;/strong&amp;gt;CoFounder,&amp;amp;nbsp;&amp;lt;strong&amp;gt;H-Labs Ai&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;3)&amp;amp;nbsp;&amp;lt;/strong&amp;gt;&amp;lt;strong&amp;gt;Tata Teja,&amp;amp;nbsp;&amp;lt;/strong&amp;gt;Information Technology Specialist -&amp;amp;nbsp;&amp;lt;strong&amp;gt;Startup Hyderabad&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;4) Madhu V -&amp;amp;nbsp;&amp;lt;/strong&amp;gt;Consultant - Digital Practices &amp;amp;amp; &amp;lt;strong&amp;gt;Ex-Kony Labs&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Robotics, AI, Machine Learning, COVID19</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad [Online Meetup]</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-09 11:30:00 Asia/Kolkata</start_time>
+    <end_time>2020-05-09 13:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>187</ieee_attending>
+    <guests_attending>491</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>AFFINITY</ou_type>
+      <ou>YOUNG PROFESSIONALS</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>dmFtc2hpa3Jpc2huYWpAaWVlZS5vcmc=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229931</link>
+  </report>
+  <report>
+    <id>229850</id>
+    <title>YP Webinar Series: Industry Phase Shift</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE Young Professionals AG - IEEE Hyderabad Section presents one of it&amp;#39;s finest webinar series namely #LockDownDiaries. With varied topics being coverered, this webinar exclusively speaks on the&amp;amp;nbsp;&amp;lt;strong&amp;gt;Industry Phase Shift {Post COVID World}.&amp;amp;nbsp;&amp;lt;/strong&amp;gt;We thank our panelists who come from various sectors of industry namely IT/ITES, HealthTech, TeleCommunications &amp;amp;amp; IoT Space.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Panel Chair: N Venkatesh -&amp;amp;nbsp;&amp;lt;strong&amp;gt;Redpines Signals / Silicon Labs&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Panelists:&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;1)&amp;amp;nbsp;&amp;lt;/strong&amp;gt;Aditya Rao -&amp;amp;nbsp; Director of Platform Engineering -&amp;amp;nbsp;&amp;lt;strong&amp;gt;ServiceNow&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;2)&amp;amp;nbsp;&amp;lt;/strong&amp;gt;Amit Kumar -&amp;amp;nbsp; Founder &amp;amp;amp; Chairman -&amp;amp;nbsp;&amp;lt;strong&amp;gt;BioAxis DNA Research Centre&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;3)&amp;amp;nbsp;&amp;lt;/strong&amp;gt;Manish Kothari - Vice President - Engineering -&amp;amp;nbsp;&amp;lt;strong&amp;gt;Qualcomm&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Register here:&amp;amp;nbsp;&amp;lt;a href=&amp;quot;https://bit.ly/ypwebinar2&amp;quot;&amp;gt;https://bit.ly/ypwebinar2&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Healthtech, IoT, IT/ITES, Engineering, Telecommunication</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderaabad(Online-Meetup)</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-09 18:30:00 Asia/Kolkata</start_time>
+    <end_time>2020-05-09 20:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>66</ieee_attending>
+    <guests_attending>114</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>AFFINITY</ou_type>
+      <ou>YOUNG PROFESSIONALS</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>dmFtc2hpa3Jpc2huYWpAaWVlZS5vcmc=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/229850</link>
   </report>
 </meeting_reports>
