@@ -2,11 +2,9 @@
 ---
 
 ## List of Upcoming Events
-| S.No                     | Event Type                     |               Event Name                        |      Event Date and Time  | Organizing Society         | Contact Email               | Location                   | Event URL       |
+| S.No                     | Event Type                     |               Event Name                        |      Event Date and Time  | Organizing Unit       | Contact Email               | Event URL       |
 |:-------------------------:| :--------------------------------| :--------------------------- -------------------------------| :------------------------------------------------:              |:--------------------------------| :--------------------------- | :----------------------------|:--------------------------- |
-|1	| Technical | A Webinar on "Stochastic Considerations in operation of Islanded Microgrids-Optimization Perspective"|	5/20/20 15:00 |	Guntur Subsection	| <swarnasrik@rvrjc.ac.in> | Webinar	 |	<http://events.vtools.ieee.org/m/230871> |
-|2	| Professional | A Webinar on "Human vs Machine Intelligence: The architectural mismatch"  |	5/20/20 16:00 |	Education Scoiety	| <saikumar9@ieee.org> | Webinar |	<http://events.vtools.ieee.org/m/230208> |
-|3	| Professional | AI & Cyber security: Trends, Threats and Opportunities  |	5/20/20 17:30 |	CIS/GRSS Joint Chapter	| <vinitkumargunjan@ieee.org> |	 Webinar |	<http://events.vtools.ieee.org/m/230730> |
-|4	| Professional | "COLLABRO COLLOQUY " A webinar series to emerge , engage and evolve by student network team  | 5/20/20 18:00 |	SAC	| <sac@ieeehyd.org> | Webinar |	<http://events.vtools.ieee.org/m/231095> |
-|5	| Professional | New Challenges in Electricity Distribution and Regulation    |	5/22/20 17:30 |	PES/PELS/IAS Joint Chapter	| <rajgopal3e@gmail.com> | Webinar |	<http://events.vtools.ieee.org/m/230911> |
-|6	| Technical | InfoQuest- Virtual Paper Presentation : RVR & JC College Of Engineering  |	5/27/20 22:00 |	RVR & JC College Of Engineering	| <tripura.pidikiti@gmail.com> | Virtual |	<http://events.vtools.ieee.org/m/231038> |
+|1	| Professional | A Webinar on "IEEE EA Resources and Opportunities"|	5/27/20 17:00 |	Hyderabad Section Chapter, E25	| <saikumar9@ieee.org> |	<http://events.vtools.ieee.org/m/231482> |
+|2	| Professional |  Inaugural of WIE AG followed by a talk on Benefits of Women in Engineering Affinity Group  |	5/28/20 10:00 |	Hyderabad Section Affinity Group, WIE	| <padmasai_y@ieee.org> |	<http://events.vtools.ieee.org/m/231535> |
+|3	| Professional | Dynamic multi-objective optimization: challenges and opportunities | 5/29/20 11:30 |	Hyderabad Section Jt. Chapter, CIS11/GRS29	| <vinitkumargunjan@ieee.org> |	<http://events.vtools.ieee.org/m/231472> |
+|4	| Professional | PES-Jt. Chapter/ FREE Webinar/ an Interactive Session on India Opportunities for Capability Building for Solid State Transformers (SSTs) and other New Power Electronic Technologies  | 5/30/20 18:30 |	Hyderabad Section Jt. Chapter, PE31/IA34/PEL35	| <rajgopal3e@gmail.com> |	<http://events.vtools.ieee.org/m/231481> |

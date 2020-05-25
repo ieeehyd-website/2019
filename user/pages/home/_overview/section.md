@@ -5,6 +5,26 @@
         </a>
     </div>
     <p><center>Click on the image to visit IEEE HYDCON-2020</center></p>
+</div>
+<div class="container">
+    <div class="d-flex flex-wrap justify-content-around align-items-center logos">
+        <a href="https://www.facebook.com/ieeehyderabad/">
+            <img src="/user/img/logos/facebook1.png">
+        </a>
+        <a href="https://instagram.com/ieeehyderabad/">
+            <img src="/user/img/logos/instagram1.png">
+        </a>
+        <a href="https://twitter.com/ieeehyderabad/">
+            <img src="/user/img/logos/twitter1.png">
+        </a>
+        <a href="https://www.linkedin.com/company/ieeehyderabad">
+            <img src="/user/img/logos/linkedin1.png">
+        </a>
+        <a href="https://www.youtube.com/channel/UC7MexxNEp527EcVjGx-8Zdg">
+            <img src="/user/img/logos/youtube1.png">
+        </a>
+    </div>
+    <p><center>Click on the respective image to visit the website</center></p>
     <div class="d-flex flex-wrap justify-content-around align-items-right">
         <a href="http://ieeecovidmove.in/">
             <img style="clear: right;" alt="" src="/user/img/logos/ieee_covid_move.png" >
