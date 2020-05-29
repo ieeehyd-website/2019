@@ -37,7 +37,7 @@ function loadXMLDoc() {
       myFunction(this);
     }
   };
-  xmlhttps.open("GET","/user/docs/section/ieee-hyderabad-section/hyderabad_section.xml", false);
+  xmlhttps.open("GET","https://cors-anywhere.herokuapp.com/https://events.vtools.ieee.org/reports/xml/-365/0/asc/10/HYDERABAD/(section)", false);
   xmlhttps.send();
 }
 var month_name = function(dt){

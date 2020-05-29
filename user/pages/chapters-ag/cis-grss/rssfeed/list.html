@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
-    <head>2019 SEC Minutes</head>
+    <head>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
 <style>
     
 table,th,td {
@@ -32,7 +34,7 @@ function loadXMLDoc() {
       myFunction(this);
     }
   };
-  xmlhttps.open("GET","/user/docs/chapters-ag/cis-grss/cis_grss.xml", false);
+  xmlhttps.open("GET","https://cors-anywhere.herokuapp.com/https://events.vtools.ieee.org/reports/xml/-365/0/asc/10/HYDERABAD/CIS11~GRS29", false);
   xmlhttps.setRequestHeader('Content-Type','application/xml');
   xmlhttps.send();
 }

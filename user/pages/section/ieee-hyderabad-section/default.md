@@ -8,7 +8,7 @@
 | Designation                     | Name                       | Organisation                   | E-mail                          | Membership No |
 | ------------------------| -------------------------- | ------------------------------ | ------------------------------- | ------------- |
 | Chair                | 	Amit Kumar              | BioAxis DNA Res Centre (P) Ltd	               | amitkr@ieee.org             | SM 90732008  |
-| Vice Chair           | S Lakshmi Narayana	            | CSIR (Retd.)	 | slnvizag@gmail.com                 | SM 80536573 |
+| Vice Chair           |   |	 |          | |
 | Secretary            | Bala Prasad Peddigari      | TCS, Hyderabad                 | bala.peddigari@ieee.org         | SM 90578910   |
 | Treasurer            | Nookala Srinivasa Rao      | Mathrusri Engg College         | srinivasa.nookala@gmail.com     | SM 85017068   |
 | Member               | Mohammed Arifuddin Sohel	 | M J CET, Hyderabad	         | arif.sohel@gmail.com             | SM 90871309   |

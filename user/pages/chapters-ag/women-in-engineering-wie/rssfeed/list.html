@@ -37,7 +37,7 @@ function loadXMLDoc() {
       myFunction(this);
     }
   };
-  xmlhttps.open("GET","/user/docs/chapters-ag/women-in-engineering/women_in_engineering.xml", false);
+  xmlhttps.open("GET","https://cors-anywhere.herokuapp.com/https://events.vtools.ieee.org/reports/xml/-365/0/asc/10/HYDERABAD/WOMEN%20IN%20ENGINEERING", false);
   xmlhttps.setRequestHeader('Content-Type','application/xml');
   xmlhttps.send();
 }

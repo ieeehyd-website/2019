@@ -37,7 +37,7 @@ function loadXMLDoc() {
       myFunction(this);
     }
   };
-  xmlhttps.open("GET","/user/docs/chapters-ag/education-society/education.xml", false);
+  xmlhttps.open("GET","https://cors-anywhere.herokuapp.com/https://events.vtools.ieee.org/reports/xml/-365/0/asc/10/HYDERABAD/E25", false);
   xmlhttps.setRequestHeader('Content-Type','application/xml');
   xmlhttps.send();
 }
