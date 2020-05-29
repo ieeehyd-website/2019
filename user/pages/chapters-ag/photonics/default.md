@@ -17,5 +17,4 @@ IEEE Photonics Society members are dedicated to transforming breakthroughs in qu
 ---
 ## Events
 
-Coming Soon!
-<!-- [List of Events](rssfeed/list.html) -->
+[List of Events](rssfeed/list.html)

@@ -1,36 +1,35 @@
 <div class="container">
-    <div class="d-flex flex-wrap justify-content-around align-items-left">
-        <a href="http://ieeehydcon.org/">
-            <img style="clear: left;" alt="" src="/user/img/logos/gold.png">
-        </a>
-    </div>
-    <p><center>Click on the image to visit IEEE HYDCON-2020</center></p>
+<span style="float:right;"> 
+    <a href="https://www.facebook.com/ieeehyderabad/">
+        <img src="/user/img/logos/facebook_logo.png" style="width:45px;"> &nbsp;&nbsp;
+    <a href="https://instagram.com/ieeehyderabad/">
+        <img src="/user/img/logos/instagram_logo.png" style="width:40px;">&nbsp;&nbsp;
+    </a>
+    <a href="https://twitter.com/ieeehyderabad/">
+        <img src="/user/img/logos/twitter_logo.png" style="width:35px;">&nbsp;&nbsp;
+    </a>
+    <a href="https://www.linkedin.com/company/ieeehyderabad">
+        <img src="/user/img/logos/linkedin_logo.png" style="width:40px;">&nbsp;&nbsp;
+    </a>
+    <a href="https://www.youtube.com/channel/UC7MexxNEp527EcVjGx-8Zdg">
+        <img src="/user/img/logos/youtube_logo.png" style="width:45px;">
+    </a>
+</span>
+    
 </div>
+
 <div class="container">
-    <div class="d-flex flex-wrap justify-content-around align-items-center logos">
-        <a href="https://www.facebook.com/ieeehyderabad/">
-            <img src="/user/img/logos/facebook1.png">
+    <div class="d-flex flex-wrap justify-content-around align-items-center"> 
+     <a href="http://ieeehydcon.org/">
+            <img style="float:center;width:115px" alt="" src="/user/img/logos/gold.png">
+           <p> <center>Visit IEEE HYDCON-2020</center></p>
         </a>
-        <a href="https://instagram.com/ieeehyderabad/">
-            <img src="/user/img/logos/instagram1.png">
-        </a>
-        <a href="https://twitter.com/ieeehyderabad/">
-            <img src="/user/img/logos/twitter1.png">
-        </a>
-        <a href="https://www.linkedin.com/company/ieeehyderabad">
-            <img src="/user/img/logos/linkedin1.png">
-        </a>
-        <a href="https://www.youtube.com/channel/UC7MexxNEp527EcVjGx-8Zdg">
-            <img src="/user/img/logos/youtube1.png">
-        </a>
-    </div>
-    <p><center>Click on the respective image to visit the website</center></p>
-    <div class="d-flex flex-wrap justify-content-around align-items-right">
         <a href="http://ieeecovidmove.in/">
-            <img style="clear: right;" alt="" src="/user/img/logos/ieee_covid_move.png" >
+            <img style="float: center;width:300px" alt="" src="/user/img/logos/ieee_covid_move.png" >
+            <p><center>Visit IEEE CovidMove website</center></p>
         </a>
     </div>
-    <center>Click on the image to visit IEEE CovidMove website</center> 
+     
 </div>
 
 ---
