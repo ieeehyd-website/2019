@@ -6,5 +6,6 @@ content:
         dir: asc
         custom:
             - _intro
+            - _top_references
             - _overview
 ---
