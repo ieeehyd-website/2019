@@ -8,13 +8,14 @@
 | Designation                     | Name                       | Organisation                   | E-mail                          | Membership No |
 | ------------------------| -------------------------- | ------------------------------ | ------------------------------- | ------------- |
 | Chair                | 	Amit Kumar              | BioAxis DNA Res Centre (P) Ltd	               | amitkr@ieee.org             | SM 90732008  |
-| Vice Chair           |   |	 |          | |
 | Secretary            | Bala Prasad Peddigari      | TCS, Hyderabad                 | bala.peddigari@ieee.org         | SM 90578910   |
 | Treasurer            | Nookala Srinivasa Rao      | Mathrusri Engg College         | srinivasa.nookala@gmail.com     | SM 85017068   |
 | Member               | Mohammed Arifuddin Sohel	 | M J CET, Hyderabad	         | arif.sohel@gmail.com             | SM 90871309   |
 | Member               | Sreenivas Jasti            | TCS, Hyderabaad                | sreenivas.jasti@ieee.org        | SM 41250549   |
 | Member               | Gopala Krishna Kuppa       | Consultant                     | gopalakrishna.kuppa.2005@ieee.org | SM 80168118    |
 | Immediate Past Chair  | N Venkatesh	        | 	Redpine Signals        | nvenkatesh@ieee.org            | SM 41506407   |
+
+*Vice Chair - Temporarity Vacant / Vice Chair of Hyderabad Section has taken over as Chair of Vizag Bay Section (Newly formed on February 15, 2020).
 
 [IEEE Hyderabad Section Revised Slate 2020](/user/docs/section/execom/2020/ieee_hyderabad_section_slate_2020.pdf)
 
