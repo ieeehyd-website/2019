@@ -3,7 +3,6 @@
 {% include 'partials/head.html.twig' %}
 <body>
   {% include 'partials/navigation.html.twig' %}
-  {% include 'partials/references.html.twig' %}
   {% for module in page.collection() %}
     {{ module.content }}
   {% endfor %}
