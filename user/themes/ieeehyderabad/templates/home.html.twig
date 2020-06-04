@@ -2,6 +2,7 @@
 <html lang="en">
 {% include 'partials/head.html.twig' %}
 <body>
+  {% include 'partials/references.html.twig' %}
   {% include 'partials/navigation.html.twig' %}
   {% for module in page.collection() %}
     {{ module.content }}
