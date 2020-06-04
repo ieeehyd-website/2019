@@ -119,4 +119,27 @@
     background-color: #f5f5f5;
 }
 
+#nav1{
+    height: auto;
+    padding: auto;
+      }
+#nav1{
+        background-color: #36454f ;
+      }
 
+#nav1 ul{
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+      }
+
+#nav1 ul li{
+          float: left;
+      }
+
+#nav1 {
+          display: block;
+          padding: 1px 36.6px;
+          text-decoration: none;
+      }
