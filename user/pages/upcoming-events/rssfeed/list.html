@@ -49,19 +49,22 @@ function myFunction(xml) {
   var xmlDoc = xml.responseXML;
   var table="<tr class="+"text-center"+" style="+"height:10px;"+"><th align=center><h4>S.No.<h4></th><th align="+"left"+"><h4>Title<h4></th><th><h4>Date</h4></th><th align="+"left"+"><h4>OU<h4></th</tr>";
   var x = xmlDoc.getElementsByTagName("meeting");
-  var day=new Array(x.length)
+  var day={}
+  var ou={}
   var title=new Array(x.length)
   var count=1;
+  var links={};
   for(i=0;i<x.length;i++){
-     day[i]=x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(8,10);
-     title[i]=x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue;
+     day[x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(8,10)]=x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue;
+     ou[x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue]=x[i].getElementsByTagName("primary_unit")[0].getElementsByTagName("ou")[0].childNodes[0].nodeValue;
+     links[x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue]="https://events.vtools.ieee.org/m/"+x[i].getElementsByTagName("link")[0].childNodes[0].nodeValue.slice(44,50);
   }
-  console.log(day.sort())
+  sort_day=Object.keys(day).sort();
   for (i = x.length-1; i>=0; i--) { 
   
     table += "<tr><td align=center>"+ count +"</td><td> <a href=" +
-    x[i].getElementsByTagName("link")[0].childNodes[0].nodeValue +
-    ">"+title[i]+"</a></td>"+"<td width=12%>"+ day[i]+"-"+ month_name(new Date(x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(0,10)))+"-"+x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(0,4)+"</td><td>"+x[i].getElementsByTagName("primary_unit")[0].getElementsByTagName("ou")[0].childNodes[0].nodeValue+"</td></tr>";
+      links[day[sort_day[i]]]+
+    ">"+day[sort_day[i]]+"</a></td>"+"<td width=12%>"+ sort_day[i]+"-"+ month_name(new Date(x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(0,10)))+"-"+x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(0,4)+"</td><td>"+ou[day[sort_day[i]]]+"</td></tr>";
     count++;
   }
   document.getElementById("demo").innerHTML = table;
