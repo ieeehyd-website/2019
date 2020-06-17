@@ -3,8 +3,8 @@
     <head>
         
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-</script>
+       
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     </head>
 <style>
     
@@ -44,6 +44,7 @@ var month_name = function(dt){
 mlist = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ];
   return mlist[dt.getMonth()];
 };
+
 function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
@@ -54,17 +55,30 @@ function myFunction(xml) {
   var title=new Array(x.length)
   var count=1;
   var links={};
+  var title;
+
   for(i=0;i<x.length;i++){
-     day[x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(8,10)]=x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-     ou[x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue]=x[i].getElementsByTagName("primary_unit")[0].getElementsByTagName("ou")[0].childNodes[0].nodeValue;
-     links[x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue]="https://events.vtools.ieee.org/m/"+x[i].getElementsByTagName("link")[0].childNodes[0].nodeValue.slice(44,50);
+     title[x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue]=x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue;
+     day[x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue]=x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(8,10);
+     ou[x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue]=x[i].getElementsByTagName("primary_unit")[0].getElementsByTagName("ou")[0].childNodes[0].nodeValue;
+     
+     links[x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue]="https://events.vtools.ieee.org/m/"+x[i].getElementsByTagName("link")[0].childNodes[0].nodeValue.slice(44,50);
+
   }
-  sort_day=Object.keys(day).sort();
+  var sort_day=Object.keys(day).map(function(key) {
+        return [day[key],key];
+    });
+    sort_day.sort()
+ 
+
   for (i = x.length-1; i>=0; i--) { 
-  
+   var link=links[sort_day[i][1]]
+   var  titles=title[sort_day[i][1]]
+   var ous=ou[sort_day[i][1]]
+   var days=day[sort_day[i][1]]
     table += "<tr><td align=center>"+ count +"</td><td> <a href=" +
-      links[day[sort_day[i]]]+
-    ">"+day[sort_day[i]]+"</a></td>"+"<td width=12%>"+ sort_day[i]+"-"+ month_name(new Date(x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(0,10)))+"-"+x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(0,4)+"</td><td>"+ou[day[sort_day[i]]]+"</td></tr>";
+      link+
+    ">"+titles+"</a></td>"+"<td width=12%>"+ days+"-"+ month_name(new Date(x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(0,10)))+"-"+x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(0,4)+"</td><td>"+ous+"</td></tr>";
     count++;
   }
   document.getElementById("demo").innerHTML = table;
