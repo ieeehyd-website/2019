@@ -88,9 +88,7 @@ Richard E Merwin Scholarship Awards in 2019.
 
 4.      Madhuri Patnam Jayamukhi Institute of Technology and sciences
 
-5.      Sai Prashant, Vardhaman College of Engineering
-
-6.      Ramya Sri, MVSR College of Engineering
+5.      Ramya Sri, MVSR College of Engineering
 
 **April 2019**
 1.      Ankita Gudla, VNRVJIET
