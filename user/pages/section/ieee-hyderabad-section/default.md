@@ -77,7 +77,7 @@ IEEE Hyderabad Section was proud to receive the following Awards for continued V
 - IEEE Signal Processing Society 2019 Chapter of the Year Award
 - PES High Performance Chapter Program
 
-###Richard E Merwin Scholarship Awards in 2019.
+###Richard E Merwin Scholarship Awards in 2019
 
 **January 2020**
 1.      Chakravathy Srinivas, VNR VJIET
