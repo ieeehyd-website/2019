@@ -8,6 +8,7 @@
 | Designation                     | Name                       | Organisation                   | E-mail                          | Membership No |
 | ------------------------| -------------------------- | ------------------------------ | ------------------------------- | ------------- |
 | Chair                | 	Amit Kumar              | BioAxis DNA Res Centre (P) Ltd	               | amitkr@ieee.org             | SM 90732008  |
+| Vice Chair *	                | 	Lakshminarayana Sadasivuni	              | CSIR (Retd.)		               | sln@ieee.org             | SM 80536573  |
 | Secretary            | Bala Prasad Peddigari      | TCS, Hyderabad                 | bala.peddigari@ieee.org         | SM 90578910   |
 | Treasurer            | Nookala Srinivasa Rao      | Mathrusri Engg College         | srinivasa.nookala@gmail.com     | SM 85017068   |
 | Member               | Mohammed Arifuddin Sohel	 | M J CET, Hyderabad	         | arif.sohel@gmail.com             | SM 90871309   |
@@ -15,7 +16,7 @@
 | Member               | Gopala Krishna Kuppa       | Consultant                     | gopalakrishna.kuppa.2005@ieee.org | SM 80168118    |
 | Immediate Past Chair  | N Venkatesh	        | 	Redpine Signals        | nvenkatesh@ieee.org            | SM 41506407   |
 
-*Vice Chair - Temporarity Vacant / Vice Chair of Hyderabad Section has taken over as Chair of Vizag Bay Section (Newly formed on February 15, 2020).
+*Vizag Bay Subsection Elevated as a Full Section on February 15, 2020. Current Vice-Chair of IEEE Hyderabad Section is also Chair of IEEE Vizag Bay Section.
 
 [IEEE Hyderabad Section Revised Slate 2020](/user/docs/section/execom/2020/ieee_hyderabad_section_slate_2020.pdf)
 
@@ -68,16 +69,15 @@ IEEE Hyderabad Section was proud to receive the following Awards for continued V
 
 ##Following Awards received by Section in 2019
 
-India Council Section Chair Lifetime Achievement Award 2019 – NV Rao
-2019 IEEE Outstanding Branch Counselor and Advisor Award – Arifuddin Sohel
-2019 MGA Young Professionals Achievement Award – Vamsi Krishna J
-India Council Outstanding Student Volunteer Award 2019:
-Sai Prashant (Vardhaman)
-IEEE Hyderabad Section received highest grant of 5000 USD for 2019 R10 Section Incentives - activities from Nov 2018 - Oct 2019
-IEEE Signal Processing Society 2019 Chapter of the Year Award
-PES High Performance Chapter Program
-Richard E Merwin Scholarship Awards in 2019.
+- India Council Section Chair Lifetime Achievement Award 2019 – NV Rao
+- 2019 IEEE Outstanding Branch Counselor and Advisor Award – Arifuddin Sohel
+- 2019 MGA Young Professionals Achievement Award – Vamsi Krishna J
+- India Council Outstanding Student Volunteer Award 2019 - Sai Prashant (Vardhaman)
+- IEEE Hyderabad Section received highest grant of 5000 USD for 2019 R10 Section Incentives - activities from Nov 2018 - Oct 2019
+- IEEE Signal Processing Society 2019 Chapter of the Year Award
+- PES High Performance Chapter Program
 
+###Richard E Merwin Scholarship Awards in 2019
 
 **January 2020**
 1.      Chakravathy Srinivas, VNR VJIET
@@ -88,9 +88,7 @@ Richard E Merwin Scholarship Awards in 2019.
 
 4.      Madhuri Patnam Jayamukhi Institute of Technology and sciences
 
-5.      Sai Prashant, Vardhaman College of Engineering
-
-6.      Ramya Sri, MVSR College of Engineering
+5.      Ramya Sri, MVSR College of Engineering
 
 **April 2019**
 1.      Ankita Gudla, VNRVJIET
