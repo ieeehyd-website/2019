@@ -48,9 +48,10 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 | Immediate Past Chair | M Naresh Kumar               | NRSC                | nareshm@ieee.org           | SM 92101512   |
 
 
+## CIS Summer School Event
 
+**Announcement:** "IEEE CIS Summer School on Emerging Research Trends in Computational Intelligence: Theory and Applications on November 26-30, 2020" [(Virtual event)](http://events.iiti.ac.in/ieee-cis-summer-school/main) hosted by IIT Indore in collaboration with IEEE Hyderbad Section and IEEE Bombay Section.
 ## Pre-College Materials
----
 
 The CIS Pre-College Activities Subcommittee has prepared some CI-related introductory materials, which may be helpful for you to promote your activities for pre-college students and industry members. There are two packages, including the Artificial Neural Networks pack and Fuzzy Logic pack. You can find more details below:
 
