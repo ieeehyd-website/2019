@@ -36,9 +36,9 @@
 
 # Overview
 ---
-**Section Chairman (2020)**: Amit Kumar   
+**Section Chairman (2021)**: Sreenivas Jasti   
 **Year Started**: 1984  
-**Current Member Strength**: 3238+  
+**Current Member Strength**: 4066+  
 
 ## Vision
 

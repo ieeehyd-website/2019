@@ -7,18 +7,19 @@
 
 | Designation                     | Name                       | Organisation                   | E-mail                          | Membership No |
 | ------------------------| -------------------------- | ------------------------------ | ------------------------------- | ------------- |
-| Chair                | 	Amit Kumar              | BioAxis DNA Res Centre (P) Ltd	               | amitkr@ieee.org             | SM 90732008  |
-| Vice Chair *	                | 	Lakshminarayana Sadasivuni	              | CSIR (Retd.)		               | sln@ieee.org             | SM 80536573  |
-| Secretary            | Bala Prasad Peddigari      | TCS, Hyderabad                 | bala.peddigari@ieee.org         | SM 90578910   |
-| Treasurer            | Nookala Srinivasa Rao      | Mathrusri Engg College         | srinivasa.nookala@gmail.com     | SM 85017068   |
-| Member               | Mohammed Arifuddin Sohel	 | M J CET, Hyderabad	         | arif.sohel@gmail.com             | SM 90871309   |
-| Member               | Sreenivas Jasti            | TCS, Hyderabaad                | sreenivas.jasti@ieee.org        | SM 41250549   |
-| Member               | Gopala Krishna Kuppa       | Consultant                     | gopalakrishna.kuppa.2005@ieee.org | SM 80168118    |
-| Immediate Past Chair  | N Venkatesh	        | 	Redpine Signals        | nvenkatesh@ieee.org            | SM 41506407   |
+| Chair                | 	Sreenivas Jasti	              | TCS, Hyderabaad		               | sreenivas.jasti@ieee.org             | SM 41250549  |
+| Vice Chair 	                | 	R Balasubramaniam		              | GNITS, Hyderabad			               | rbmanian47@gmail.com            | LSM 7600737  |
+| Secretary            | Arifuddin Sohel 	      | M J CET, Hyderabad	                 | arif.sohel@gmail.com        | SM 90871309   |
+| Treasurer            | Bala Prasad Peddigari      | TCS, Hyderabad                 | bala.peddigari@ieee.org         | SM 90578910   |
+|  Member           | D V S S Siva Sarma  	      | NIT Warangal	         | sivasarma@gmail.com     | SM 41597317   |
+|  Member           | Nookala Srinivasa Rao      | Mathrusri Engg College         | srinivasa.nookala@gmail.com     | SM 85017068   |
+| Member               | Rajagopalan Kannan	 | BHEL R&D (Retd.)		         | bhelkannan@gmail.com             | SM 40159914   |
+| Additional Secretary (non-voting)	               | Vinit Gunjan 		 | CMRIT		         | vinitkumargunjan@gmail.com             | SM 92020956   |
+| Additional Secretary (non-voting)	               | Jose Reddypogu	 		 | TCS		         | jose.reddypogu@tcs.com             | M 91129303   |
+| Immediate Past Chair  | Amit Kumar	        | 	BioAxis DNA Res Centre (P) Ltd	        | amitkr@ieee.org           | SM 90732008   |
 
-*Vizag Bay Subsection Elevated as a Full Section on February 15, 2020. Current Vice-Chair of IEEE Hyderabad Section is also Chair of IEEE Vizag Bay Section.
 
-[IEEE Hyderabad Section Revised Slate 2020](/user/docs/section/execom/2020/ieee_hyderabad_section_slate_2020.pdf)
+[IEEE Hyderabad Section Revised Slate 2021](/user/docs/section/execom/2021/ieee_hyderabad_section_slate_2021_v6.pdf)
 
 
 ## Future Directions Committee
